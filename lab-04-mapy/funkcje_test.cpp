@@ -13,7 +13,7 @@ using namespace std;
 namespace {
 
 TEST(WczytajStudentowTest, WczytujePoprawnie) {
-    stringstream wejście{
+    stringstream wejscie{
         R"(Eryk    Klimek  903072088
 Henryk  Wozniak 682759817
 )"};
@@ -21,12 +21,12 @@ Henryk  Wozniak 682759817
         {903072088, {.imie = "Eryk", .nazwisko = "Klimek"}},
         {682759817, {.imie = "Henryk", .nazwisko = "Wozniak"}},
     };
-    map<int, Student> wynik = wczytaj_studentow(wejście);
+    map<int, Student> wynik = wczytaj_studentow(wejscie);
     ASSERT_EQ(wynik.size(), oczekiwane.size());
     for (const auto& [klucz, student] : wynik) {
         ASSERT_EQ(student.imie, oczekiwane[klucz].imie);
         ASSERT_EQ(student.nazwisko, oczekiwane[klucz].nazwisko);
-        ASSERT_EQ(student.oceny_z_przedmiotów, oczekiwane[klucz].oceny_z_przedmiotów);
+        ASSERT_EQ(student.oceny_z_przedmiotow, oczekiwane[klucz].oceny_z_przedmiotow);
     }
 }
 
@@ -54,11 +54,11 @@ TEST(WczytajOcenyTest, WczytujePoprawnie) {
     for (const auto& [klucz, student] : studenci) {
         ASSERT_EQ(student.imie, oczekiwane[klucz].imie);
         ASSERT_EQ(student.nazwisko, oczekiwane[klucz].nazwisko);
-        ASSERT_EQ(student.oceny_z_przedmiotów, oczekiwane[klucz].oceny_z_przedmiotów);
+        ASSERT_EQ(student.oceny_z_przedmiotow, oczekiwane[klucz].oceny_z_przedmiotow);
     }
 }
 
-TEST(WyznaczNajpopularniejszeImieTest, DziałaPoprawnie) {
+TEST(WyznaczNajpopularniejszeImieTest, DzialaPoprawnie) {
     map<int, Student> studenci = {
         {903, {.imie = "Eryk", .nazwisko = "Klimek"}},
         {682, {.imie = "Henryk", .nazwisko = "Wozniak"}},
@@ -67,7 +67,7 @@ TEST(WyznaczNajpopularniejszeImieTest, DziałaPoprawnie) {
     ASSERT_EQ(wyznacz_najpopularniejsze_imie(studenci), "Eryk");
 }
 
-TEST(WyznaczNajpopularniejszeNazwiskoTest, DziałaPoprawnie) {
+TEST(WyznaczNajpopularniejszeNazwiskoTest, DzialaPoprawnie) {
     map<int, Student> studenci = {
         {903, {.imie = "Eryk", .nazwisko = "Klimek"}},
         {682, {.imie = "Henryk", .nazwisko = "Wozniak"}},
@@ -98,7 +98,7 @@ TEST(WypiszStudentowZOcenamiTest, WypisujePoprawnie) {
     ASSERT_EQ(wynik.str(), oczekiwane);
 }
 
-TEST(PoliczStudentowBezOcenTest, DziałaPoprawnie) {
+TEST(PoliczStudentowBezOcenTest, DzialaPoprawnie) {
   map<int, Student> studenci = {
     {903, {"Eryk", "Klimek", {}}},
     {682,

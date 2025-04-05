@@ -10,26 +10,26 @@
 
 using namespace std;
 
-static void zgłoś_błąd(const string& nazwa_pliku) {
+static void zglos_blad(const string& nazwa_pliku) {
     cerr << "Nie udało się otworzyć pliku " << nazwa_pliku << endl;
     cerr << "Przyczyna: " << strerror(errno) << endl;
     exit(1);
 }
 
-static ifstream otwórz_plik_do_odczytu(const string& nazwa_pliku) {
-    auto plik = ifstream(nazwa_pliku);
-    if (!plik) {
-        zgłoś_błąd(nazwa_pliku);
+static ifstream otworz_plik_do_odczytu(const string& nazwa_pliku) {
+    auto strumien = ifstream(nazwa_pliku);
+    if (!strumien) {
+        zglos_blad(nazwa_pliku);
     }
-    return plik;
+    return strumien;
 }
 
-static ofstream otwórz_plik_do_zapisu(const string& nazwa_pliku) {
-    auto plik = ofstream(nazwa_pliku);
-    if (!plik) {
-        zgłoś_błąd(nazwa_pliku);
+static ofstream otworz_plik_do_zapisu(const string& nazwa_pliku) {
+    auto strumien = ofstream(nazwa_pliku);
+    if (!strumien) {
+      zglos_blad(nazwa_pliku);
     }
-    return plik;
+    return strumien;
 }
 
 int main() {
@@ -39,19 +39,19 @@ int main() {
     vector<int> pesele;
     map<int, Student> studenci;
     {
-        ofstream strumień = otwórz_plik_do_zapisu(NAZWA_PLIKU_STUDENCI);
-        pesele = tworz_studentow(strumień, LICZBA_STUDENTOW);
-        strumień.close();
+        ofstream strumien = otworz_plik_do_zapisu(NAZWA_PLIKU_STUDENCI);
+        pesele = tworz_studentow(strumien, LICZBA_STUDENTOW);
+        strumien.close();
     }
     {
-        ofstream strumień = otwórz_plik_do_zapisu(NAZWA_PLIKU_OCENY);
-        tworz_oceny(pesele, strumień);
-        strumień.close();
+        ofstream strumien = otworz_plik_do_zapisu(NAZWA_PLIKU_OCENY);
+        tworz_oceny(pesele, strumien);
+        strumien.close();
     }
     {
-        ifstream strumień = otwórz_plik_do_odczytu(NAZWA_PLIKU_STUDENCI);
-        studenci = wczytaj_studentow(strumień);
-        strumień.close();
+        ifstream strumien = otworz_plik_do_odczytu(NAZWA_PLIKU_STUDENCI);
+        studenci = wczytaj_studentow(strumien);
+        strumien.close();
     }
     string najpopularniejsze_imie = wyznacz_najpopularniejsze_imie(studenci);
     cout << "najpopularniejsze imie: " << najpopularniejsze_imie << endl;
@@ -60,9 +60,9 @@ int main() {
     cout << "najpopularniejsze nazwisko: " << najpopularniejsze_nazwisko << '\t' << liczba_osob
          << endl;
     {
-        ifstream strumień = otwórz_plik_do_odczytu(NAZWA_PLIKU_OCENY);
-        wczytaj_oceny(strumień, &studenci);
-        strumień.close();
+        ifstream strumien = otworz_plik_do_odczytu(NAZWA_PLIKU_OCENY);
+        wczytaj_oceny(strumien, &studenci);
+        strumien.close();
     }
     wypisz_studentow_z_ocenami(studenci, cout);
     cout << "liczba studentow bez ocen: " << policz_studentow_bez_ocen(studenci) << endl;

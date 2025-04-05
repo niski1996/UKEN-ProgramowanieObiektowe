@@ -12,7 +12,7 @@
 
 using namespace std;
 
-vector<int> tworz_studentow(ostream& strumień, const int N) {
+vector<int> tworz_studentow(ostream& strumien, const int N) {
     static vector<string> imiona{
         "Zuzanna",   "Julia",      "Maja",        "Zofia",      "Hanna",    "Alicja",
         "Maria",     "Amelia",     "Oliwia",      "Aleksandra", "Wiktoria", "Emilia",
@@ -48,18 +48,18 @@ vector<int> tworz_studentow(ostream& strumień, const int N) {
     static default_random_engine silnik(chrono::system_clock::now().time_since_epoch().count());
     vector<int> pesele;
 
-    if (strumień) {
+    if (strumien) {
         for (int i = 0; i < N; ++i) {
             int pesel = rozklad_peseli(silnik);
             pesele.push_back(pesel);
-            strumień << imiona[rozklad_imion(silnik)] << '\t' << nazwiska[rozklad_nazwisk(silnik)]
+            strumien << imiona[rozklad_imion(silnik)] << '\t' << nazwiska[rozklad_nazwisk(silnik)]
                      << '\t' << pesel << endl;
         }
     }
     return pesele;
 }
 
-void tworz_oceny(const vector<int>& pesele, ostream& strumień) {
+void tworz_oceny(const vector<int>& pesele, ostream& strumien) {
     static vector<string> przedmioty{"matematyka",     "programowanie",        "fizyka",
                                      "grafika",        "bazy_danych",          "algorytmika",
                                      "filozofia",      "mikroinformatyka",     "egiptologia",
@@ -70,21 +70,21 @@ void tworz_oceny(const vector<int>& pesele, ostream& strumień) {
     static uniform_int_distribution<int> rozklad_peseli(0, pesele.size() - 1);
     static uniform_int_distribution<int> rozklad_liczby_ocen(1, 3);
 
-    if (strumień) {
+    if (strumien) {
         const double MNOZNIK{5.0};
         for (size_t i = 0; i < MNOZNIK * pesele.size(); ++i) {
-            strumień << pesele[rozklad_peseli(silnik)] << '\t'
+            strumien << pesele[rozklad_peseli(silnik)] << '\t'
                      << przedmioty[rozklad_przedmiotow(silnik)] << '\t';
             int liczba_ocen = rozklad_liczby_ocen(silnik);
             for (int j = 0; j < liczba_ocen; ++j) {
-                strumień << (double)rozklad_ocen(silnik) / 2 << '\t';
+                strumien << (double)rozklad_ocen(silnik) / 2 << '\t';
             }
-            strumień << endl;
+            strumien << endl;
         }
     }
 }
 
-map<int, Student> wczytaj_studentow(istream& strumień) {
+map<int, Student> wczytaj_studentow(istream& strumien) {
     map<int, Student> studenci;
     int pesel;
     Student student;
@@ -104,14 +104,14 @@ void wczytaj_oceny(istream& strumień, map<int, Student>* studenci) {
 }
 
 string wyznacz_najpopularniejsze_imie(const map<int, Student>& studenci) {
-    map<string, int> częstość_imion;
-    string najpopularniejsze_imię;
+    map<string, int> czestosc_imion;
+    string najpopularniejsze_imie;
 
-    return najpopularniejsze_imię;
+    return najpopularniejsze_imie;
 }
 
 pair<string, int> wyznacz_najpopularniejsze_nazwisko(const map<int, Student>& studenci) {
-    map<string, int> częstość_nazwisk;
+    map<string, int> czestosc_nazwisk;
 
     string najpopularniejsze_nazwisko;
     int max_częstość{0};
