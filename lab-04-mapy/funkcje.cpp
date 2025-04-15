@@ -92,9 +92,9 @@ map<int, Student> wczytaj_studentow(istream& strumien) {
     return studenci;
 }
 
-void wczytaj_oceny(istream& strumień, map<int, Student>* studenci) {
+void wczytaj_oceny(istream& strumien, map<int, Student>* studenci) {
     string line;
-    while (getline(strumień, line)) {
+    while (getline(strumien, line)) {
         int pesel;
         string przedmiot;
         double ocena;
@@ -114,9 +114,9 @@ pair<string, int> wyznacz_najpopularniejsze_nazwisko(const map<int, Student>& st
     map<string, int> czestosc_nazwisk;
 
     string najpopularniejsze_nazwisko;
-    int max_częstość{0};
+    int max_czestosc{0};
 
-    return {najpopularniejsze_nazwisko, max_częstość};
+    return {najpopularniejsze_nazwisko, max_czestosc};
 }
 
 void wypisz_studentow_z_ocenami(const map<int, Student>& studenci, ostream& strumień) {
