@@ -88,6 +88,13 @@ map<int, Student> wczytaj_studentow(istream& strumien) {
     map<int, Student> studenci;
     int pesel;
     Student student;
+    string imie, nazwisko;
+    while (strumien >> imie >> nazwisko >> pesel) {
+    Student student;
+    student.imie = imie;
+    student.nazwisko = nazwisko;
+    studenci[pesel] = student;
+    }
 
     return studenci;
 }
@@ -95,17 +102,42 @@ map<int, Student> wczytaj_studentow(istream& strumien) {
 void wczytaj_oceny(istream& strumien, map<int, Student>* studenci) {
     string line;
     while (getline(strumien, line)) {
+        if (line.empty()) continue;
+        
+        stringstream ss(line);
         int pesel;
         string przedmiot;
+        
+        ss >> pesel >> przedmiot;
+        
+        vector<double> oceny;
         double ocena;
-        stringstream ss;
-
+        while (ss >> ocena) {
+            oceny.push_back(ocena);
+        }
+        
+        if (studenci->count(pesel)) {
+            (*studenci)[pesel].oceny_z_przedmiotow[przedmiot] = oceny;
+        }
     }
 }
 
 string wyznacz_najpopularniejsze_imie(const map<int, Student>& studenci) {
     map<string, int> czestosc_imion;
     string najpopularniejsze_imie;
+     int max_licznik = 0;
+
+    for (const auto& [pesel, student] : studenci) {
+        czestosc_imion[student.imie]++;
+    }
+
+    for (const auto& [imie, licznik] : czestosc_imion) {
+        if (licznik > max_licznik || 
+            (licznik == max_licznik && imie < najpopularniejsze_imie)) {
+            max_licznik = licznik;
+            najpopularniejsze_imie = imie;
+        }
+    }
 
     return najpopularniejsze_imie;
 }
@@ -116,14 +148,46 @@ pair<string, int> wyznacz_najpopularniejsze_nazwisko(const map<int, Student>& st
     string najpopularniejsze_nazwisko;
     int max_czestosc{0};
 
+    for (const auto& [pesel, student] : studenci) {
+        czestosc_nazwisk[student.nazwisko]++;
+    }
+
+    for (const auto& [nazwisko, licznik] : czestosc_nazwisk) {
+        if (licznik > max_czestosc) {
+            max_czestosc = licznik;
+            najpopularniejsze_nazwisko = nazwisko;
+        }
+        else if (licznik == max_czestosc && nazwisko < najpopularniejsze_nazwisko) {
+            najpopularniejsze_nazwisko = nazwisko;
+        }
+    }
+
     return {najpopularniejsze_nazwisko, max_czestosc};
 }
 
-void wypisz_studentow_z_ocenami(const map<int, Student>& studenci, ostream& strumień) {
+void wypisz_studentow_z_ocenami(const map<int, Student>& studenci, ostream& strumien) {
+    for (const auto& [pesel, student] : studenci) {
+        strumien << student.imie << " " << student.nazwisko << " (" << pesel << ")\n";
+        
+        for (const auto& [przedmiot, oceny] : student.oceny_z_przedmiotow) {
+            strumien << "\t" << przedmiot << "\t";
+            
+            for (const auto& ocena : oceny) {
+                strumien << ocena << " ";
+            }
+            
+            strumien << "\n";
+        }
+    }
 }
 
 int policz_studentow_bez_ocen(const map<int, Student>& studenci) {
     int ilu_bez_ocen{0};
+        for (const auto& [pesel, student] : studenci) {
+        if (student.oceny_z_przedmiotow.empty()) {
+            ilu_bez_ocen++;
+        }
+    }
 
     return ilu_bez_ocen;
 }

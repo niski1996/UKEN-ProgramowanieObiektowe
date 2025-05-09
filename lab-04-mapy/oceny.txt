@@ -1,0 +1,5000 @@
+603964669	filozofia	4	
+215118023	bazy_danych	4.5	2	3.5	
+248004764	obliczenia_ziarniste	3	3.5	5	
+901823024	obliczenia_ziarniste	3.5	5	3	
+211267243	obliczenia_ziarniste	4	
+296316976	obliczenia_ziarniste	3.5	4.5	4	
+585653701	obliczenia_ziarniste	4	3	
+738540604	programowanie	3	4	4.5	
+885491278	mikroinformatyka	2	3.5	3.5	
+163366641	matematyka	3.5	2.5	
+727740540	sieci_komputerowe	4	3.5	
+293880246	mikroinformatyka	3.5	
+970036633	algorytmika	5	4	
+635437355	matematyka	3.5	
+580280439	egiptologia	3	4	
+930650132	programowanie	2.5	
+360996414	filozofia	4	4.5	3.5	
+745440541	obliczenia_ziarniste	3	4	4.5	
+613407184	bazy_danych	5	2.5	
+648450085	programowanie	3.5	3	
+754441195	filozofia	3.5	3.5	
+306947131	obliczenia_ziarniste	3	3	
+843396733	matematyka	3	3	
+154462334	matematyka	3	
+434332771	logika_rozmyta	2	
+266395962	sieci_komputerowe	2.5	
+515891897	fizyka	4.5	
+371401406	logika_rozmyta	3.5	2	4.5	
+654252428	matematyka	4.5	
+328750562	obliczenia_ziarniste	3.5	
+593985360	mikroinformatyka	3	
+686771878	logika_rozmyta	4	4	4	
+692034613	algorytmika	4	
+807714021	programowanie	2.5	
+418051691	algorytmika	4.5	
+692034613	obliczenia_ziarniste	3	3.5	
+808815354	sieci_komputerowe	3	2.5	
+788671302	grafika	2.5	
+352981468	fizyka	5	
+226870525	algorytmika	4.5	
+205371231	egiptologia	3.5	5	
+855807954	fizyka	4.5	4.5	
+248470289	filozofia	4.5	3.5	2	
+928364848	mikroinformatyka	3	4.5	
+381936210	mikroinformatyka	2.5	4	
+285645492	programowanie	4.5	
+417858626	grafika	4	2.5	3.5	
+517686849	sieci_komputerowe	3	2	2	
+848027357	logika_rozmyta	2	
+555672700	filozofia	3.5	4.5	
+204231055	mikroinformatyka	4	4.5	3	
+848027357	logika_rozmyta	3.5	4	
+534742531	matematyka	3.5	3	3.5	
+555466880	algorytmika	3.5	3	3.5	
+490098087	matematyka	2.5	3	
+446265623	filozofia	4	2.5	4.5	
+533002073	bazy_danych	3.5	3.5	3	
+354670144	sieci_komputerowe	2.5	
+558932890	algorytmika	2	
+366230277	sieci_komputerowe	2.5	3.5	
+188807808	matematyka	3	3	3	
+226870525	obliczenia_ziarniste	3	
+174577274	grafika	5	
+447229632	logika_rozmyta	5	4.5	
+832077987	filozofia	5	2	4	
+885865179	grafika	4	4	
+970098045	egiptologia	4	
+895394345	logika_rozmyta	4.5	
+978309410	bazy_danych	4	2.5	2	
+567514659	obliczenia_ziarniste	3	3.5	
+436525878	grafika	3	
+281800497	programowanie	4.5	3.5	3	
+780167574	sieci_komputerowe	4	
+146717111	algorytmika	2	3	4	
+589562066	matematyka	4	
+930650132	fizyka	3	3.5	
+808605148	obliczenia_ziarniste	2	3	
+224767411	programowanie	3	4	3.5	
+804830630	sieci_komputerowe	2	2	2.5	
+815645120	fizyka	5	
+979939245	egiptologia	3.5	2.5	4	
+506394232	mikroinformatyka	5	2.5	3	
+595677907	logika_rozmyta	4	3.5	3	
+163366641	logika_rozmyta	4	4.5	2.5	
+408248620	logika_rozmyta	3	3	4.5	
+964540991	mikroinformatyka	4	3.5	2	
+299243222	grafika	3.5	4	
+498638862	sieci_komputerowe	2	4.5	3	
+986793335	filozofia	3	
+885865179	logika_rozmyta	4	
+219553297	fizyka	3	3.5	
+128379852	mikroinformatyka	4	4	3.5	
+433991560	obliczenia_ziarniste	3.5	5	
+389354297	algorytmika	3	3	3	
+751934687	logika_rozmyta	4	4.5	
+246009927	logika_rozmyta	2.5	
+399949725	programowanie	4	2.5	4.5	
+699465194	logika_rozmyta	2.5	
+361411479	obliczenia_ziarniste	3.5	3.5	
+558325134	grafika	4.5	4.5	3	
+892684319	obliczenia_ziarniste	2	3.5	
+935633199	matematyka	2.5	
+942729537	filozofia	4.5	3.5	
+522670948	matematyka	4	
+955832688	bazy_danych	3	3	3.5	
+274085398	logika_rozmyta	5	3.5	
+565898968	logika_rozmyta	3	2.5	4	
+190425377	programowanie	3	3.5	
+204231055	logika_rozmyta	2.5	
+278115386	fizyka	2.5	2.5	3.5	
+557947659	grafika	2	
+922082499	fizyka	2.5	
+624397526	grafika	4	4	5	
+927584483	mikroinformatyka	4	3.5	
+338389715	sieci_komputerowe	4	5	
+152351338	fizyka	3.5	2	3	
+546619979	obliczenia_ziarniste	3	
+367135178	obliczenia_ziarniste	4.5	3	
+797656118	matematyka	3	3.5	5	
+288327998	fizyka	3	5	
+821901599	matematyka	4.5	
+722878691	bazy_danych	4.5	3.5	2	
+478401002	filozofia	5	4	
+573982209	egiptologia	4.5	3.5	
+152351338	matematyka	4.5	
+254561140	grafika	2.5	
+693521884	logika_rozmyta	4	
+433991560	sieci_komputerowe	4	
+204231055	fizyka	2	3.5	
+396559416	filozofia	3	4.5	4	
+970036633	programowanie	4	3	
+683676437	algorytmika	5	
+226870525	filozofia	2.5	2.5	
+213345834	matematyka	4.5	4.5	
+550392905	fizyka	3.5	5	
+508814786	bazy_danych	4	4.5	
+641547621	fizyka	3.5	2.5	3	
+637184204	mikroinformatyka	4.5	3.5	2.5	
+332423960	bazy_danych	3.5	4	
+395352872	sieci_komputerowe	3.5	
+616952127	bazy_danych	4	4	
+721410341	bazy_danych	3	
+211267243	filozofia	3	3	4	
+307369359	bazy_danych	4	3.5	3.5	
+402835361	sieci_komputerowe	3	3.5	3	
+901861580	mikroinformatyka	5	3.5	4.5	
+900324164	egiptologia	4	4.5	
+417858626	mikroinformatyka	4	3.5	3.5	
+731434962	obliczenia_ziarniste	3.5	4.5	2	
+687021990	sieci_komputerowe	4	3.5	
+635437355	egiptologia	4	3.5	4.5	
+745440541	sieci_komputerowe	4	3	
+360758263	mikroinformatyka	4	
+521750789	filozofia	4.5	4	
+246009927	grafika	4	3	
+517686849	matematyka	3	
+453257732	mikroinformatyka	3	5	
+143134920	grafika	3.5	2	
+565898968	filozofia	2.5	4	5	
+278115386	matematyka	5	4	3	
+654372164	algorytmika	3.5	4.5	3.5	
+543194732	sieci_komputerowe	4	2.5	2.5	
+307002053	mikroinformatyka	4.5	
+289119533	grafika	3.5	2	
+434332771	egiptologia	4	3	4.5	
+274085398	logika_rozmyta	3.5	
+385985793	mikroinformatyka	2	4.5	3.5	
+624785401	algorytmika	3	3.5	
+354670144	filozofia	4	3.5	
+196942102	logika_rozmyta	3.5	4	3	
+674411974	logika_rozmyta	3	3.5	
+351547644	matematyka	3.5	4	
+318897831	filozofia	4	5	3.5	
+163366641	programowanie	4	4.5	4.5	
+578380469	logika_rozmyta	5	
+301254587	grafika	4	3	
+736703466	grafika	3.5	2.5	4.5	
+833828976	matematyka	4.5	4.5	4.5	
+877306162	matematyka	4	
+526055786	matematyka	3.5	3.5	
+569438265	egiptologia	2.5	
+446792395	mikroinformatyka	3	4	4	
+718743220	grafika	4	2	
+922195271	matematyka	5	
+256911251	mikroinformatyka	3	
+427518276	algorytmika	4.5	4.5	
+688873922	mikroinformatyka	3	
+261995711	fizyka	4	3	3	
+572151447	matematyka	2.5	3	
+407604808	obliczenia_ziarniste	2.5	
+568142775	sieci_komputerowe	4.5	3.5	2	
+654372164	sieci_komputerowe	4	5	
+227589807	sieci_komputerowe	4	2	3.5	
+174045664	egiptologia	3.5	
+437973699	filozofia	2	3	
+528284087	filozofia	4	
+783393686	bazy_danych	3	4.5	2.5	
+649366137	logika_rozmyta	2.5	
+568105894	filozofia	4	4	
+590640220	matematyka	5	
+205371231	mikroinformatyka	3	2	4	
+607711120	egiptologia	4	
+395848224	logika_rozmyta	4.5	4.5	
+166245331	sieci_komputerowe	3.5	
+678293163	fizyka	2.5	2.5	
+367629849	mikroinformatyka	4	
+158869172	bazy_danych	2.5	
+560950076	programowanie	2	
+842480298	mikroinformatyka	2	
+408979868	egiptologia	4	
+441454121	bazy_danych	3.5	
+738540604	sieci_komputerowe	2.5	3.5	3.5	
+939678251	sieci_komputerowe	2.5	4	3	
+296316976	mikroinformatyka	4	4	
+661172344	logika_rozmyta	3	3.5	4	
+728174216	matematyka	2.5	
+510520737	sieci_komputerowe	2.5	3.5	4	
+146717111	programowanie	3.5	
+533002073	grafika	4	2.5	3	
+841550913	algorytmika	3	
+940851974	mikroinformatyka	4	3	3	
+600821717	sieci_komputerowe	2.5	
+959699005	algorytmika	3	
+354670144	sieci_komputerowe	3.5	3	
+335596653	fizyka	4.5	3.5	3.5	
+208008051	filozofia	3	
+922082499	egiptologia	4.5	
+691605381	sieci_komputerowe	3.5	3	
+714195438	algorytmika	3	
+700120767	obliczenia_ziarniste	4	4	4	
+893164600	sieci_komputerowe	4	4	3	
+500824734	matematyka	3.5	2.5	4	
+635437355	grafika	2	4.5	3.5	
+744731484	obliczenia_ziarniste	4.5	3.5	3	
+475876799	programowanie	2	3.5	4.5	
+281800497	algorytmika	3.5	
+639739923	egiptologia	3	4	
+678852478	mikroinformatyka	3	5	
+428650571	grafika	2	4	
+807714021	fizyka	3.5	
+528518908	obliczenia_ziarniste	3	3	2.5	
+633933100	bazy_danych	3.5	
+310483039	algorytmika	3	
+312065708	filozofia	4	4.5	4	
+722804293	fizyka	5	2.5	
+389354297	programowanie	2.5	
+490098087	egiptologia	4	3.5	
+863253132	obliczenia_ziarniste	2.5	
+962779305	egiptologia	3	5	
+278894186	programowanie	2.5	
+715776723	programowanie	3	2	
+491396619	grafika	4	3.5	3	
+602008671	obliczenia_ziarniste	2	2	
+668645599	obliczenia_ziarniste	2.5	3	
+382775833	bazy_danych	2.5	
+700120767	sieci_komputerowe	4	3.5	
+127228523	mikroinformatyka	2.5	
+200332736	sieci_komputerowe	2.5	3.5	5	
+317853171	matematyka	4.5	
+724779261	logika_rozmyta	2.5	
+313522629	fizyka	3.5	
+471283604	programowanie	2	
+792892257	grafika	4	
+590833031	matematyka	3.5	3	2.5	
+232365843	matematyka	2.5	3	3	
+512457472	fizyka	4	4	4	
+128379852	egiptologia	3.5	3	4	
+123562338	fizyka	3	
+458492617	fizyka	3.5	2.5	
+856131876	programowanie	3.5	3	4.5	
+658436593	fizyka	3.5	4	
+299376215	egiptologia	3.5	3	4.5	
+409205912	fizyka	2.5	
+794335378	filozofia	3.5	
+443986117	sieci_komputerowe	4	4.5	3.5	
+158869172	fizyka	3	3.5	3.5	
+846366593	mikroinformatyka	3.5	3.5	4	
+648541509	grafika	5	2.5	3	
+579326835	filozofia	3	
+232365843	programowanie	4	2.5	
+231796997	programowanie	4	5	
+558720008	grafika	4.5	
+847301902	logika_rozmyta	5	
+211267243	mikroinformatyka	3.5	4.5	
+390123159	sieci_komputerowe	2.5	4	
+341348105	obliczenia_ziarniste	4	3.5	2	
+311781419	matematyka	2.5	
+506394232	filozofia	2	
+444954399	algorytmika	4	3	
+189095010	logika_rozmyta	4	
+458492617	matematyka	3.5	3.5	2	
+169178456	egiptologia	3.5	4.5	4	
+241426087	sieci_komputerowe	3.5	3	3.5	
+607711120	bazy_danych	3.5	3.5	3	
+511577571	bazy_danych	4.5	
+568105894	algorytmika	3	2	
+395002195	mikroinformatyka	4	3.5	
+262257596	obliczenia_ziarniste	4.5	4	2.5	
+812629017	algorytmika	3	2	2.5	
+932425781	fizyka	2.5	4	
+678973113	programowanie	3	4	
+164541727	programowanie	5	4.5	2.5	
+208008051	programowanie	3	
+390951467	matematyka	4.5	3.5	
+684411779	egiptologia	2	3	4.5	
+128690471	fizyka	5	3	
+812629017	bazy_danych	2.5	5	
+650974015	filozofia	4.5	
+557903534	obliczenia_ziarniste	5	4.5	
+295965691	egiptologia	4.5	4	3.5	
+689296941	mikroinformatyka	5	
+510040805	egiptologia	3.5	4	
+190806719	logika_rozmyta	3	
+958835722	filozofia	2.5	4	
+176590363	mikroinformatyka	3.5	
+348832397	sieci_komputerowe	4.5	4	
+938133240	filozofia	3	
+369392644	programowanie	3.5	
+563668123	mikroinformatyka	4	
+430251986	matematyka	2.5	4.5	
+510936584	obliczenia_ziarniste	3	
+448702041	obliczenia_ziarniste	4	4	
+434995246	algorytmika	3	3	
+754441195	algorytmika	5	2.5	
+294795831	bazy_danych	3.5	3	3.5	
+637184204	bazy_danych	4.5	3	
+219553297	grafika	4	4	2	
+206426764	mikroinformatyka	3.5	4.5	3	
+731574511	fizyka	3.5	3.5	3.5	
+287033795	fizyka	5	3.5	
+127305901	sieci_komputerowe	4.5	4.5	2.5	
+243923202	algorytmika	4.5	
+256911251	obliczenia_ziarniste	5	3.5	
+558932890	algorytmika	4.5	4	3.5	
+663270808	matematyka	3.5	3.5	3	
+595677907	programowanie	3.5	3	2	
+396480715	obliczenia_ziarniste	4	3.5	3.5	
+143134920	obliczenia_ziarniste	2	4	3	
+981968476	filozofia	4.5	3	2	
+774216472	egiptologia	2.5	3	3.5	
+597482026	grafika	2.5	4.5	
+647011454	grafika	2.5	3.5	4.5	
+798580771	algorytmika	4.5	
+367965708	matematyka	3.5	3.5	3	
+175972459	filozofia	5	3.5	
+260634002	logika_rozmyta	3	4.5	
+294233721	logika_rozmyta	3.5	
+741642620	egiptologia	4	
+141145841	mikroinformatyka	3.5	
+987262088	sieci_komputerowe	4	3	
+803598690	matematyka	2.5	3	3.5	
+358813421	sieci_komputerowe	3.5	
+786831503	mikroinformatyka	3.5	3.5	
+709498494	algorytmika	2	
+671943952	fizyka	3	3.5	
+251112893	matematyka	4	4	3.5	
+434332771	logika_rozmyta	2.5	4	
+742324625	mikroinformatyka	3	3.5	
+986793335	fizyka	5	
+422763815	programowanie	3.5	4	2.5	
+241426087	filozofia	2.5	
+188452418	programowanie	3	4.5	4	
+949850820	logika_rozmyta	3.5	3.5	
+260721604	grafika	3	3	
+548930444	mikroinformatyka	4	4	
+578380469	matematyka	4.5	
+598764759	logika_rozmyta	2.5	3	
+481401198	grafika	3.5	
+689296941	fizyka	4	5	
+644650999	mikroinformatyka	3.5	
+380716704	obliczenia_ziarniste	4.5	4.5	4	
+900324164	egiptologia	3.5	2	
+294964493	filozofia	2.5	
+555031707	programowanie	3	3	3.5	
+622034499	fizyka	2.5	
+907188553	programowanie	3.5	4.5	
+691011733	bazy_danych	2	2	4.5	
+793064797	egiptologia	3	2.5	
+877306162	sieci_komputerowe	4	
+585653701	obliczenia_ziarniste	2.5	3	
+927584483	sieci_komputerowe	3	2	4	
+498638862	bazy_danych	5	3	3.5	
+885308698	logika_rozmyta	4.5	
+492318739	obliczenia_ziarniste	4.5	2.5	
+709498494	fizyka	4	5	3	
+586351288	programowanie	2	4.5	
+368974417	logika_rozmyta	3	4	3	
+683676437	programowanie	5	3.5	
+472550755	logika_rozmyta	4	
+512457472	programowanie	2.5	
+832077987	filozofia	3.5	
+940851974	grafika	4	
+595387109	egiptologia	3.5	
+910752777	filozofia	3	2	
+261995711	programowanie	4.5	
+434332771	bazy_danych	3.5	4	2.5	
+475214564	filozofia	4.5	
+921789285	logika_rozmyta	4.5	3	5	
+722878691	sieci_komputerowe	2	4	3.5	
+167002034	logika_rozmyta	2	3	4.5	
+794315305	logika_rozmyta	3	3	3.5	
+899503797	grafika	4	5	4	
+418051691	obliczenia_ziarniste	2	
+920191896	algorytmika	3	2.5	
+623719552	bazy_danych	3.5	2.5	3.5	
+777018000	filozofia	2.5	
+310483039	fizyka	4	4	
+752633298	sieci_komputerowe	4.5	3	2.5	
+346329678	bazy_danych	3.5	
+736101920	obliczenia_ziarniste	4	2.5	
+262257596	programowanie	4	5	3.5	
+651675455	algorytmika	3	2	2.5	
+528518908	algorytmika	5	5	
+899240912	obliczenia_ziarniste	3.5	5	3	
+550392905	mikroinformatyka	4	
+395240128	logika_rozmyta	3.5	3.5	4	
+437973699	fizyka	4	5	3.5	
+573982209	grafika	3.5	2.5	
+317853171	mikroinformatyka	2.5	4.5	3.5	
+386383742	programowanie	4.5	
+726313040	filozofia	4	4	
+867253386	fizyka	4	3.5	
+940503781	fizyka	4.5	
+278894186	filozofia	2.5	3.5	
+449761524	filozofia	4	
+855807954	algorytmika	2.5	
+895058537	algorytmika	2.5	
+402208168	egiptologia	2.5	3.5	
+723758989	egiptologia	3	2.5	5	
+307002053	algorytmika	4	4.5	
+455319725	bazy_danych	4	3	3.5	
+642097822	grafika	3.5	4	3.5	
+342375941	grafika	4	
+396480715	filozofia	4	4	
+341203241	algorytmika	3.5	2.5	3	
+312248673	obliczenia_ziarniste	3.5	2	3.5	
+557947659	grafika	3	5	2.5	
+622435565	mikroinformatyka	3	2	
+641547621	obliczenia_ziarniste	4	4	3.5	
+907188553	obliczenia_ziarniste	2.5	4.5	
+762946141	fizyka	4	
+515823312	matematyka	3.5	3.5	
+301254587	filozofia	4	
+318897016	algorytmika	3.5	
+575891651	bazy_danych	2	5	
+488010666	fizyka	3.5	3.5	
+701761522	bazy_danych	2.5	3	3.5	
+939121068	matematyka	4.5	3	3.5	
+125261813	fizyka	2	
+842872087	logika_rozmyta	4.5	3	2	
+274085398	obliczenia_ziarniste	2	
+440917370	obliczenia_ziarniste	4.5	2.5	4.5	
+139554563	obliczenia_ziarniste	3	3	
+654276201	logika_rozmyta	3.5	3	
+358572230	sieci_komputerowe	3	4	3.5	
+434995246	fizyka	3.5	
+718743220	fizyka	3.5	3.5	3.5	
+498095334	egiptologia	4	
+403002210	logika_rozmyta	4	3	4	
+332423960	obliczenia_ziarniste	3.5	4.5	
+799869929	logika_rozmyta	3.5	
+931683374	fizyka	3	4	3	
+741533373	programowanie	4	2	4.5	
+824310407	logika_rozmyta	4.5	3	3.5	
+158423236	fizyka	4	4	
+712961565	programowanie	2.5	3.5	5	
+730633599	matematyka	2	4.5	4	
+239329208	egiptologia	3	3.5	4.5	
+455002104	egiptologia	3	
+241112900	programowanie	4	3	4	
+458492617	obliczenia_ziarniste	3.5	3	3	
+290819220	sieci_komputerowe	4.5	
+951219203	fizyka	3.5	3.5	
+595677907	matematyka	3	2.5	5	
+970052629	obliczenia_ziarniste	5	3.5	2	
+714195438	filozofia	5	3.5	
+867253386	egiptologia	4.5	3.5	4	
+227589807	algorytmika	4	4	3	
+335872246	bazy_danych	3.5	
+346329678	sieci_komputerowe	4	
+287033795	logika_rozmyta	3	
+590666676	grafika	3	
+130347892	egiptologia	4	
+674411974	obliczenia_ziarniste	2.5	3	
+528237999	filozofia	4	3.5	4.5	
+438596228	matematyka	2.5	3	
+251112893	fizyka	3.5	2.5	
+313522629	filozofia	3.5	
+400821548	mikroinformatyka	3.5	4	3	
+510520737	grafika	4	
+702765007	fizyka	3.5	
+424600569	sieci_komputerowe	4	
+174577274	algorytmika	3.5	3.5	
+933142794	programowanie	3	3.5	5	
+196942102	bazy_danych	4.5	3.5	
+675401075	sieci_komputerowe	2.5	4.5	3.5	
+823075911	fizyka	2.5	
+141145841	filozofia	4	3	3.5	
+970052629	grafika	2.5	
+415249297	algorytmika	2	4	
+458492617	fizyka	3.5	4.5	
+601313530	egiptologia	4	4	4.5	
+652888868	algorytmika	4	
+444954399	egiptologia	2	
+168237505	logika_rozmyta	3.5	4	3.5	
+312248673	mikroinformatyka	3.5	4	
+194384867	obliczenia_ziarniste	3.5	4	4.5	
+660309324	algorytmika	3.5	
+874930165	fizyka	2.5	4	3.5	
+449761524	logika_rozmyta	5	
+944145649	programowanie	5	
+510619136	programowanie	2.5	3	3.5	
+774216472	algorytmika	4.5	3	4	
+396545831	grafika	2.5	
+590833031	filozofia	4	3.5	
+804052931	filozofia	3.5	3	
+752633298	filozofia	3.5	
+443873243	egiptologia	4	4	2.5	
+242494310	obliczenia_ziarniste	3.5	4.5	
+885178556	fizyka	5	
+985839193	bazy_danych	3.5	
+318897831	programowanie	3	
+644643972	grafika	2.5	
+397830415	bazy_danych	3	3	3.5	
+514002093	programowanie	3	
+694282033	obliczenia_ziarniste	3	2	4.5	
+972800454	mikroinformatyka	4	4	3	
+479069844	grafika	3.5	5	4	
+821901599	matematyka	3.5	
+608744758	bazy_danych	3.5	4.5	
+644643972	obliczenia_ziarniste	3.5	4.5	
+523635213	programowanie	4	3	4.5	
+721410341	filozofia	3.5	4.5	4	
+736101920	filozofia	3.5	5	
+846057965	egiptologia	4.5	4	4.5	
+474466390	sieci_komputerowe	3	4	3	
+495814329	grafika	4	4.5	
+631114063	mikroinformatyka	2.5	
+751584323	bazy_danych	4	
+752633298	fizyka	4.5	5	
+687021990	programowanie	4	
+193499957	algorytmika	3.5	
+497584267	algorytmika	4.5	2.5	3	
+318905778	sieci_komputerowe	4	2.5	
+555672700	programowanie	2.5	
+684411779	algorytmika	3.5	4	
+900324164	logika_rozmyta	3	5	3.5	
+274085398	programowanie	2	4	
+488010666	mikroinformatyka	4	
+791399023	programowanie	3.5	
+873530932	fizyka	2	
+395002195	bazy_danych	3.5	3	4.5	
+167002034	bazy_danych	4.5	4.5	4.5	
+807288821	algorytmika	2.5	3	
+406382023	fizyka	2.5	3.5	
+510619136	algorytmika	2.5	
+298596846	mikroinformatyka	3.5	
+944145649	obliczenia_ziarniste	4	3.5	4.5	
+632087328	egiptologia	3	
+234219821	bazy_danych	2.5	
+369783529	grafika	3	4	3.5	
+346329678	filozofia	4	3.5	
+855807954	fizyka	2.5	2.5	
+736844252	obliczenia_ziarniste	2.5	3.5	3.5	
+311239197	egiptologia	3	2.5	4	
+411874189	fizyka	3.5	
+241426087	filozofia	2.5	
+869217686	sieci_komputerowe	4	3.5	
+701761522	obliczenia_ziarniste	5	2.5	
+197338663	fizyka	4	5	
+786831503	egiptologia	3.5	5	
+792718525	sieci_komputerowe	2	
+937795720	mikroinformatyka	3.5	3.5	
+127305901	algorytmika	4	2.5	5	
+777032931	sieci_komputerowe	2.5	
+127228523	obliczenia_ziarniste	2.5	3	
+664506526	matematyka	3.5	3.5	
+336731637	fizyka	2	
+920191896	algorytmika	3	2	
+736844252	programowanie	3.5	3	2.5	
+886582804	obliczenia_ziarniste	3.5	3.5	
+689742704	fizyka	5	3.5	
+917629636	filozofia	3	5	
+788671302	matematyka	3	3.5	
+478401002	sieci_komputerowe	4	3.5	
+955832688	matematyka	5	4	
+305479020	filozofia	3.5	3.5	3	
+555031707	sieci_komputerowe	4	
+448283055	grafika	3	
+394597331	grafika	3.5	
+907105228	sieci_komputerowe	2	2.5	
+900324164	logika_rozmyta	3.5	4	
+742470989	algorytmika	4.5	4	
+158423236	egiptologia	4	
+975382480	algorytmika	2.5	
+905977278	programowanie	4	3.5	
+951219203	mikroinformatyka	4.5	2	3.5	
+127305901	filozofia	4	4	
+386301096	bazy_danych	2.5	3	2.5	
+863152466	egiptologia	4.5	3	
+510040805	bazy_danych	3.5	
+575850582	logika_rozmyta	4	3.5	3	
+189521606	matematyka	2.5	3.5	4	
+211556975	filozofia	2.5	
+486571204	grafika	4	
+214327285	fizyka	4	3	3	
+403167004	bazy_danych	2	4	
+479264894	bazy_danych	3.5	3.5	2.5	
+408979868	grafika	4.5	3	4.5	
+978921808	filozofia	3	
+552563418	grafika	4	
+278894186	sieci_komputerowe	3	3.5	
+125261813	sieci_komputerowe	5	
+472550755	programowanie	3	
+766129811	fizyka	2.5	3.5	
+826073743	bazy_danych	4.5	
+396545831	filozofia	3	2	
+458492617	bazy_danych	3.5	
+211267243	sieci_komputerowe	5	4.5	3	
+608744758	matematyka	3.5	
+274085398	filozofia	4.5	4.5	4.5	
+510936584	grafika	4	5	
+736101920	bazy_danych	4	4	2	
+590666676	mikroinformatyka	3	3.5	4	
+683676437	fizyka	4	4.5	
+295259170	obliczenia_ziarniste	3.5	3	3	
+986752735	bazy_danych	3	2.5	4	
+266395962	logika_rozmyta	3.5	3.5	2	
+980826268	filozofia	2.5	2	4	
+848027357	mikroinformatyka	4	4	
+680296665	obliczenia_ziarniste	4	
+967338018	filozofia	4	4	3	
+846366593	fizyka	4.5	3	3	
+764341744	logika_rozmyta	3.5	3.5	
+436525878	programowanie	2.5	3.5	3.5	
+243923202	mikroinformatyka	3.5	
+233281410	bazy_danych	3	
+408248620	grafika	3.5	3	
+745440541	bazy_danych	3	
+508814786	algorytmika	4.5	
+577578636	sieci_komputerowe	2.5	2.5	
+428650571	logika_rozmyta	2	4.5	
+742470989	egiptologia	4.5	
+601992844	fizyka	5	
+855807954	sieci_komputerowe	2.5	
+335596653	matematyka	4	3	
+437973699	fizyka	5	
+406382023	bazy_danych	3	5	3.5	
+900200691	logika_rozmyta	4	3	
+166245331	sieci_komputerowe	3.5	
+777032931	mikroinformatyka	3.5	5	3.5	
+648541509	grafika	4.5	2.5	4.5	
+922082499	obliczenia_ziarniste	3.5	4	
+712961565	fizyka	2.5	5	3.5	
+260139136	programowanie	3	2.5	3.5	
+821901599	programowanie	3	3.5	
+426563491	grafika	3	4	4	
+318897831	programowanie	4.5	4	
+474813034	programowanie	5	3	
+261691265	filozofia	3	4	
+776954599	algorytmika	2.5	
+867253386	bazy_danych	3.5	
+965320716	algorytmika	2.5	
+382775833	sieci_komputerowe	3.5	3	4	
+831949806	fizyka	2.5	3.5	5	
+803598690	sieci_komputerowe	4	3	4.5	
+255592986	programowanie	3	2.5	
+860706913	egiptologia	2.5	3	3.5	
+589562066	filozofia	3	4	
+406382023	algorytmika	3	
+436525878	filozofia	3	2.5	4	
+399434102	matematyka	3.5	
+418051691	grafika	3.5	4.5	4.5	
+654252428	egiptologia	2.5	3	
+558720008	logika_rozmyta	4	4	
+640521912	obliczenia_ziarniste	5	4.5	3.5	
+377830300	obliczenia_ziarniste	4	
+395352872	bazy_danych	3	3.5	4.5	
+205431080	mikroinformatyka	3.5	
+258444971	sieci_komputerowe	4.5	2.5	4	
+189461898	algorytmika	4	4	
+723758989	algorytmika	3	
+631114063	egiptologia	3.5	4.5	2	
+858453338	bazy_danych	3	
+334617912	logika_rozmyta	3	
+335596653	filozofia	2	3	
+602008671	mikroinformatyka	4	
+541706658	matematyka	4	
+201154346	grafika	4.5	
+673917809	logika_rozmyta	3.5	3	
+582132147	mikroinformatyka	2	
+665640319	egiptologia	4	4	
+166245331	logika_rozmyta	2.5	4.5	
+288327998	mikroinformatyka	2.5	4	
+982375849	algorytmika	3	
+738878111	filozofia	4.5	4.5	4.5	
+624007825	grafika	3.5	
+163366641	logika_rozmyta	4.5	4.5	4	
+626355655	bazy_danych	4.5	2.5	3	
+570766394	algorytmika	5	4	3	
+798580771	programowanie	4	3	2	
+710881089	mikroinformatyka	4	
+563668123	bazy_danych	4.5	3.5	3	
+460379418	fizyka	2.5	2.5	3.5	
+869217686	egiptologia	3	2	
+444955042	egiptologia	2	
+730633599	mikroinformatyka	3.5	4	
+346329678	logika_rozmyta	3	2.5	3.5	
+666363107	fizyka	3.5	5	4.5	
+624785401	logika_rozmyta	3.5	
+715183386	fizyka	3.5	
+189095010	algorytmika	3.5	
+440917370	bazy_danych	5	
+807444233	bazy_danych	2	4.5	4.5	
+216989551	bazy_danych	3	3.5	
+317747741	egiptologia	3	
+522386180	sieci_komputerowe	2	3.5	4	
+933142794	algorytmika	3.5	4.5	4.5	
+899967785	matematyka	3.5	4.5	
+986752735	obliczenia_ziarniste	2.5	
+972420801	sieci_komputerowe	4	3	3.5	
+363319343	logika_rozmyta	3	4	
+374202297	matematyka	3	
+299243222	grafika	3.5	
+472550755	obliczenia_ziarniste	4.5	3.5	3.5	
+158869172	filozofia	3	
+738540604	grafika	3.5	
+272957097	grafika	4	
+516475488	filozofia	2.5	
+154967311	sieci_komputerowe	4	
+195415990	fizyka	3.5	4	
+306947131	sieci_komputerowe	4	3.5	
+578380469	grafika	3	
+174045664	filozofia	2.5	3.5	
+846366593	fizyka	2.5	3.5	5	
+510040805	mikroinformatyka	5	4	
+838804761	algorytmika	4.5	
+386301096	bazy_danych	4	2.5	
+601992844	mikroinformatyka	3	4.5	4	
+792892257	algorytmika	3	4	2	
+986045097	egiptologia	3	
+920088803	logika_rozmyta	2	4	5	
+805995299	grafika	3	3	
+307686836	grafika	4	
+715183386	obliczenia_ziarniste	2.5	5	
+522386180	grafika	3.5	2	
+678303289	obliczenia_ziarniste	5	
+441017629	fizyka	3	3	4	
+157189445	grafika	2.5	4.5	2.5	
+979939245	logika_rozmyta	4	5	5	
+128379852	obliczenia_ziarniste	3.5	
+386301096	algorytmika	3	
+313522629	bazy_danych	2	
+458492617	obliczenia_ziarniste	4.5	
+680787194	filozofia	4.5	
+819130429	obliczenia_ziarniste	3.5	3.5	3	
+641547621	fizyka	2	4.5	5	
+658436593	grafika	3.5	4	2.5	
+793064797	mikroinformatyka	4	3.5	3	
+534887059	logika_rozmyta	2.5	
+875243392	logika_rozmyta	2.5	2.5	
+640521912	mikroinformatyka	4.5	
+797656118	algorytmika	2.5	3.5	3	
+403002210	logika_rozmyta	4	4	3.5	
+705804440	fizyka	3	
+242987216	egiptologia	4	
+691605381	obliczenia_ziarniste	3.5	5	4.5	
+843396733	logika_rozmyta	4.5	3.5	
+471283604	algorytmika	3.5	
+949473924	grafika	4.5	5	4	
+285645492	bazy_danych	2.5	2.5	
+828502505	algorytmika	4	3.5	3	
+828502505	grafika	2.5	4.5	
+413521446	logika_rozmyta	3	
+174045664	logika_rozmyta	3.5	3	
+635316513	matematyka	3.5	3.5	
+455671211	matematyka	5	
+738540604	filozofia	5	4.5	3	
+313522629	bazy_danych	3.5	
+190558799	filozofia	3	3	3	
+706008995	filozofia	4.5	
+539431194	algorytmika	3.5	3.5	
+469450818	algorytmika	3.5	3	
+750542953	grafika	4	3	
+657906989	logika_rozmyta	3.5	
+708277101	grafika	3	3.5	
+607711120	bazy_danych	4	4.5	3.5	
+804052931	fizyka	2.5	3.5	
+842480298	programowanie	3.5	
+821120214	fizyka	3	5	
+678303289	bazy_danych	2.5	3.5	
+764341744	logika_rozmyta	3.5	
+739751172	logika_rozmyta	4	3	4.5	
+715183386	mikroinformatyka	2.5	3	
+190425377	programowanie	5	4	3.5	
+514051709	obliczenia_ziarniste	4.5	
+912733484	mikroinformatyka	3.5	
+417858626	filozofia	3.5	
+397830415	logika_rozmyta	4	3	4.5	
+661172344	obliczenia_ziarniste	3.5	3	
+592139511	bazy_danych	3	
+578380469	mikroinformatyka	4	2.5	3.5	
+515590155	matematyka	4.5	4	2.5	
+399281095	obliczenia_ziarniste	2.5	4	
+501062997	programowanie	3.5	3.5	
+672191761	egiptologia	3	
+602241165	grafika	4	
+724779261	egiptologia	4	
+328750562	algorytmika	3.5	3	
+558932890	grafika	3.5	
+414821957	algorytmika	3.5	
+243412633	obliczenia_ziarniste	2.5	5	3	
+882370312	egiptologia	5	3.5	
+686771878	grafika	3	2.5	
+307406393	sieci_komputerowe	3.5	
+284867938	matematyka	4	3.5	2.5	
+642097822	obliczenia_ziarniste	2.5	3	
+962239170	fizyka	4	2	2.5	
+413521446	bazy_danych	2.5	2.5	
+533002073	mikroinformatyka	3.5	4	4	
+194623827	programowanie	2.5	3.5	4.5	
+330680653	sieci_komputerowe	3.5	3.5	
+855807954	obliczenia_ziarniste	2	3.5	
+962391622	filozofia	2.5	4.5	3.5	
+949850820	bazy_danych	3.5	3.5	4	
+457751033	obliczenia_ziarniste	2.5	
+171748307	bazy_danych	2.5	
+417318286	algorytmika	2.5	3.5	3	
+901823024	sieci_komputerowe	3	
+598764759	filozofia	4.5	3.5	2	
+593985360	bazy_danych	3	3.5	
+549139116	egiptologia	2	
+672191761	grafika	4	4	
+488010666	matematyka	2	4	4.5	
+540584125	obliczenia_ziarniste	3.5	2.5	
+239329208	programowanie	2	2.5	
+472550755	grafika	4.5	
+590861927	grafika	4.5	
+798580771	obliczenia_ziarniste	4.5	
+264466343	matematyka	3.5	2.5	4	
+216989551	bazy_danych	3	4.5	3.5	
+414821957	sieci_komputerowe	2.5	2.5	
+594217298	mikroinformatyka	3.5	3.5	
+674381375	fizyka	3.5	3	
+135794244	filozofia	3	2.5	
+461291019	egiptologia	2	
+848063155	logika_rozmyta	2.5	2.5	
+301254587	grafika	2	
+471283604	mikroinformatyka	2	3.5	4	
+629481362	fizyka	4	3.5	4	
+546619979	logika_rozmyta	4	
+973748574	obliczenia_ziarniste	4	3.5	2.5	
+567514659	algorytmika	4	5	
+535593907	logika_rozmyta	4	
+938861412	mikroinformatyka	2.5	
+366370602	logika_rozmyta	3.5	
+885331463	obliczenia_ziarniste	3	4.5	2	
+533859178	egiptologia	2.5	
+297331118	bazy_danych	4.5	3.5	3	
+777018000	sieci_komputerowe	4	4	
+980732794	grafika	4.5	
+925277402	algorytmika	4.5	
+716473772	sieci_komputerowe	4.5	4	4.5	
+260634002	fizyka	3.5	3.5	3	
+410987630	sieci_komputerowe	3.5	
+444954399	matematyka	3	2	
+686771878	programowanie	3.5	3.5	
+168237505	filozofia	3.5	3	3.5	
+888336602	sieci_komputerowe	2.5	2.5	2.5	
+288327998	mikroinformatyka	4	
+396581391	obliczenia_ziarniste	3.5	4.5	4	
+542000234	grafika	3.5	3	
+805048887	logika_rozmyta	3	3	3	
+664935961	mikroinformatyka	3.5	
+395240128	logika_rozmyta	3	
+542115077	obliczenia_ziarniste	3.5	2.5	4	
+619978692	grafika	3.5	
+533002073	mikroinformatyka	4.5	2.5	2.5	
+569438265	egiptologia	4.5	4	
+644650999	obliczenia_ziarniste	3	
+715776723	sieci_komputerowe	3	3	
+805995299	programowanie	2.5	3.5	
+335872246	obliczenia_ziarniste	3.5	3.5	
+440917370	filozofia	2.5	
+843396733	fizyka	3	4	5	
+461291019	logika_rozmyta	4	5	
+830331351	grafika	4.5	2.5	
+603138392	programowanie	4	4.5	
+680896004	mikroinformatyka	3.5	3.5	
+446265623	logika_rozmyta	4.5	
+764341744	obliczenia_ziarniste	3.5	
+794315305	egiptologia	4.5	
+427141517	programowanie	4.5	3.5	2	
+348832397	logika_rozmyta	3.5	3	2.5	
+510613084	programowanie	3.5	
+367727278	mikroinformatyka	3.5	4.5	3	
+616602559	mikroinformatyka	5	
+511577571	programowanie	4.5	3	
+176590363	fizyka	2	4	
+922067088	bazy_danych	5	3.5	4.5	
+163024297	programowanie	2.5	3	2.5	
+675317784	matematyka	4	
+301254587	algorytmika	4	
+794315305	logika_rozmyta	4	2.5	
+533002073	fizyka	4.5	4	
+176590363	matematyka	4	
+216989551	logika_rozmyta	3.5	4	
+501788168	algorytmika	4.5	4.5	
+823075911	bazy_danych	3	2	
+255471239	algorytmika	2.5	3.5	
+870172985	egiptologia	3	3	3	
+701641581	egiptologia	2.5	5	4.5	
+792718525	grafika	2.5	5	
+472141289	logika_rozmyta	3.5	
+616602559	grafika	4	4.5	3	
+241112900	grafika	2.5	3.5	4	
+427141517	bazy_danych	2.5	3.5	
+624785401	mikroinformatyka	4.5	
+971104060	programowanie	4	3	
+821901599	sieci_komputerowe	5	2.5	2.5	
+433903501	bazy_danych	2.5	3	
+821120214	logika_rozmyta	5	
+582786649	bazy_danych	4	3.5	
+455671211	grafika	2	4	3.5	
+748506170	matematyka	2	2	5	
+472141289	programowanie	4	
+986752735	fizyka	2.5	4.5	
+461455418	matematyka	5	3	
+736703466	obliczenia_ziarniste	5	5	3.5	
+885178556	programowanie	3.5	4	
+910752777	grafika	4.5	4	3	
+376867403	bazy_danych	3	4	4.5	
+748506170	programowanie	2.5	3.5	4.5	
+363319343	bazy_danych	2.5	
+804830630	bazy_danych	4	3.5	
+616602559	programowanie	3	3	
+454693791	filozofia	4	3	4	
+395352872	sieci_komputerowe	3.5	
+555031707	grafika	4.5	3	
+565898968	fizyka	3	
+242494310	logika_rozmyta	4	3.5	
+906598422	mikroinformatyka	5	
+977189928	grafika	4	4	
+417858626	fizyka	3	3.5	
+603138392	sieci_komputerowe	3.5	
+449761524	programowanie	4	4	
+242478243	sieci_komputerowe	4	
+400821548	matematyka	3	4.5	
+341203241	programowanie	3.5	3	3	
+697093633	egiptologia	3.5	4.5	
+125261813	matematyka	4	
+336731637	bazy_danych	3.5	
+402208168	algorytmika	4	2.5	
+604100171	mikroinformatyka	2.5	5	4	
+146161971	obliczenia_ziarniste	4	
+629481362	grafika	2.5	
+307686836	algorytmika	3.5	4.5	
+307686836	sieci_komputerowe	3.5	
+918244081	algorytmika	2.5	2.5	
+446792395	obliczenia_ziarniste	4.5	
+972066953	logika_rozmyta	3	
+141919169	mikroinformatyka	2	5	3	
+830331351	egiptologia	3	
+686771878	matematyka	3.5	3.5	3	
+554430958	programowanie	2	
+382775833	fizyka	3	4.5	3	
+564695734	matematyka	3	
+786831503	egiptologia	4	4.5	
+572151447	sieci_komputerowe	3.5	
+970098045	sieci_komputerowe	3	5	3.5	
+888336602	algorytmika	4.5	5	
+558720008	egiptologia	4	3.5	3.5	
+851588401	sieci_komputerowe	4	2.5	
+434995246	obliczenia_ziarniste	3	2	2.5	
+939678251	grafika	4	
+311893390	obliczenia_ziarniste	3.5	
+520126619	grafika	2.5	4.5	4.5	
+500824734	matematyka	3.5	
+557907121	filozofia	3	4.5	3.5	
+969832050	obliczenia_ziarniste	2.5	
+188807808	logika_rozmyta	3.5	5	
+946654386	logika_rozmyta	3	
+862630273	matematyka	3.5	
+421573637	logika_rozmyta	3	
+308708807	mikroinformatyka	3.5	
+552563418	obliczenia_ziarniste	2.5	
+777032931	mikroinformatyka	5	3	4	
+482609745	sieci_komputerowe	4.5	
+901823024	egiptologia	4	2.5	
+980732794	bazy_danych	3.5	5	
+683676437	mikroinformatyka	3	3.5	3	
+474466390	filozofia	2	
+941747229	sieci_komputerowe	3	4.5	2.5	
+634353964	filozofia	4	
+372654766	egiptologia	4	3	3	
+244052075	logika_rozmyta	3.5	
+804798412	algorytmika	2.5	2.5	
+640899832	egiptologia	3.5	5	
+589562066	obliczenia_ziarniste	4	
+264466343	algorytmika	2	3.5	
+498638862	mikroinformatyka	4.5	
+280970115	egiptologia	4.5	
+242987216	mikroinformatyka	3	
+319744418	mikroinformatyka	2.5	
+920191896	fizyka	4	2.5	
+242478243	grafika	2	3.5	4	
+317853171	grafika	4	
+254561140	matematyka	2	4	4	
+344579834	sieci_komputerowe	2.5	2.5	
+921789285	egiptologia	3	3	2.5	
+593985360	matematyka	3	4	
+607711120	matematyka	4.5	4.5	4	
+348832397	egiptologia	4	
+714195438	fizyka	3.5	
+125588375	sieci_komputerowe	4.5	3	
+369237145	filozofia	3.5	3.5	
+979939245	filozofia	3.5	
+510936584	sieci_komputerowe	2.5	4.5	
+301254587	matematyka	3	2	
+654252428	egiptologia	4	4	
+536414219	grafika	3.5	2	4.5	
+924463041	obliczenia_ziarniste	3.5	3.5	
+408979868	filozofia	4.5	4	3	
+244052075	logika_rozmyta	2.5	
+900799380	bazy_danych	3.5	4	4	
+718743220	bazy_danych	4	
+515891897	obliczenia_ziarniste	4.5	
+395352872	egiptologia	3	3	4	
+678852478	obliczenia_ziarniste	4	3.5	
+346329678	programowanie	3	
+243923202	filozofia	5	
+794335378	algorytmika	5	
+923455232	filozofia	4.5	
+654372164	logika_rozmyta	3.5	3	4	
+586351288	filozofia	4	3.5	
+556892236	sieci_komputerowe	4	5	3.5	
+712961565	egiptologia	3.5	4.5	4	
+981968476	egiptologia	2.5	
+974413007	logika_rozmyta	3	4	5	
+130354753	bazy_danych	2.5	3.5	2	
+404563533	grafika	4	3	
+128690471	algorytmika	3	2.5	4.5	
+842480298	obliczenia_ziarniste	4.5	3.5	
+295259170	matematyka	3	5	3.5	
+637184204	matematyka	4	5	3.5	
+163024297	sieci_komputerowe	2	3.5	
+163024297	sieci_komputerowe	4.5	4	2	
+882370312	mikroinformatyka	3	4	
+749139479	mikroinformatyka	4.5	
+939678251	logika_rozmyta	3.5	3.5	
+671943952	sieci_komputerowe	3	3	4	
+216483783	fizyka	3	3	
+942729537	bazy_danych	3.5	
+139057214	bazy_danych	4	
+654230850	obliczenia_ziarniste	3	
+299243222	filozofia	3.5	3	
+360996414	mikroinformatyka	4.5	3	4	
+141145841	filozofia	4.5	3.5	
+201154346	algorytmika	2	5	3	
+900799380	matematyka	3.5	3.5	
+736101920	mikroinformatyka	3.5	4	3	
+521750789	logika_rozmyta	3.5	2.5	
+590640220	programowanie	3.5	2.5	
+472550755	obliczenia_ziarniste	3.5	2.5	
+705804440	obliczenia_ziarniste	3.5	2.5	4	
+537308888	matematyka	4.5	3.5	
+742324625	bazy_danych	4	2	
+584297974	algorytmika	5	3.5	
+318897831	filozofia	3.5	3	3	
+396559416	egiptologia	3	
+613407184	filozofia	3.5	
+226870525	programowanie	4.5	
+354670144	logika_rozmyta	4.5	4	3	
+763293284	obliczenia_ziarniste	4	3	3	
+293880246	obliczenia_ziarniste	3.5	4	
+599797626	grafika	2.5	
+640899832	egiptologia	3.5	4.5	3	
+273747942	egiptologia	2.5	2.5	3	
+661856906	mikroinformatyka	4	3	2.5	
+839795597	filozofia	2	4.5	4.5	
+718743220	fizyka	3.5	4	2.5	
+652888868	obliczenia_ziarniste	4	
+224767411	obliczenia_ziarniste	2.5	4	3	
+188192088	sieci_komputerowe	3	4	4	
+418051691	fizyka	3.5	
+892684319	egiptologia	3	3.5	3	
+774175253	mikroinformatyka	3.5	
+143134920	bazy_danych	4.5	2	
+922067088	grafika	4.5	
+962779305	programowanie	4	2.5	4.5	
+358813421	grafika	2	3.5	
+568105894	programowanie	4.5	3.5	
+415249297	matematyka	4	
+433991560	fizyka	3.5	
+568142775	egiptologia	4	3	
+453257732	filozofia	3.5	4	3.5	
+962239170	mikroinformatyka	2	
+684411779	algorytmika	5	
+603940187	sieci_komputerowe	5	4	
+901861580	algorytmika	3.5	
+751584323	matematyka	4	4	4	
+637184204	sieci_komputerowe	2.5	5	5	
+306947131	bazy_danych	4	
+533002073	mikroinformatyka	3	2	
+475214564	matematyka	3	4	
+607711120	fizyka	3.5	
+572151447	matematyka	4	3.5	
+255592986	obliczenia_ziarniste	3.5	2	3.5	
+652888868	logika_rozmyta	2.5	2	2	
+610278504	algorytmika	4	
+721410341	algorytmika	2.5	
+629003028	logika_rozmyta	4	
+666363107	filozofia	3.5	2.5	5	
+220170927	sieci_komputerowe	3.5	
+604100171	logika_rozmyta	2.5	
+841550913	algorytmika	3	2.5	
+865086109	programowanie	5	3.5	2	
+978309410	matematyka	3	3.5	2	
+163024297	matematyka	2	3	3.5	
+536414219	programowanie	4	
+448702041	fizyka	4.5	4	2.5	
+444955042	fizyka	5	
+357222709	logika_rozmyta	4	3.5	
+841550913	filozofia	3.5	3.5	4.5	
+190806719	filozofia	2.5	3.5	
+537181593	logika_rozmyta	3	4	4	
+841550913	egiptologia	3	4	4.5	
+330680653	programowanie	2.5	
+636228738	matematyka	3.5	4.5	
+364155302	logika_rozmyta	4	2	
+270964113	obliczenia_ziarniste	4.5	5	
+572837280	bazy_danych	4	
+341348105	programowanie	3.5	4	3	
+409205912	matematyka	2	
+266395962	mikroinformatyka	2.5	
+572151447	fizyka	2.5	3.5	3.5	
+616952127	grafika	3	
+233281410	bazy_danych	3.5	3.5	
+736101920	matematyka	2	4.5	
+714104896	filozofia	4	5	
+311781419	fizyka	3.5	
+309931976	filozofia	5	
+376867403	grafika	3.5	
+944209730	logika_rozmyta	4	2.5	3.5	
+828502505	filozofia	4	4	
+514002093	fizyka	4.5	3	
+708916141	matematyka	4.5	
+473487245	grafika	4	5	4	
+731434962	mikroinformatyka	4.5	3	3.5	
+596318831	sieci_komputerowe	3.5	2.5	
+440917370	mikroinformatyka	3.5	4.5	
+447229632	egiptologia	5	4	
+399281095	fizyka	4	
+865086109	programowanie	2.5	4	2.5	
+181599814	obliczenia_ziarniste	3	3.5	
+310810583	fizyka	4	2.5	4.5	
+912733484	mikroinformatyka	2.5	4	4.5	
+410987630	matematyka	4	
+330905488	filozofia	3.5	
+330743024	obliczenia_ziarniste	3	3.5	
+417318286	matematyka	4	
+130347892	mikroinformatyka	4	3.5	2.5	
+360996414	grafika	3	3	
+201154346	obliczenia_ziarniste	3.5	3.5	3	
+242494310	matematyka	4.5	3.5	5	
+294795831	logika_rozmyta	2.5	2.5	3.5	
+341348105	grafika	2.5	3.5	3.5	
+637184204	programowanie	2.5	3.5	
+194623827	logika_rozmyta	3	3.5	3.5	
+873530932	egiptologia	3	
+211556975	obliczenia_ziarniste	4.5	4	
+965793538	bazy_danych	3	4	4.5	
+863253132	mikroinformatyka	4	4.5	
+678973113	bazy_danych	2	
+938861412	filozofia	4	4.5	4	
+417858626	matematyka	3.5	2.5	3	
+946501442	logika_rozmyta	3	4	
+847301902	mikroinformatyka	3	3.5	5	
+158869172	algorytmika	4	4.5	
+514051709	sieci_komputerowe	3	2	
+402835361	fizyka	4	3.5	2	
+463739595	logika_rozmyta	3.5	
+330905488	sieci_komputerowe	3.5	3.5	
+557701038	fizyka	4.5	
+526105576	fizyka	4	2.5	
+528284087	grafika	2.5	
+528237999	bazy_danych	3.5	
+955832688	algorytmika	4	
+601992844	filozofia	3	4.5	
+220170927	mikroinformatyka	2.5	
+838804761	logika_rozmyta	4.5	5	
+931683374	obliczenia_ziarniste	3	3.5	2.5	
+922067088	mikroinformatyka	4	2.5	
+174577274	mikroinformatyka	4.5	4	
+475717294	obliczenia_ziarniste	2	
+123562338	mikroinformatyka	4.5	4.5	4	
+393981222	grafika	3.5	2	4.5	
+895058537	bazy_danych	2	4	3	
+402835361	mikroinformatyka	2.5	
+868212310	programowanie	3	2	
+936706529	sieci_komputerowe	2	3.5	
+146717111	matematyka	3.5	
+804830630	matematyka	4.5	2	
+453510387	matematyka	4.5	4.5	3.5	
+533859178	filozofia	2.5	
+823075911	filozofia	3.5	2.5	4	
+386230944	egiptologia	3.5	4.5	4	
+528284087	logika_rozmyta	5	2.5	2.5	
+242987216	logika_rozmyta	3.5	3.5	
+537308888	grafika	3.5	
+255835899	bazy_danych	3.5	
+234219821	sieci_komputerowe	3	2.5	4	
+700120767	programowanie	4	4.5	
+399434102	fizyka	2.5	4	4	
+154967311	filozofia	3	2	4.5	
+985839193	programowanie	5	5	3	
+227589807	programowanie	4	
+792266153	programowanie	4	4.5	3.5	
+421573637	logika_rozmyta	5	
+190558799	filozofia	3.5	
+260721604	grafika	3.5	2.5	
+869217686	programowanie	2	
+642372976	grafika	3.5	4.5	
+413521446	filozofia	3.5	
+360247097	matematyka	4.5	2	4	
+974413007	matematyka	2.5	2.5	4.5	
+901861580	logika_rozmyta	3.5	4	
+187474876	obliczenia_ziarniste	4	
+200332736	mikroinformatyka	4	
+842872087	programowanie	3	3.5	
+310483039	matematyka	3.5	
+260209714	algorytmika	3.5	
+440917370	logika_rozmyta	4.5	
+691011733	matematyka	3	
+446431623	programowanie	4.5	
+806952320	egiptologia	4	4	
+828502505	obliczenia_ziarniste	3	
+976865241	sieci_komputerowe	3.5	3.5	
+369783529	grafika	3	2.5	2.5	
+701641581	sieci_komputerowe	3.5	4	
+475717294	obliczenia_ziarniste	4.5	3.5	4.5	
+978921808	filozofia	2.5	3	3.5	
+536414219	logika_rozmyta	3.5	
+274819993	bazy_danych	3.5	
+631114063	filozofia	3.5	
+220170927	fizyka	4.5	
+299376215	programowanie	2	
+900200691	egiptologia	4	3.5	2	
+411419248	mikroinformatyka	3.5	5	4	
+804798412	algorytmika	2.5	2.5	
+201154346	algorytmika	3.5	5	
+349003372	sieci_komputerowe	5	2.5	3.5	
+166245331	grafika	3	3.5	
+453257732	programowanie	2	2.5	4	
+558325134	mikroinformatyka	3.5	3.5	
+260139136	sieci_komputerowe	4	
+241426087	filozofia	3.5	
+536509780	mikroinformatyka	3	
+935633199	egiptologia	3.5	4	
+495814329	obliczenia_ziarniste	2	4.5	3.5	
+666201034	programowanie	2.5	3.5	
+267833392	logika_rozmyta	3	3.5	4.5	
+460379418	filozofia	3.5	
+333042004	obliczenia_ziarniste	3.5	3.5	
+217378816	obliczenia_ziarniste	4.5	4	3.5	
+443873243	egiptologia	3.5	3	
+325749251	grafika	3.5	
+397661810	sieci_komputerowe	3	4	4.5	
+418051691	fizyka	3.5	
+727740540	egiptologia	4.5	
+307406393	mikroinformatyka	4	4	
+381936210	grafika	2.5	4.5	
+742470989	logika_rozmyta	4	
+594217298	mikroinformatyka	5	2	3	
+906598422	programowanie	4	3	
+962779305	matematyka	3	3.5	
+380716704	algorytmika	3.5	2	3.5	
+680570125	fizyka	3.5	3.5	
+197338663	mikroinformatyka	4	3	2.5	
+444955042	bazy_danych	2.5	4.5	
+158869172	grafika	4	
+862630273	obliczenia_ziarniste	3	
+723711027	algorytmika	4	2.5	4	
+946654386	grafika	4.5	2.5	
+967467228	sieci_komputerowe	2	2.5	3.5	
+661172344	matematyka	3	3	
+369783529	obliczenia_ziarniste	3.5	4	
+215118023	mikroinformatyka	3.5	
+498638862	fizyka	3.5	3	4	
+536509780	bazy_danych	3.5	
+147044633	obliczenia_ziarniste	4	3	
+261995711	matematyka	2	4	
+158423236	filozofia	2.5	3	
+366230277	logika_rozmyta	3.5	
+577313577	egiptologia	4.5	2.5	4	
+316342167	sieci_komputerowe	3	
+418051691	fizyka	4	
+508814786	mikroinformatyka	3.5	3.5	
+784363182	mikroinformatyka	2.5	2	4	
+146717111	logika_rozmyta	3.5	
+629003028	filozofia	4.5	
+346476185	obliczenia_ziarniste	3.5	4.5	
+909681356	egiptologia	3.5	
+500824734	fizyka	4	
+453510387	logika_rozmyta	5	3.5	3	
+298722594	grafika	2.5	
+656094773	programowanie	3.5	
+827376655	mikroinformatyka	4.5	
+202648182	bazy_danych	2.5	3.5	3	
+316117187	mikroinformatyka	4.5	
+360996414	logika_rozmyta	2	
+941747229	mikroinformatyka	3	3.5	3.5	
+239329208	filozofia	2.5	3.5	
+792892257	filozofia	3.5	3	3.5	
+774175253	programowanie	4.5	3	4	
+510520737	egiptologia	3	
+865086109	matematyka	5	
+557947659	mikroinformatyka	3	3	3.5	
+541706658	matematyka	2.5	
+152351338	mikroinformatyka	3	2.5	
+357222709	mikroinformatyka	2.5	4.5	3.5	
+495814329	matematyka	4	3	
+146161971	programowanie	3	
+367965708	grafika	3	
+123562338	logika_rozmyta	3.5	3.5	4	
+216483783	sieci_komputerowe	4	4	
+738540604	algorytmika	3.5	
+940851974	obliczenia_ziarniste	4	3.5	3	
+330905488	matematyka	2.5	4	2	
+688040019	mikroinformatyka	3.5	4	4.5	
+193499957	filozofia	3.5	3	
+686771878	bazy_danych	3.5	4	2.5	
+748506170	filozofia	4	
+330680653	egiptologia	3	2.5	
+522386180	fizyka	3.5	
+661856906	sieci_komputerowe	3.5	
+639739923	matematyka	3	3	
+712961565	programowanie	3	4	2	
+319744418	mikroinformatyka	3.5	3.5	
+680787194	grafika	2.5	
+192227934	logika_rozmyta	3.5	2.5	
+642097822	mikroinformatyka	2.5	4.5	4	
+498638862	mikroinformatyka	2.5	
+523359574	bazy_danych	4	4	
+427518276	algorytmika	3	5	
+582786649	sieci_komputerowe	3.5	3	
+490098087	sieci_komputerowe	3.5	
+521750789	algorytmika	2	3.5	3.5	
+316342167	grafika	4.5	3.5	
+586351288	grafika	4.5	3	3.5	
+322877736	mikroinformatyka	4.5	4.5	5	
+577578636	egiptologia	3	2	2.5	
+215118023	filozofia	3	
+673167228	filozofia	4.5	2.5	
+386301096	fizyka	3.5	3	3	
+794208036	egiptologia	3.5	2	3	
+859402271	mikroinformatyka	2	3	
+307686836	algorytmika	3	4.5	4.5	
+475717294	bazy_danych	3	4	
+580280439	sieci_komputerowe	3	4	
+705804440	algorytmika	2.5	4	3.5	
+415492387	obliczenia_ziarniste	4	
+699465194	sieci_komputerowe	2.5	
+464153526	filozofia	3	3	
+692034613	egiptologia	3	
+270964113	logika_rozmyta	4.5	3	4.5	
+295965691	egiptologia	5	3	
+907188553	mikroinformatyka	3	5	3.5	
+570766394	bazy_danych	4	4	4	
+833828976	obliczenia_ziarniste	4.5	4.5	2.5	
+415249297	logika_rozmyta	2	
+962779305	programowanie	5	4	3	
+921789285	logika_rozmyta	3	3.5	4	
+792266153	algorytmika	4.5	
+344579834	programowanie	2.5	3.5	
+301852361	logika_rozmyta	4	5	3.5	
+330905488	bazy_danych	3	3.5	
+795765749	egiptologia	4.5	3.5	
+475214564	logika_rozmyta	3.5	5	2.5	
+710738414	egiptologia	3.5	5	3.5	
+955832688	filozofia	3.5	4	
+190425377	logika_rozmyta	3.5	3.5	
+552563418	mikroinformatyka	3.5	5	
+886562970	sieci_komputerowe	2.5	3	3	
+777032931	programowanie	4	3	4	
+227589807	obliczenia_ziarniste	4	
+262270199	programowanie	4.5	2.5	
+798580771	obliczenia_ziarniste	4	
+202648182	obliczenia_ziarniste	2.5	
+347835246	filozofia	3	
+568142775	egiptologia	2.5	
+762946141	bazy_danych	3	
+610278504	obliczenia_ziarniste	3.5	4.5	2.5	
+168321603	sieci_komputerowe	2.5	
+229296920	grafika	5	
+376867403	fizyka	3.5	4	
+376867403	obliczenia_ziarniste	3	
+369392644	matematyka	2.5	3.5	
+166245331	grafika	4	2	
+195557770	fizyka	3	3.5	
+680896004	logika_rozmyta	4	
+603138392	programowanie	3	4	3.5	
+231796997	matematyka	3	4	
+280970115	egiptologia	3	2	
+497584267	filozofia	4	
+589562066	matematyka	2.5	
+578380469	egiptologia	3.5	3.5	3	
+558932890	egiptologia	3.5	5	3	
+823431790	matematyka	4.5	
+264466343	fizyka	4.5	5	
+572151447	mikroinformatyka	4	
+714104896	mikroinformatyka	2	4	
+634085104	egiptologia	4.5	2.5	
+319744418	sieci_komputerowe	4	
+648541509	programowanie	2.5	4.5	4.5	
+408979868	matematyka	4.5	2.5	4.5	
+948402134	sieci_komputerowe	4.5	4.5	2	
+492402045	grafika	3	2	
+783393686	bazy_danych	4.5	
+264466343	mikroinformatyka	4.5	3	4	
+967467228	bazy_danych	4	4.5	
+189521606	obliczenia_ziarniste	4.5	
+657906989	logika_rozmyta	3	2	
+804798412	logika_rozmyta	4	
+944145649	fizyka	3.5	4.5	
+885865179	programowanie	3	4.5	3.5	
+242545298	fizyka	2.5	
+261995711	egiptologia	3.5	3	3	
+980732794	grafika	2	
+912733484	algorytmika	3	4	4	
+417318286	programowanie	3.5	
+680570125	algorytmika	4	3	4	
+590640220	logika_rozmyta	3	
+885308698	egiptologia	2	3	
+528284087	filozofia	2.5	2.5	2	
+701641581	egiptologia	3	3.5	
+987262088	matematyka	2	3.5	
+572151447	logika_rozmyta	4.5	4	
+654252428	mikroinformatyka	4	
+219553297	filozofia	3	
+495814329	mikroinformatyka	2.5	2.5	3.5	
+886562970	logika_rozmyta	3.5	
+287033795	matematyka	4	3	
+280970115	obliczenia_ziarniste	3.5	3	3.5	
+492318739	mikroinformatyka	4	3.5	
+194384867	programowanie	3.5	3.5	4	
+980826268	grafika	4.5	
+948402134	fizyka	2	3	
+938861412	logika_rozmyta	2	3	
+318905778	filozofia	4	4.5	
+195557770	matematyka	3.5	5	3	
+187474876	programowanie	4.5	3.5	3.5	
+925277402	logika_rozmyta	2.5	5	
+285645492	obliczenia_ziarniste	2.5	3.5	2	
+936880446	matematyka	2.5	3	
+242987216	matematyka	3.5	
+408979868	egiptologia	4	5	
+983722585	matematyka	2.5	2	4	
+953418290	programowanie	4	2.5	
+970036633	egiptologia	2	3.5	
+546619979	grafika	3.5	2.5	
+436525878	matematyka	3.5	3.5	
+886562970	obliczenia_ziarniste	3.5	4.5	4.5	
+517686849	logika_rozmyta	4	
+290819220	egiptologia	3.5	
+784363182	algorytmika	2	5	
+433991560	mikroinformatyka	3.5	3.5	
+924463041	mikroinformatyka	3	3	3	
+702765007	mikroinformatyka	2	3.5	
+739814241	fizyka	3.5	3	
+543194732	sieci_komputerowe	4	3	3.5	
+367629849	mikroinformatyka	2.5	4.5	
+602008671	algorytmika	3	4	
+651654171	grafika	4	3.5	2	
+188192088	algorytmika	2	2.5	3.5	
+580280439	logika_rozmyta	3	
+352981468	egiptologia	3.5	
+603851539	filozofia	4	4	
+977744177	programowanie	3.5	
+129606069	logika_rozmyta	2.5	
+163366641	logika_rozmyta	4	3.5	2.5	
+644650999	grafika	3.5	
+962779305	programowanie	2.5	
+441017629	matematyka	3.5	
+528284087	programowanie	3	4	3.5	
+577735425	mikroinformatyka	3.5	3.5	3.5	
+812629017	algorytmika	2.5	4	3	
+389354297	bazy_danych	4	
+260209714	fizyka	4	3	3	
+856131876	bazy_danych	3	3.5	
+940503781	obliczenia_ziarniste	4.5	
+838037297	sieci_komputerowe	3	
+903179918	matematyka	2.5	
+174577274	sieci_komputerowe	3.5	4	5	
+135794244	obliczenia_ziarniste	4	3.5	
+673518034	grafika	4	3	3.5	
+295259170	logika_rozmyta	5	3	3.5	
+422801686	programowanie	4	4.5	
+514051709	egiptologia	3	4	
+293880246	matematyka	4	
+944209730	sieci_komputerowe	4	3	3	
+944145649	algorytmika	3.5	4.5	
+584297974	fizyka	4	2.5	3.5	
+436525878	logika_rozmyta	3	5	
+944209730	filozofia	3.5	3.5	
+334617912	algorytmika	3.5	3	5	
+211267243	programowanie	3	
+428650571	programowanie	3	3	
+657906989	logika_rozmyta	4.5	3.5	
+691605381	algorytmika	4.5	5	
+413521446	logika_rozmyta	2.5	
+471283604	sieci_komputerowe	4	4	3	
+262270199	fizyka	4	4.5	
+143134920	bazy_danych	3	
+823573624	sieci_komputerowe	5	
+522386180	filozofia	3	3.5	
+635316513	programowanie	3.5	
+703398477	grafika	2	2.5	
+569126844	algorytmika	3.5	4	
+768201395	matematyka	3.5	2.5	3	
+596318831	mikroinformatyka	4	3	
+478401002	programowanie	3.5	
+125261813	bazy_danych	4	
+270783451	obliczenia_ziarniste	3.5	4	
+463739595	bazy_danych	2	2.5	4.5	
+227589807	mikroinformatyka	4.5	
+636920005	obliczenia_ziarniste	5	
+691605381	algorytmika	5	
+688873922	egiptologia	3	
+680570125	logika_rozmyta	4	
+837612053	fizyka	3	2.5	4	
+831949806	algorytmika	3	
+229296920	grafika	3.5	3.5	
+125261813	filozofia	3.5	3	4	
+648450085	obliczenia_ziarniste	4.5	3.5	2.5	
+744731484	algorytmika	4.5	
+622435565	obliczenia_ziarniste	4.5	3	
+466628530	algorytmika	3	4.5	3	
+593985360	egiptologia	4	3.5	
+458492617	algorytmika	3.5	4.5	
+147044633	matematyka	4	
+962239170	algorytmika	4	4	2.5	
+977189928	programowanie	2.5	2.5	3	
+472354510	algorytmika	2.5	
+360247097	obliczenia_ziarniste	4.5	
+334617912	programowanie	4.5	2.5	3.5	
+970052629	filozofia	2.5	3.5	
+543194732	matematyka	2.5	
+649366137	grafika	2.5	2.5	
+948874564	mikroinformatyka	2.5	
+273747942	programowanie	3.5	4.5	
+795765749	algorytmika	4.5	5	4	
+500824734	logika_rozmyta	3	3.5	
+517686849	fizyka	4	
+738878111	programowanie	3.5	3.5	3	
+546619979	filozofia	3.5	3.5	3	
+177860634	fizyka	3.5	3	
+949850820	grafika	3.5	
+786831503	logika_rozmyta	3	3.5	
+408979868	grafika	2.5	4	
+882917088	bazy_danych	2.5	2	
+603964669	filozofia	3	
+475214564	algorytmika	4	3	2.5	
+812629017	mikroinformatyka	3.5	3	
+492318739	mikroinformatyka	4.5	3.5	4	
+822200903	grafika	3	3.5	
+974148482	filozofia	2.5	4	3.5	
+436525878	programowanie	3.5	2	
+651675455	obliczenia_ziarniste	2.5	4.5	
+777032931	sieci_komputerowe	3	
+794335378	mikroinformatyka	3	3	
+951219203	filozofia	2.5	
+395352872	sieci_komputerowe	5	4	
+862630273	matematyka	3.5	3.5	4	
+579198106	grafika	3.5	4	
+262270199	obliczenia_ziarniste	4	4	
+267833392	matematyka	5	
+189521606	bazy_danych	4	2.5	2.5	
+454693791	egiptologia	2.5	3.5	
+819004505	sieci_komputerowe	2.5	5	3	
+262257596	logika_rozmyta	2.5	
+799869929	fizyka	2	2	3.5	
+922252596	filozofia	4	3.5	5	
+853773397	matematyka	2.5	3.5	
+403002210	programowanie	4.5	
+622034499	mikroinformatyka	5	
+597482026	matematyka	3.5	4	
+799869929	grafika	3.5	3.5	
+246009927	sieci_komputerowe	3	3	
+721410341	egiptologia	4.5	
+288327998	algorytmika	5	3	3	
+572837280	filozofia	3.5	3.5	
+399766855	programowanie	4.5	2.5	
+969832050	programowanie	5	2.5	
+444954399	obliczenia_ziarniste	3	
+363319343	sieci_komputerowe	3.5	4	
+141919169	sieci_komputerowe	3.5	4.5	4	
+455671211	algorytmika	3.5	3.5	
+447229632	sieci_komputerowe	4	2.5	2	
+366370602	logika_rozmyta	4.5	
+948402134	filozofia	3.5	3.5	3.5	
+654494595	egiptologia	2.5	4.5	4.5	
+471283604	bazy_danych	3	3.5	4.5	
+946501442	programowanie	4	3.5	
+972743423	programowanie	3.5	4	
+622435565	filozofia	4	2	3.5	
+552563418	fizyka	3.5	4	2.5	
+641547621	bazy_danych	2.5	4	4	
+534887059	logika_rozmyta	4	4.5	
+962239170	filozofia	4	3	2	
+471578109	filozofia	2.5	
+255592986	mikroinformatyka	2.5	2	2.5	
+227468046	sieci_komputerowe	2.5	
+408248620	filozofia	2.5	3	4	
+632087328	egiptologia	5	4.5	3	
+125588375	logika_rozmyta	3.5	3	
+792266153	obliczenia_ziarniste	3.5	4	3	
+200332736	fizyka	2.5	4	
+728174216	egiptologia	3.5	5	4	
+428226145	obliczenia_ziarniste	4	
+909681356	programowanie	4	4	
+978309410	logika_rozmyta	4.5	2.5	
+744731484	filozofia	4.5	
+893164600	mikroinformatyka	3.5	
+960769624	grafika	4.5	4	
+186089954	matematyka	3	3.5	
+127228523	sieci_komputerowe	4	
+316342167	obliczenia_ziarniste	3	3	3	
+978309410	matematyka	3	
+896160632	filozofia	4	
+288327998	sieci_komputerowe	5	3.5	
+360247097	mikroinformatyka	4	
+260634002	algorytmika	4.5	4.5	
+190425377	fizyka	4	
+363319343	matematyka	3	
+569126844	obliczenia_ziarniste	4	
+274085398	mikroinformatyka	2	3.5	3	
+232365843	sieci_komputerowe	3	3	3.5	
+971104060	bazy_danych	4.5	3.5	4	
+842872087	fizyka	2	
+983722585	mikroinformatyka	4	2.5	2.5	
+959181787	bazy_danych	3.5	4	
+587745544	matematyka	2.5	5	
+342375941	obliczenia_ziarniste	2	2.5	5	
+823431790	algorytmika	3.5	
+311893390	mikroinformatyka	2.5	3	3.5	
+965320716	grafika	2.5	3	
+575850582	egiptologia	2.5	4	3	
+587745544	matematyka	4.5	
+722804293	grafika	4.5	2.5	4	
+946654386	algorytmika	3.5	
+474466390	filozofia	4	
+594900937	algorytmika	3.5	3	
+469450818	logika_rozmyta	3	3.5	2.5	
+777032931	filozofia	2	3.5	3	
+487531557	obliczenia_ziarniste	4.5	3	2	
+651675455	programowanie	4.5	3	
+216989551	algorytmika	4.5	4.5	4	
+190425377	filozofia	3	
+453510387	matematyka	3	
+737433399	grafika	4	4	4.5	
+626355655	egiptologia	3.5	3.5	2.5	
+540584125	programowanie	2.5	3	
+863253132	obliczenia_ziarniste	4	3	3.5	
+174045664	filozofia	2.5	
+525254990	bazy_danych	3	5	3.5	
+175972459	logika_rozmyta	3	3	
+514051709	mikroinformatyka	4.5	3.5	
+546619979	matematyka	4.5	4.5	
+586243358	filozofia	3	
+629003028	matematyka	3.5	5	
+728174216	matematyka	2	3	2.5	
+287033795	matematyka	3.5	2.5	
+771953428	egiptologia	2.5	4	
+242494310	logika_rozmyta	2	3.5	2.5	
+393981222	logika_rozmyta	3.5	2.5	
+718400238	algorytmika	3.5	4.5	
+244049840	fizyka	3	2.5	3.5	
+931463305	algorytmika	3.5	
+841550913	matematyka	3	3	3.5	
+596318831	fizyka	3	5	3.5	
+642097822	sieci_komputerowe	4	3	5	
+289119533	filozofia	3	3.5	2.5	
+479264894	fizyka	4	
+807368367	sieci_komputerowe	2.5	
+793064797	fizyka	4.5	5	
+233281410	matematyka	4	
+495628485	fizyka	3.5	3	
+224513904	programowanie	5	
+466861389	mikroinformatyka	3.5	
+125588375	mikroinformatyka	5	
+441454121	logika_rozmyta	3	2.5	3.5	
+347835246	egiptologia	3	
+824310407	fizyka	3.5	
+828502505	algorytmika	2.5	4.5	
+823431790	programowanie	4.5	3.5	2	
+333042004	obliczenia_ziarniste	3	
+590640220	sieci_komputerowe	3.5	2	2.5	
+555672700	sieci_komputerowe	2.5	3	2.5	
+227468046	grafika	5	3	
+307002053	algorytmika	2	3.5	
+395352872	fizyka	3	
+815645120	fizyka	3.5	3	
+600821717	algorytmika	2	
+323134286	fizyka	3.5	3.5	
+470403667	logika_rozmyta	4.5	3.5	
+722423594	sieci_komputerowe	5	4.5	
+870172985	bazy_danych	3.5	2	2.5	
+215044379	fizyka	3.5	3.5	3.5	
+922067088	fizyka	3	
+443873243	filozofia	4.5	4	
+984000312	matematyka	3	2.5	3.5	
+744731484	sieci_komputerowe	4.5	
+298596846	bazy_danych	2	3	
+667696248	sieci_komputerowe	3.5	4	2.5	
+338389715	obliczenia_ziarniste	3	3	
+417318286	algorytmika	4.5	2	
+664506526	fizyka	3	4.5	3	
+158423236	egiptologia	4	
+828502505	sieci_komputerowe	4	3.5	
+242545298	logika_rozmyta	2	2	
+233721721	obliczenia_ziarniste	3.5	
+941505339	programowanie	2	2.5	
+306947131	algorytmika	3.5	
+446013182	logika_rozmyta	2	4	
+443986117	mikroinformatyka	4.5	3	
+152854812	matematyka	2	3.5	
+749139479	logika_rozmyta	3.5	
+629003028	fizyka	4.5	3.5	
+498095334	bazy_danych	3	
+555672700	grafika	3	2.5	2.5	
+596318831	bazy_danych	3	2	
+749139479	algorytmika	3.5	
+856131876	egiptologia	3.5	
+675967184	fizyka	4.5	4	
+895058537	filozofia	3.5	5	3	
+447229632	obliczenia_ziarniste	5	
+338389715	logika_rozmyta	3	5	3	
+595387109	mikroinformatyka	3	4.5	2.5	
+448702041	sieci_komputerowe	4.5	2.5	
+364155302	bazy_danych	3	4	4	
+272957097	programowanie	3.5	4	
+134724468	mikroinformatyka	5	3.5	3.5	
+688040019	egiptologia	2	
+399434102	fizyka	3.5	3	
+722804293	algorytmika	3	3.5	
+595677907	matematyka	4	3	3.5	
+895058537	egiptologia	5	2.5	3.5	
+674381375	filozofia	3	3.5	
+970752692	matematyka	4.5	4.5	
+567514659	bazy_danych	4.5	3.5	2.5	
+395352872	egiptologia	2.5	3	
+766129811	bazy_danych	3	3	
+923455232	egiptologia	4.5	3.5	3	
+177860634	matematyka	4	
+157189445	fizyka	4.5	3.5	3.5	
+837612053	filozofia	2.5	3	
+819130429	logika_rozmyta	3	
+130354753	filozofia	3.5	4	4	
+323670113	bazy_danych	3.5	
+488010666	grafika	4	2	
+526055786	fizyka	3	2.5	
+190806719	logika_rozmyta	3.5	
+982375849	fizyka	2	2.5	2.5	
+860706913	algorytmika	5	
+672191761	programowanie	2	4	
+871803494	egiptologia	3.5	3.5	
+931463305	grafika	3.5	3.5	
+189461898	algorytmika	3.5	
+419418028	logika_rozmyta	3.5	3.5	4.5	
+163024297	matematyka	4	2.5	
+661856906	programowanie	4.5	2	3	
+475876799	grafika	2	3.5	
+678852478	fizyka	4	2.5	
+336460404	mikroinformatyka	4	
+715183386	filozofia	3.5	2.5	
+560950076	filozofia	3.5	4	
+443986117	grafika	5	3.5	
+912384262	filozofia	3.5	2	3.5	
+974413007	algorytmika	3	3.5	
+339771436	grafika	4	
+853773397	sieci_komputerowe	4	2.5	3.5	
+123562338	obliczenia_ziarniste	3.5	3	5	
+455671211	filozofia	2	
+311239197	logika_rozmyta	4.5	5	3.5	
+906598422	algorytmika	2.5	
+821901599	grafika	2.5	
+399766855	filozofia	3	4	
+922082499	sieci_komputerowe	3.5	
+726313040	egiptologia	4.5	3.5	3	
+440917370	grafika	3.5	
+882370312	mikroinformatyka	4	
+486571204	fizyka	2	4	3.5	
+558325134	sieci_komputerowe	2	
+386383742	programowanie	2.5	4	4.5	
+278894186	sieci_komputerowe	5	3	3.5	
+395848224	grafika	4.5	3.5	2.5	
+776954599	obliczenia_ziarniste	2.5	
+948402134	bazy_danych	3.5	3	3	
+479893906	bazy_danych	4.5	
+637184204	logika_rozmyta	3.5	2	3.5	
+495628485	logika_rozmyta	3.5	
+693521884	logika_rozmyta	4	
+622435565	matematyka	2	
+847301902	sieci_komputerowe	4	
+603851539	bazy_danych	3.5	
+514002093	filozofia	4	3	
+479069844	algorytmika	2.5	2.5	
+823075911	egiptologia	3.5	
+174045664	algorytmika	5	3	3	
+217378816	programowanie	3	
+500824734	obliczenia_ziarniste	2.5	4	3.5	
+965320716	grafika	3	
+635316513	logika_rozmyta	4.5	3.5	4.5	
+175972459	algorytmika	2.5	
+242478243	programowanie	3.5	
+986793335	egiptologia	2.5	
+169178456	filozofia	2.5	
+636920005	obliczenia_ziarniste	3.5	
+886582804	mikroinformatyka	4	3	
+622435565	filozofia	4.5	
+983722585	algorytmika	2.5	
+878681705	sieci_komputerowe	5	
+255835899	obliczenia_ziarniste	3.5	4	4	
+316342167	algorytmika	2.5	
+689296941	fizyka	4	3.5	
+634085104	mikroinformatyka	4	
+603964669	sieci_komputerowe	4	3	3	
+648450085	obliczenia_ziarniste	3.5	2.5	
+694282033	programowanie	5	3	2	
+181879368	grafika	2.5	3	
+461291019	egiptologia	2.5	2.5	4	
+130354753	bazy_danych	3	
+402835361	fizyka	3.5	3	4	
+823573624	filozofia	3.5	3.5	
+261995711	logika_rozmyta	2.5	4	
+953418290	matematyka	4.5	4	4.5	
+518770428	algorytmika	4	
+461291019	matematyka	2	
+484942052	algorytmika	3	3.5	
+552779981	logika_rozmyta	3	3	
+951978915	matematyka	3.5	
+579198106	obliczenia_ziarniste	2.5	3	
+922082499	sieci_komputerowe	4.5	
+449761524	logika_rozmyta	4	3	3.5	
+900799380	bazy_danych	3	3.5	4.5	
+687021990	mikroinformatyka	2.5	4.5	
+654230850	filozofia	3	3.5	3.5	
+777018000	sieci_komputerowe	2.5	4	
+675967184	sieci_komputerowe	5	
+741642620	filozofia	4	
+943628764	logika_rozmyta	3.5	4.5	4	
+869217686	matematyka	4	4.5	
+311893390	egiptologia	4.5	4	4.5	
+433903501	programowanie	4	3	
+973948884	bazy_danych	4.5	4	
+862630273	obliczenia_ziarniste	3.5	
+453257732	mikroinformatyka	4	3	4	
+886562970	sieci_komputerowe	3.5	
+600821717	programowanie	4	3	2	
+680296665	fizyka	3.5	
+945155809	fizyka	4	
+275692370	matematyka	5	
+777032931	matematyka	4	3	
+680787194	sieci_komputerowe	3.5	2	
+777642064	matematyka	2.5	2.5	4	
+408248620	grafika	4.5	
+607711120	fizyka	4.5	
+305479020	fizyka	5	3	
+629003028	egiptologia	3.5	4.5	4.5	
+364155302	grafika	4.5	3.5	
+976865241	logika_rozmyta	3	
+219553297	obliczenia_ziarniste	3	
+473487245	matematyka	2.5	2.5	2.5	
+675967184	grafika	2	
+295229205	obliczenia_ziarniste	4	4	4	
+762430239	fizyka	3	
+915907825	sieci_komputerowe	2.5	
+125588375	programowanie	4	3	3.5	
+558720008	fizyka	3.5	4	
+943628764	egiptologia	4	2	
+510613084	matematyka	4.5	
+692034613	filozofia	3	
+541706658	logika_rozmyta	4	
+341203241	algorytmika	4	5	2.5	
+395352872	mikroinformatyka	4	3	2.5	
+313522629	algorytmika	2	3	3	
+262257596	egiptologia	3	2	3.5	
+196783146	obliczenia_ziarniste	5	
+562186909	grafika	2.5	3.5	
+347835246	egiptologia	4.5	3	3.5	
+335872246	logika_rozmyta	3	2.5	4.5	
+893164600	grafika	3	4.5	4	
+188192088	programowanie	4	
+522386180	logika_rozmyta	3	4.5	3.5	
+595387109	obliczenia_ziarniste	4.5	5	
+833828976	matematyka	3	2	3.5	
+962391622	bazy_danych	4	4.5	4	
+311781419	logika_rozmyta	4	
+125588375	logika_rozmyta	3.5	5	4.5	
+495628485	bazy_danych	3	2.5	
+580534873	bazy_danych	2	3	3.5	
+409205912	fizyka	2.5	
+678303289	sieci_komputerowe	3.5	3	
+369392644	algorytmika	4.5	4.5	4	
+219553297	filozofia	3	3	4	
+736101920	mikroinformatyka	2.5	
+691605381	egiptologia	3.5	4	4	
+308708807	programowanie	4	3.5	2.5	
+248470289	grafika	3.5	3.5	3.5	
+959181787	matematyka	4	
+441454121	algorytmika	3	3	2.5	
+680296665	sieci_komputerowe	3.5	4	4	
+675401075	mikroinformatyka	3	3.5	3.5	
+590861927	bazy_danych	3	4	
+762430239	matematyka	2	
+193499957	matematyka	3.5	
+909681356	grafika	5	3.5	
+260634002	obliczenia_ziarniste	4	
+128690471	obliczenia_ziarniste	4.5	4.5	
+281800497	fizyka	2	3	5	
+820341473	mikroinformatyka	2	
+722598961	fizyka	3	
+402835361	fizyka	4.5	
+552779981	algorytmika	2.5	3	3.5	
+535593907	logika_rozmyta	4	4.5	3.5	
+296316976	matematyka	4	4	4.5	
+590666676	logika_rozmyta	4.5	5	4	
+965793538	programowanie	2.5	3.5	2.5	
+922082499	egiptologia	3	
+354418595	programowanie	2.5	
+590833031	matematyka	3	
+397830415	mikroinformatyka	4.5	4	4	
+642097822	logika_rozmyta	2.5	
+577578636	sieci_komputerowe	4	2.5	4	
+721410341	matematyka	3.5	2.5	
+270783451	grafika	3	
+307686836	programowanie	2	
+493087129	bazy_danych	5	3.5	
+597482026	filozofia	4.5	
+382830057	sieci_komputerowe	2	3	
+516263305	mikroinformatyka	4.5	
+597482026	programowanie	3.5	5	
+644650999	grafika	4	4.5	
+336460404	matematyka	4	
+205371231	obliczenia_ziarniste	4	4	3.5	
+128690471	filozofia	3.5	3.5	
+341348105	bazy_danych	4	4	
+361411479	algorytmika	3.5	3.5	2.5	
+915907825	programowanie	4.5	3.5	4	
+557907121	egiptologia	3	4	4	
+366124002	programowanie	2.5	5	
+577313577	programowanie	3	
+986752735	filozofia	4	
+325749251	filozofia	5	
+555466880	bazy_danych	5	3.5	3	
+293880246	matematyka	4.5	4.5	4.5	
+515823312	mikroinformatyka	3.5	
+478401002	grafika	4	
+404563533	obliczenia_ziarniste	2.5	4	3	
+167002034	filozofia	4	3	
+624397526	matematyka	4	3	
+307002053	egiptologia	4	
+915907825	obliczenia_ziarniste	3.5	3.5	
+684411779	filozofia	3	3	2	
+528237999	logika_rozmyta	4.5	2	3	
+472141289	grafika	3.5	3.5	4.5	
+671943952	logika_rozmyta	3.5	
+586089189	programowanie	3.5	
+938258992	grafika	5	4	
+206512699	programowanie	4.5	
+372189874	fizyka	3.5	
+414821957	fizyka	2.5	
+522670948	filozofia	3.5	4.5	4	
+539431194	fizyka	3.5	3.5	
+541706658	programowanie	4	3.5	
+586243358	sieci_komputerowe	3.5	
+567173994	sieci_komputerowe	2.5	
+812629017	logika_rozmyta	2.5	3.5	
+521750789	filozofia	3	2	
+640899832	algorytmika	3.5	2.5	3.5	
+842988509	obliczenia_ziarniste	2.5	4.5	
+777018000	algorytmika	2.5	
+651675455	bazy_danych	3.5	2.5	3.5	
+911213139	bazy_danych	3.5	3.5	4.5	
+458492617	grafika	3	
+220170927	filozofia	3	4.5	4.5	
+333042004	algorytmika	3.5	4	3	
+323670113	mikroinformatyka	4	
+718400238	algorytmika	5	3	
+619978692	bazy_danych	3	2.5	
+661856906	mikroinformatyka	3.5	3.5	
+333042004	egiptologia	4	3.5	
+516263305	filozofia	4	5	
+721410341	filozofia	4	3.5	3.5	
+360996414	mikroinformatyka	2.5	3	
+705804440	programowanie	3.5	
+751584323	filozofia	5	3.5	
+244052075	egiptologia	4.5	
+177860634	filozofia	4	2.5	3.5	
+397830415	algorytmika	3.5	
+158423236	programowanie	3.5	3.5	
+885491278	obliczenia_ziarniste	3	
+443873243	bazy_danych	3	5	
+295965691	sieci_komputerowe	3.5	2.5	
+568142775	algorytmika	2	4.5	
+772030000	programowanie	4	2.5	
+787421803	programowanie	4	4	2	
+452663622	mikroinformatyka	3	5	
+514002093	mikroinformatyka	2.5	
+964586862	obliczenia_ziarniste	4.5	
+848027357	logika_rozmyta	3.5	3.5	
+474466390	matematyka	2.5	4	
+189095010	mikroinformatyka	3	4.5	4	
+932425781	mikroinformatyka	4.5	4.5	3	
+227589807	fizyka	4	4	2.5	
+805048887	matematyka	3.5	
+810159854	filozofia	4.5	4	
+899240912	filozofia	3	3	
+586089189	mikroinformatyka	4	3	
+334617912	obliczenia_ziarniste	2.5	3.5	4.5	
+774175253	mikroinformatyka	3.5	2.5	
+136957393	bazy_danych	3.5	4	
+853773397	fizyka	2.5	
+692545641	programowanie	4	
+197338663	fizyka	4	3	
+946654386	grafika	3	4.5	3.5	
+351547644	matematyka	2.5	
+217378816	sieci_komputerowe	3	2.5	
+907105228	obliczenia_ziarniste	3.5	
+157189445	mikroinformatyka	3	3	
+449761524	filozofia	2.5	3.5	2.5	
+686771878	programowanie	4	
+590666676	grafika	4.5	
+566694415	obliczenia_ziarniste	3	
+227589807	filozofia	3	2	
+664935961	logika_rozmyta	3	3.5	3	
+572151447	programowanie	3	
+592139511	sieci_komputerowe	3.5	4.5	3.5	
+213402767	filozofia	3.5	3	
+683676437	programowanie	4	3	5	
+701761522	algorytmika	3.5	
+219553297	programowanie	4.5	
+839795597	obliczenia_ziarniste	3.5	4.5	
+527569463	grafika	4.5	
+946501442	mikroinformatyka	2.5	3.5	
+973748574	matematyka	3.5	
+457751033	matematyka	5	3.5	
+466628530	fizyka	2	4.5	4	
+557701038	programowanie	2.5	
+763293284	logika_rozmyta	3.5	4.5	3.5	
+164541727	bazy_danych	4	
+640899832	sieci_komputerowe	3.5	3.5	
+308708807	algorytmika	4	4	4	
+479893906	logika_rozmyta	2.5	3.5	
+354418595	bazy_danych	2.5	3	
+475876799	algorytmika	4	3.5	
+774216472	matematyka	3.5	
+932425781	bazy_danych	3	4	
+526055786	egiptologia	4	5	
+895058537	bazy_danych	2.5	
+793064797	algorytmika	2.5	3.5	
+715183386	fizyka	3.5	3	4.5	
+433903501	mikroinformatyka	3.5	4	
+807368367	programowanie	4.5	
+317250150	bazy_danych	2.5	3	
+821120214	obliczenia_ziarniste	3.5	
+472354510	algorytmika	2	2	4	
+402208168	logika_rozmyta	4	4	
+882370312	algorytmika	5	4.5	4	
+394597331	bazy_danych	2	
+951219203	egiptologia	3	
+893164600	filozofia	4	
+555672700	algorytmika	4.5	3.5	5	
+590861927	obliczenia_ziarniste	3	4.5	3	
+361411479	bazy_danych	4.5	4	2.5	
+730633599	mikroinformatyka	2.5	3	
+624007825	mikroinformatyka	3.5	3	
+892684319	algorytmika	3	
+810159854	logika_rozmyta	3	3	3.5	
+301254587	fizyka	3	4	
+600821717	programowanie	3.5	2	
+533859178	sieci_komputerowe	3.5	3.5	
+978309410	sieci_komputerowe	2.5	5	
+905977278	obliczenia_ziarniste	4	3.5	
+453257732	filozofia	3	3.5	
+301852361	bazy_danych	5	4.5	
+688040019	egiptologia	4	3	
+402835361	filozofia	2.5	2.5	3	
+455319725	bazy_danych	3.5	
+539431194	obliczenia_ziarniste	5	
+595677907	grafika	5	3.5	
+910752777	obliczenia_ziarniste	3.5	2.5	2.5	
+521971928	bazy_danych	4	2	
+539431194	bazy_danych	3.5	4	
+139554563	logika_rozmyta	4.5	4	
+741642620	matematyka	3	5	
+464153526	bazy_danych	2	
+323134286	obliczenia_ziarniste	4.5	3	
+193499957	filozofia	5	3	
+654276201	programowanie	3	3	2.5	
+913499134	algorytmika	2.5	
+242478243	algorytmika	3	
+310810583	sieci_komputerowe	4	2	
+897879458	grafika	3.5	
+466628530	obliczenia_ziarniste	3	2.5	2	
+807288821	egiptologia	3	2	3	
+979939245	algorytmika	4	3.5	4	
+411419248	sieci_komputerowe	4	
+832077987	sieci_komputerowe	3	4.5	4	
+385985793	algorytmika	4	
+395848224	egiptologia	3	
+455319725	fizyka	4	
+716473772	programowanie	4	3.5	
+242478243	grafika	2.5	4	4	
+710881089	obliczenia_ziarniste	4.5	2.5	
+346329678	grafika	3.5	3.5	3.5	
+941505339	fizyka	3.5	4	
+453257732	mikroinformatyka	4	
+189095010	bazy_danych	2.5	3	
+748506170	egiptologia	3.5	3.5	
+570766394	matematyka	4	3	
+736961508	bazy_danych	2	4	
+230762035	filozofia	2.5	3.5	
+577358969	matematyka	3.5	
+273747942	obliczenia_ziarniste	3.5	2.5	
+382775833	sieci_komputerowe	3.5	
+586243358	bazy_danych	3.5	3.5	4	
+251112893	fizyka	4	
+619138039	fizyka	2.5	
+313522629	mikroinformatyka	3.5	4	
+220170927	algorytmika	3	2.5	
+498095334	filozofia	4	
+804156906	sieci_komputerowe	4	4	
+311239197	algorytmika	4.5	3.5	
+216483783	sieci_komputerowe	4	3.5	4	
+525254990	mikroinformatyka	4.5	5	2.5	
+323670113	obliczenia_ziarniste	3	
+766129811	bazy_danych	3	
+372654766	sieci_komputerowe	3	
+294964493	matematyka	4	3	
+471283604	fizyka	4.5	
+219553297	sieci_komputerowe	4	5	3.5	
+796382480	fizyka	2.5	4	3.5	
+171748307	mikroinformatyka	4.5	4	
+640521912	bazy_danych	2.5	
+873530932	grafika	4.5	3.5	4	
+514051709	mikroinformatyka	4.5	3	4	
+521750789	programowanie	2	2.5	3.5	
+125588375	obliczenia_ziarniste	4.5	2.5	
+979939245	sieci_komputerowe	3	2.5	
+498638862	filozofia	3.5	2.5	3	
+224513904	fizyka	2.5	4	3	
+794335378	fizyka	3.5	3.5	
+941505339	mikroinformatyka	2.5	
+422801686	programowanie	3	
+977744177	sieci_komputerowe	3.5	
+317853171	logika_rozmyta	2.5	4	4.5	
+404563533	sieci_komputerowe	3.5	
+366230277	mikroinformatyka	3.5	2	2.5	
+317747741	mikroinformatyka	4.5	3.5	
+273747942	logika_rozmyta	3	3.5	
+125261813	grafika	3.5	
+723711027	logika_rozmyta	2.5	
+427879100	bazy_danych	3.5	4.5	
+823075911	fizyka	5	4	3.5	
+714104896	grafika	3	3.5	
+430251986	programowanie	3.5	
+970036633	matematyka	2	
+688873922	grafika	3.5	4.5	3	
+948874564	bazy_danych	3.5	
+188192088	egiptologia	2	4	
+976865241	egiptologia	2	4	
+944145649	algorytmika	2.5	
+508814786	obliczenia_ziarniste	3.5	
+579198106	sieci_komputerowe	3.5	
+297331118	logika_rozmyta	5	5	3.5	
+863152466	bazy_danych	2.5	3	
+895394345	algorytmika	4	
+174577274	egiptologia	5	
+590861927	bazy_danych	3	4	
+408248620	sieci_komputerowe	3.5	3.5	
+360247097	grafika	2.5	3.5	
+528237999	bazy_danych	3.5	2	4.5	
+501062997	egiptologia	3.5	4.5	3	
+231796997	logika_rozmyta	2	3.5	3.5	
+466628530	grafika	2	
+260209714	egiptologia	3.5	3	2.5	
+672191761	sieci_komputerowe	2.5	4	3.5	
+606633822	fizyka	4	2	
+815645120	bazy_danych	5	
+726313040	mikroinformatyka	3.5	4	3.5	
+262874201	bazy_danych	5	2.5	
+398729218	grafika	3	3	
+248004764	fizyka	4	4	
+479264894	fizyka	3.5	4.5	3.5	
+597482026	programowanie	3	
+534921554	obliczenia_ziarniste	4	3.5	3.5	
+671943952	programowanie	3	3.5	3	
+492402045	algorytmika	3	4	4	
+633933100	filozofia	4.5	3.5	
+844874998	grafika	3.5	
+544376058	filozofia	4	2.5	
+558325134	fizyka	2.5	4	4.5	
+540584125	algorytmika	5	4	
+906598422	logika_rozmyta	4.5	
+869217686	fizyka	2	5	3.5	
+832077987	matematyka	2.5	
+260721604	bazy_danych	2.5	
+196783146	sieci_komputerowe	3	3.5	4.5	
+894857961	egiptologia	5	
+213345834	fizyka	5	4	3	
+335596653	algorytmika	4	3	2.5	
+232365843	fizyka	3.5	3	4	
+608744758	filozofia	4	3.5	3.5	
+216989551	programowanie	3	
+584257678	algorytmika	4	
+940851974	mikroinformatyka	4.5	4	
+718743220	programowanie	3	4	
+262874201	algorytmika	3.5	2.5	4	
+807288821	grafika	2.5	
+787832163	grafika	4.5	4.5	
+744731484	egiptologia	3	3.5	
+181599814	bazy_danych	5	
+393098448	matematyka	4	4	2.5	
+927584483	sieci_komputerowe	3	4	4.5	
+312065708	matematyka	4.5	4	
+485135554	egiptologia	3.5	2.5	3	
+636228738	fizyka	3.5	
+586089189	matematyka	5	3.5	2.5	
+839795597	egiptologia	3	3.5	2.5	
+174045664	fizyka	4	4	
+311239197	sieci_komputerowe	4.5	3.5	
+660309324	mikroinformatyka	5	4.5	4	
+248470289	algorytmika	4.5	
+885491278	grafika	2.5	3	
+894857961	mikroinformatyka	3	3.5	3.5	
+460379418	filozofia	3	4	
+410987630	mikroinformatyka	4	2.5	2	
+396581391	sieci_komputerowe	3	3.5	3.5	
+466861389	sieci_komputerowe	4	3	3	
+424600569	matematyka	3.5	4.5	3	
+940851974	grafika	2.5	4.5	
+360996414	matematyka	2.5	
+706008995	grafika	3	4.5	
+557701038	bazy_danych	5	3.5	
+794542603	programowanie	4	3	
+784363182	fizyka	4	
+285057870	sieci_komputerowe	3.5	
+396545831	bazy_danych	4	3	3.5	
+339771436	algorytmika	4.5	4	
+540986055	egiptologia	3.5	3	
+358572230	mikroinformatyka	3.5	
+842988509	programowanie	2.5	3	
+964586862	mikroinformatyka	3.5	4.5	3.5	
+399949725	programowanie	3.5	5	4.5	
+906173546	fizyka	2.5	3	
+317853171	filozofia	2.5	3.5	
+647011454	mikroinformatyka	3.5	
+715927468	filozofia	4	3.5	2	
+694282033	programowanie	3.5	3.5	
+216483783	programowanie	5	3	
+360247097	filozofia	3.5	
+608744758	algorytmika	4	2	3.5	
+285057870	matematyka	3	3.5	5	
+678973113	grafika	4.5	3.5	3.5	
+136655961	grafika	3	
+944209730	obliczenia_ziarniste	4	
+368974417	programowanie	4	3	
+596318831	logika_rozmyta	3.5	4.5	
+188807808	filozofia	3.5	
+141919169	programowanie	3.5	2.5	2	
+562186909	egiptologia	3	
+369392644	grafika	2.5	
+885201780	egiptologia	3.5	2.5	4	
+751584323	matematyka	4.5	3.5	3.5	
+873530932	algorytmika	3	3.5	
+528237999	obliczenia_ziarniste	5	4	2.5	
+368974417	fizyka	4.5	2.5	
+804156906	algorytmika	4	5	3.5	
+394597331	sieci_komputerowe	3	
+386230944	obliczenia_ziarniste	4.5	4	
+949666625	logika_rozmyta	4.5	3.5	4.5	
+820341473	algorytmika	4	
+510520737	logika_rozmyta	4	
+383839294	obliczenia_ziarniste	4.5	
+782826478	grafika	3	4	4.5	
+194623827	sieci_komputerowe	2.5	2	
+159069073	bazy_danych	4	2	
+289119533	mikroinformatyka	3.5	
+703398477	mikroinformatyka	3.5	2.5	4	
+939121068	sieci_komputerowe	4	
+278115386	bazy_danych	3.5	
+716473772	algorytmika	2.5	2.5	
+242545298	mikroinformatyka	3.5	3	
+616602559	programowanie	3	
+844874998	sieci_komputerowe	5	
+905977278	egiptologia	3	
+666363107	egiptologia	4	4	4	
+623719552	filozofia	4.5	
+565462697	programowanie	4.5	
+455671211	fizyka	2	3.5	
+280970115	obliczenia_ziarniste	4	5	
+654494595	grafika	4.5	
+661856906	bazy_danych	3.5	4	4.5	
+699465194	programowanie	2.5	
+603940187	algorytmika	3	
+699465194	programowanie	4.5	5	4.5	
+603964669	algorytmika	2	4	
+590833031	bazy_danych	4	5	3.5	
+718400238	filozofia	3.5	3	
+479264894	fizyka	3	4.5	
+670877802	matematyka	4.5	3.5	
+674411974	programowanie	2.5	3.5	
+613407184	mikroinformatyka	5	3.5	4	
+797656118	sieci_komputerowe	5	4.5	
+940851974	algorytmika	3.5	2.5	
+967467228	sieci_komputerowe	3.5	2	3	
+444955042	fizyka	2.5	3	3	
+953418290	grafika	4	2	
+972420801	programowanie	2.5	
+710881089	fizyka	4.5	
+231796997	obliczenia_ziarniste	3.5	3.5	
+552779981	grafika	3.5	
+722804293	sieci_komputerowe	4.5	3	3	
+175972459	mikroinformatyka	2.5	
+608744758	egiptologia	3.5	
+936880446	fizyka	2	
+443986117	egiptologia	3.5	4.5	
+593985360	grafika	4.5	3	3	
+418051691	programowanie	2.5	
+145035507	egiptologia	3.5	
+886562970	obliczenia_ziarniste	3.5	4.5	
+393098448	grafika	4	4.5	2.5	
+629481362	filozofia	2.5	
+723711027	logika_rozmyta	4	3	3	
+777642064	bazy_danych	4.5	4	
+325749251	bazy_danych	4	4.5	4.5	
+727740540	programowanie	4	
+181879368	obliczenia_ziarniste	4.5	
+195557770	egiptologia	2.5	3	
+582786649	sieci_komputerowe	3.5	
+248004764	obliczenia_ziarniste	2	4	
+664935961	matematyka	3.5	3.5	3.5	
+895333664	matematyka	3	3.5	5	
+602241165	programowanie	5	
+821196594	egiptologia	2	3	
+793064797	programowanie	3	
+372654766	obliczenia_ziarniste	4.5	
+981968476	grafika	2.5	3	
+590666676	grafika	3	3	3.5	
+241112900	programowanie	3.5	3.5	
+812629017	matematyka	3.5	4	
+374202297	programowanie	2	2.5	3.5	
+974413007	programowanie	3	
+838037297	logika_rozmyta	3.5	5	
+164541727	sieci_komputerowe	2	4.5	
+178114441	filozofia	4	
+590833031	sieci_komputerowe	4	4.5	
+838037297	logika_rozmyta	4.5	4	3.5	
+497584267	matematyka	2.5	5	3	
+873530932	algorytmika	4	5	3.5	
+762430239	grafika	3	
+895333664	logika_rozmyta	3.5	
+965320716	algorytmika	4.5	3.5	3	
+973748574	egiptologia	4	2.5	2	
+260721604	grafika	3.5	4.5	
+396581391	matematyka	2.5	3.5	4	
+710738414	mikroinformatyka	4.5	2	3	
+147044633	programowanie	4	
+299376215	obliczenia_ziarniste	2	
+395848224	bazy_danych	4	3.5	5	
+911213139	fizyka	3	
+521971928	egiptologia	3	
+640899832	egiptologia	3.5	5	3.5	
+722878691	fizyka	3.5	
+781338094	logika_rozmyta	4	4.5	3	
+566694415	filozofia	4.5	4	
+168321603	obliczenia_ziarniste	2.5	
+981968476	algorytmika	3.5	3	2.5	
+915850675	obliczenia_ziarniste	4	5	3.5	
+169178456	filozofia	4	3.5	3	
+624007825	obliczenia_ziarniste	4.5	5	3	
+738540604	filozofia	4.5	2	
+635316513	bazy_danych	2	4	
+688040019	programowanie	2	2	4	
+411732490	logika_rozmyta	3.5	
+360758263	bazy_danych	3	3.5	
+847301902	obliczenia_ziarniste	5	
+946654386	logika_rozmyta	3.5	
+546619979	programowanie	2.5	
+862630273	sieci_komputerowe	2.5	3.5	
+941505339	bazy_danych	3.5	3.5	4.5	
+946501442	filozofia	3	2	
+870172985	programowanie	3.5	
+853773397	fizyka	3.5	4	2.5	
+167002034	obliczenia_ziarniste	4.5	3	2.5	
+395352872	obliczenia_ziarniste	3	3	
+242478243	sieci_komputerowe	5	3	2	
+709498494	sieci_komputerowe	3.5	
+822200903	logika_rozmyta	4	3.5	5	
+190806719	filozofia	3	4	
+307002053	grafika	3.5	3	3.5	
+415168436	egiptologia	4	3	
+604100171	sieci_komputerowe	3	2	
+430251986	egiptologia	4	3.5	3	
+692545641	programowanie	3.5	3	
+755430307	filozofia	3.5	3	4	
+190806719	bazy_danych	3.5	4	
+906598422	filozofia	4	2	2	
+546619979	algorytmika	3.5	5	4	
+560950076	grafika	3.5	3	2.5	
+978921808	grafika	4.5	2	4	
+964540991	algorytmika	4	5	4	
+697093633	matematyka	4	4.5	
+464153526	sieci_komputerowe	4	3.5	3	
+605149376	sieci_komputerowe	3	4	
+780167574	algorytmika	4	4	3.5	
+660309324	sieci_komputerowe	3.5	
+206167703	algorytmika	4	2	
+264466343	logika_rozmyta	3.5	4	
+823431790	fizyka	5	2	
+886562970	bazy_danych	3.5	
+369237145	matematyka	3.5	3.5	
+774216472	fizyka	2.5	2	3.5	
+160784038	sieci_komputerowe	2	2.5	
+440917370	obliczenia_ziarniste	4	3.5	
+931683374	mikroinformatyka	4	2.5	3.5	
+897879458	algorytmika	3.5	
+810159854	algorytmika	3	4	
+972420801	algorytmika	3.5	4	3.5	
+766129811	filozofia	2	3.5	4	
+651675455	filozofia	3.5	2	3.5	
+634085104	programowanie	2	4	4.5	
+970052629	egiptologia	4	
+531829374	obliczenia_ziarniste	4	3.5	
+973748574	egiptologia	4	
+738540604	fizyka	4.5	3	3.5	
+728174216	grafika	3.5	4	
+634085104	filozofia	3	
+145035507	bazy_danych	4.5	4.5	3.5	
+434995246	mikroinformatyka	4.5	3.5	4	
+568105894	egiptologia	4	
+130354753	algorytmika	2.5	
+763293284	mikroinformatyka	4	3.5	
+542115077	filozofia	5	3	3.5	
+706008995	egiptologia	2.5	
+174577274	filozofia	2.5	2.5	
+569064817	logika_rozmyta	2.5	3.5	
+154462334	programowanie	2.5	
+708277101	matematyka	4.5	
+579198106	egiptologia	3.5	4.5	2	
+629003028	bazy_danych	4	3	
+448283055	sieci_komputerowe	2.5	
+577578636	grafika	5	4.5	
+403002210	bazy_danych	3	4	2.5	
+839795597	sieci_komputerowe	3	
+298722594	egiptologia	2.5	3.5	
+930006441	mikroinformatyka	4	3.5	
+742470989	egiptologia	4.5	
+619138039	fizyka	4	
+949434312	programowanie	4	4.5	4	
+953418290	filozofia	2.5	4	3	
+797656118	logika_rozmyta	5	
+246009927	filozofia	4.5	3.5	
+795765749	fizyka	4.5	
+594217298	bazy_danych	4	3.5	
+555672700	egiptologia	2.5	5	
+544376058	egiptologia	2.5	5	
+603851539	sieci_komputerowe	2.5	
+595387109	logika_rozmyta	3	4	2.5	
+407604808	filozofia	5	3.5	2.5	
+395240128	bazy_danych	2	4.5	
+660309324	algorytmika	4	2.5	
+466628530	logika_rozmyta	3.5	2.5	3.5	
+548329183	grafika	2.5	3	4	
+360247097	algorytmika	3	3	4.5	
+846366593	mikroinformatyka	2.5	2.5	3	
+520126619	obliczenia_ziarniste	2.5	2.5	
+805048887	bazy_danych	3	4.5	3	
+346476185	egiptologia	4	5	
+466861389	logika_rozmyta	4.5	2	3	
+701641581	obliczenia_ziarniste	5	4.5	
+639739923	egiptologia	4.5	3.5	5	
+488010666	grafika	4.5	4	4.5	
+912384262	grafika	2	3.5	
+534921554	grafika	4.5	2	
+912733484	matematyka	4.5	3	
+777642064	obliczenia_ziarniste	2.5	4.5	
+175972459	filozofia	3.5	
+390951467	egiptologia	4.5	
+555672700	bazy_danych	5	4.5	5	
+635437355	sieci_komputerowe	4	4	
+705804440	obliczenia_ziarniste	4	4	2.5	
+243923202	fizyka	4	
+962391622	logika_rozmyta	3.5	3	2.5	
+540584125	egiptologia	3.5	3	
+258444971	obliczenia_ziarniste	2	
+128690471	fizyka	3	4	
+768201395	mikroinformatyka	3.5	
+605149376	programowanie	2.5	
+196942102	sieci_komputerowe	5	2	4.5	
+838037297	filozofia	5	2.5	4.5	
+339771436	fizyka	2	3	4	
+593985360	matematyka	3.5	4.5	2	
+648541509	obliczenia_ziarniste	5	
+309931976	bazy_danych	4.5	3	
+501137817	programowanie	3.5	5	3.5	
+741642620	filozofia	3.5	3.5	
+597482026	mikroinformatyka	3.5	2.5	
+141145841	algorytmika	5	4	2.5	
+475876799	obliczenia_ziarniste	3	3.5	
+479264894	matematyka	4.5	4	4.5	
+417080870	logika_rozmyta	2.5	4	2	
+983722585	bazy_danych	3	4.5	
+448283055	logika_rozmyta	5	3	
+987262088	mikroinformatyka	2	2	2.5	
+601076758	logika_rozmyta	4	5	3.5	
+705804440	programowanie	4	
+795765749	egiptologia	4	5	4.5	
+692034613	egiptologia	3.5	3.5	
+415249297	programowanie	3.5	2	
+972800454	filozofia	4.5	
+723711027	egiptologia	3.5	
+261995711	logika_rozmyta	4	
+448702041	grafika	4.5	4	3.5	
+986793335	obliczenia_ziarniste	2.5	
+712454767	algorytmika	4	
+281800497	logika_rozmyta	4	3.5	2.5	
+948402134	programowanie	3.5	3.5	3	
+851588401	obliczenia_ziarniste	3.5	3	3	
+578380469	obliczenia_ziarniste	4.5	2.5	3	
+938133240	bazy_danych	3	2.5	
+386383742	bazy_danych	2.5	
+895394345	grafika	4	3.5	3	
+589562066	grafika	4	
+885178556	grafika	4	3	
+577578636	matematyka	3.5	
+437973699	fizyka	3.5	3.5	
+262257596	bazy_danych	2.5	3.5	
+558932890	grafika	3.5	
+433903501	grafika	4.5	3	
+594217298	obliczenia_ziarniste	3.5	3.5	3.5	
+941505339	bazy_danych	3	3	
+736101920	algorytmika	3	
+777032931	mikroinformatyka	2	2.5	
+475876799	egiptologia	3	
+339771436	bazy_danych	3.5	3.5	4.5	
+537308888	algorytmika	3.5	3.5	
+341348105	sieci_komputerowe	4	
+804052931	programowanie	3.5	
+294233721	egiptologia	3	
+807368367	fizyka	4	4	3	
+938861412	egiptologia	3.5	3.5	
+786831503	logika_rozmyta	3.5	3	
+663270808	egiptologia	4	3.5	
+152854812	egiptologia	3.5	3.5	2.5	
+510040805	algorytmika	3.5	2	
+986045097	fizyka	3.5	
+909681356	egiptologia	2	
+602008671	programowanie	2.5	
+284867938	algorytmika	4.5	
+510936584	egiptologia	3.5	
+242987216	programowanie	3	
+981968476	egiptologia	4.5	4	4	
+912384262	logika_rozmyta	4	3	3	
+900799380	programowanie	4	4.5	
+665640319	fizyka	3	
+533859178	logika_rozmyta	5	
+712454767	grafika	3.5	3.5	3.5	
+522670948	grafika	4	
+601076758	egiptologia	4.5	
+558325134	sieci_komputerowe	3.5	
+900799380	grafika	4.5	4.5	4.5	
+341203241	logika_rozmyta	3.5	3	
+821120214	obliczenia_ziarniste	2	5	3.5	
+585653701	logika_rozmyta	4	5	
+430251986	obliczenia_ziarniste	3	2.5	
+751934687	logika_rozmyta	2.5	3	
+568105894	sieci_komputerowe	3	4.5	3.5	
+366124002	algorytmika	4.5	3	
+295259170	obliczenia_ziarniste	4	3.5	
+962391622	filozofia	5	2.5	3	
+907188553	algorytmika	2.5	3.5	4.5	
+976865241	filozofia	2.5	2.5	
+606490141	filozofia	3.5	3	3.5	
+558720008	matematyka	3.5	4	5	
+911213139	filozofia	3.5	5	
+516475488	filozofia	3	
+978309410	fizyka	4	3	3	
+594217298	obliczenia_ziarniste	4.5	3.5	4.5	
+510619136	programowanie	3.5	
+687021990	filozofia	4.5	4.5	
+580534873	fizyka	4.5	
+301852361	bazy_danych	3.5	
+941747229	sieci_komputerowe	3	4	
+582786649	bazy_danych	3	3	
+901823024	logika_rozmyta	4	3.5	
+804156906	mikroinformatyka	3.5	
+727740540	grafika	3.5	2	
+134724468	filozofia	5	3	2.5	
+570766394	algorytmika	2.5	3.5	
+608744758	algorytmika	2	2	
+430251986	filozofia	3	3	
+232365843	mikroinformatyka	3.5	3.5	
+533859178	egiptologia	3	3.5	
+616387110	grafika	4	4.5	4.5	
+310483039	egiptologia	3	3.5	3.5	
+492402045	bazy_danych	3	3.5	3.5	
+949434312	filozofia	3.5	
+941505339	logika_rozmyta	4	
+941402311	obliczenia_ziarniste	3.5	
+974756499	matematyka	2.5	
+417858626	programowanie	2.5	2.5	
+706008995	mikroinformatyka	3.5	5	
+316342167	filozofia	3.5	2.5	3.5	
+422763815	logika_rozmyta	3.5	3.5	3	
+789476509	obliczenia_ziarniste	2.5	
+807444233	obliczenia_ziarniste	2	2.5	2.5	
+264466343	logika_rozmyta	4.5	4	
+239329208	filozofia	4	4.5	4	
+672440354	fizyka	3.5	4.5	3	
+787832163	obliczenia_ziarniste	2.5	3	4.5	
+374202297	mikroinformatyka	2	
+808815354	logika_rozmyta	4.5	3	2.5	
+493087129	filozofia	4	
+542115077	algorytmika	4.5	4	3.5	
+772030000	obliczenia_ziarniste	4	
+460379418	grafika	3	2.5	3.5	
+885491278	sieci_komputerowe	3.5	
+774175253	obliczenia_ziarniste	3	5	2.5	
+471578109	obliczenia_ziarniste	4	4	
+174045664	algorytmika	3	4.5	
+408248620	mikroinformatyka	4.5	
+318897016	fizyka	2.5	2	2.5	
+471578109	obliczenia_ziarniste	3.5	4	4.5	
+381936210	sieci_komputerowe	2.5	4	5	
+731574511	matematyka	5	3.5	
+664935961	bazy_danych	3.5	
+448702041	bazy_danych	5	
+163024297	obliczenia_ziarniste	4.5	
+231796997	algorytmika	4	
+498833798	obliczenia_ziarniste	4	
+357222709	egiptologia	2	3	3.5	
+367727278	programowanie	3	3.5	
+886582804	bazy_danych	3	4	
+907105228	matematyka	3.5	3.5	
+569438265	logika_rozmyta	3	4	4.5	
+741533373	matematyka	2.5	3	
+832077987	sieci_komputerowe	3.5	4.5	
+396480715	algorytmika	3.5	4	
+601313530	filozofia	4.5	
+688873922	algorytmika	4	2.5	
+856131876	sieci_komputerowe	3	
+967467228	egiptologia	4.5	
+472354510	logika_rozmyta	3.5	4.5	3.5	
+536414219	mikroinformatyka	3	
+911213139	mikroinformatyka	4	3.5	4.5	
+962779305	matematyka	4.5	3	5	
+410987630	grafika	3.5	
+901861580	filozofia	4.5	
+673518034	fizyka	4.5	
+657906989	programowanie	2.5	4.5	
+536509780	egiptologia	2.5	3.5	3.5	
+546619979	egiptologia	4.5	
+680296665	algorytmika	4	2.5	4.5	
+797656118	logika_rozmyta	5	4	2.5	
+568142775	egiptologia	3.5	3	
+739751172	egiptologia	4	3	
+447229632	logika_rozmyta	4	3	
+741642620	egiptologia	3	
+636228738	programowanie	3.5	5	3	
+224767411	bazy_danych	3.5	
+157189445	grafika	3	
+557947659	algorytmika	3.5	
+708277101	sieci_komputerowe	5	
+892684319	fizyka	3	
+395848224	mikroinformatyka	3.5	3	
+361411479	mikroinformatyka	5	
+415249297	programowanie	4	4	4.5	
+347835246	mikroinformatyka	5	3	
+511577571	fizyka	2	3	
+755430307	sieci_komputerowe	2	4	
+427879100	logika_rozmyta	3	3	5	
+270783451	programowanie	5	
+390951467	bazy_danych	2	3.5	2.5	
+640521912	fizyka	3.5	
+393981222	matematyka	5	3	
+516263305	programowanie	4	3.5	
+958835722	logika_rozmyta	3.5	
+590666676	fizyka	3.5	3	3	
+556892236	sieci_komputerowe	2.5	4	
+393981222	obliczenia_ziarniste	3	
+970036633	egiptologia	2	3	
+807288821	mikroinformatyka	3.5	3.5	2.5	
+189461898	matematyka	3	
+491396619	grafika	3.5	2.5	3	
+728174216	egiptologia	3	
+427879100	fizyka	4.5	4	
+498095334	filozofia	4	2.5	
+702765007	obliczenia_ziarniste	4	
+260721604	programowanie	3.5	2.5	4.5	
+510936584	obliczenia_ziarniste	3.5	4	
+189521606	bazy_danych	2.5	3.5	
+414821957	matematyka	3.5	3.5	4.5	
+428226145	fizyka	3.5	
+498638862	logika_rozmyta	3.5	
+750542953	filozofia	4.5	
+474813034	algorytmika	3.5	4.5	2.5	
+586351288	bazy_danych	4	4	
+458492617	logika_rozmyta	2.5	
+672191761	egiptologia	2	2	3.5	
+973948884	logika_rozmyta	3.5	
+309931976	matematyka	3.5	3.5	3	
+974413007	logika_rozmyta	3	4.5	4	
+722598961	egiptologia	3.5	4.5	3.5	
+381936210	matematyka	3.5	4	
+688873922	fizyka	3.5	
+316117187	mikroinformatyka	4	3.5	3.5	
+602464833	mikroinformatyka	4	4	4	
+654252428	sieci_komputerowe	2	
+675401075	programowanie	3	4.5	3	
+543194732	egiptologia	4.5	4	
+393981222	bazy_danych	4	
+515823312	sieci_komputerowe	3.5	
+508814786	sieci_komputerowe	2.5	4.5	4	
+639739923	matematyka	4	4	3.5	
+784363182	egiptologia	2.5	
+708277101	filozofia	3	
+369783529	egiptologia	4	3	
+823379748	egiptologia	3	4.5	4	
+436525878	logika_rozmyta	3.5	
+774175253	grafika	3	
+227468046	bazy_danych	2	4	4.5	
+216483783	matematyka	3	4.5	3.5	
+403167004	logika_rozmyta	4	4	
+260634002	programowanie	2.5	
+408979868	egiptologia	3.5	3.5	4	
+730633599	grafika	2.5	3.5	3.5	
+515823312	fizyka	5	3.5	
+260209714	bazy_danych	3	3.5	
+280970115	matematyka	3.5	3.5	3	
+411419248	fizyka	4.5	2	
+501788168	egiptologia	3.5	5	
+397830415	fizyka	4	
+923455232	sieci_komputerowe	4.5	
+678303289	filozofia	2.5	4.5	
+722598961	egiptologia	3	
+357222709	sieci_komputerowe	4.5	3.5	3.5	
+606490141	grafika	2.5	4	
+495814329	mikroinformatyka	3.5	
+978309410	matematyka	4	
+523359574	programowanie	4	3.5	
+931683374	algorytmika	3	3.5	3.5	
+369392644	filozofia	3	2.5	
+188452418	matematyka	4	2	4.5	
+657906989	algorytmika	3.5	
+457751033	grafika	3	3.5	
+722598961	matematyka	3.5	
+427518276	bazy_danych	4	3.5	
+579198106	logika_rozmyta	4	
+819004505	egiptologia	4	2.5	
+970052629	bazy_danych	2.5	
+497584267	matematyka	2	5	2	
+347835246	mikroinformatyka	2.5	
+242987216	matematyka	4.5	5	2.5	
+413521446	sieci_komputerowe	3.5	
+675317784	logika_rozmyta	3.5	3.5	
+417318286	logika_rozmyta	4	4	3.5	
+654252428	sieci_komputerowe	3.5	3.5	4.5	
+404563533	egiptologia	2	4	4	
+309931976	algorytmika	3.5	2.5	
+942729537	egiptologia	2	3	
+974413007	fizyka	4.5	
+501788168	algorytmika	3.5	5	
+695006003	matematyka	4.5	3.5	
+260139136	obliczenia_ziarniste	3.5	2.5	
+424600569	algorytmika	3	
+430251986	algorytmika	2.5	3	
+461513420	grafika	3.5	
+393098448	bazy_danych	4.5	
+678852478	matematyka	3.5	4.5	3	
+752633298	algorytmika	3	4	2	
+479069844	fizyka	5	3	
+472354510	fizyka	3	
+805048887	mikroinformatyka	4	3.5	3	
+986752735	filozofia	3.5	3.5	
+949666625	grafika	3	3.5	
+915850675	mikroinformatyka	5	2.5	4	
+241999151	bazy_danych	4.5	4	
+367135178	filozofia	3	3	3.5	
+654230850	matematyka	5	4.5	
+863152466	filozofia	4.5	
+660309324	egiptologia	3	4	2.5	
+629003028	bazy_danych	4	4	3.5	
+897879458	programowanie	3.5	
+440917370	sieci_komputerowe	3.5	
+915850675	obliczenia_ziarniste	3.5	2.5	2.5	
+417858626	filozofia	4.5	3	
+535593907	logika_rozmyta	3	4.5	3.5	
+664506526	sieci_komputerowe	2.5	3	3.5	
+623719552	logika_rozmyta	4	
+515891897	algorytmika	4	2.5	2	
+521971928	filozofia	4	3	
+987262088	grafika	3	2	4.5	
+270964113	mikroinformatyka	2	
+163366641	filozofia	5	2	
+501062997	logika_rozmyta	3	
+294233721	obliczenia_ziarniste	4.5	2.5	3	
+984000312	filozofia	4	
+417318286	algorytmika	4	
+501062997	logika_rozmyta	3.5	3.5	3.5	
+336731637	egiptologia	3.5	3.5	3.5	
+351547644	obliczenia_ziarniste	2.5	4	
+525254990	algorytmika	2	
+419418028	matematyka	3.5	
+582132147	filozofia	3.5	4	4	
+863253132	bazy_danych	4	3	4.5	
+369237145	obliczenia_ziarniste	3.5	2.5	
+930650132	obliczenia_ziarniste	4.5	3.5	
+703398477	filozofia	5	3.5	3.5	
+190425377	filozofia	3	3	2.5	
+366230277	egiptologia	3.5	3.5	
+555466880	mikroinformatyka	2.5	4.5	3.5	
+204231055	sieci_komputerowe	4.5	3.5	3	
+334617912	mikroinformatyka	3.5	4.5	3	
+294964493	egiptologia	3	4	4	
+823431790	programowanie	3	3.5	
+632087328	sieci_komputerowe	2	2	
+955832688	egiptologia	2.5	
+230762035	fizyka	3	4.5	2	
+731574511	programowanie	3	
+309931976	egiptologia	4	4.5	4.5	
+494138204	grafika	3	
+130354753	algorytmika	5	4	
+305479020	logika_rozmyta	3	
+243483692	matematyka	4.5	2	4	
+136655961	matematyka	3	2	3	
+601992844	fizyka	4.5	
+510040805	bazy_danych	3.5	4	
+346476185	fizyka	4.5	
+906173546	obliczenia_ziarniste	3	
+557701038	bazy_danych	4	4	
+823573624	logika_rozmyta	4	3	5	
+188452418	egiptologia	3.5	3.5	2	
+472141289	bazy_danych	4	
+449761524	matematyka	3.5	
+678852478	filozofia	3.5	5	
+417858626	logika_rozmyta	4.5	3	3.5	
+389354297	programowanie	3.5	4	4	
+233721721	bazy_danych	2.5	3.5	3.5	
+278894186	bazy_danych	4	
+982375849	matematyka	3.5	3.5	
+197338663	fizyka	3.5	
+522386180	egiptologia	3	
+211267243	sieci_komputerowe	3	
+360996414	algorytmika	4	
+804052931	matematyka	4	2	
+962779305	obliczenia_ziarniste	4.5	
+863253132	logika_rozmyta	3.5	
+136957393	sieci_komputerowe	2.5	
+163024297	egiptologia	3	4.5	
+311781419	matematyka	2	3	3	
+940503781	filozofia	4	4	
+694352234	mikroinformatyka	2.5	4	3.5	
+537308888	obliczenia_ziarniste	2	
+973948884	matematyka	2.5	2	
+939678251	programowanie	4.5	2.5	
+832077987	obliczenia_ziarniste	4.5	3	3.5	
+410987630	egiptologia	5	3.5	3.5	
+385985793	egiptologia	3.5	5	2.5	
+374202297	grafika	3	3.5	
+500824734	egiptologia	4	2	
+972800454	bazy_danych	4	3.5	3.5	
+649366137	grafika	3	
+938258992	programowanie	4	
+792892257	obliczenia_ziarniste	4	
+354418595	matematyka	2.5	2.5	3.5	
+803598690	sieci_komputerowe	2.5	3.5	2.5	
+296316976	filozofia	4.5	5	3.5	
+244052075	bazy_danych	2.5	4	
+260139136	bazy_danych	2.5	4	
+558932890	bazy_danych	3	2.5	3	
+360247097	mikroinformatyka	3.5	3	
+795765749	filozofia	3	
+217378816	bazy_danych	5	4	3.5	
+485135554	logika_rozmyta	3.5	5	2	
+672191761	logika_rozmyta	3	2	
+823573624	sieci_komputerowe	3.5	
+367965708	programowanie	3	3	3	
+533002073	mikroinformatyka	3.5	4	
+974148482	egiptologia	4	
+842872087	sieci_komputerowe	3	
+921789285	matematyka	4	3.5	
+900200691	bazy_danych	5	
+181879368	grafika	2.5	3.5	
+241947207	obliczenia_ziarniste	3.5	2.5	3.5	
+634353964	matematyka	3.5	
+233281410	matematyka	3.5	
+510613084	logika_rozmyta	3.5	5	
+310810583	grafika	3.5	4	
+821196594	programowanie	2	
+688873922	bazy_danych	3	4.5	4.5	
+557947659	programowanie	3.5	4.5	2.5	
+189461898	logika_rozmyta	3	4.5	3.5	
+189095010	programowanie	3.5	
+241999151	filozofia	3	4	
+486571204	programowanie	3.5	
+293880246	sieci_komputerowe	3.5	4.5	3	
+367135178	bazy_danych	4	3	4	
+648541509	matematyka	3.5	
+274819993	algorytmika	4	3	3	
+130347892	bazy_danych	5	
+398729218	programowanie	3.5	3.5	
+885178556	fizyka	3	3.5	
+575850582	bazy_danych	3.5	
+270783451	grafika	3	4	4.5	
+710881089	filozofia	4	4.5	
+741642620	algorytmika	5	4	5	
+127228523	mikroinformatyka	4	2	
+955832688	programowanie	5	5	4	
+472550755	matematyka	5	4	
+153425626	matematyka	4.5	3.5	
+487531557	obliczenia_ziarniste	2.5	5	
+821196594	fizyka	2.5	
+885331463	filozofia	5	
+730633599	grafika	4.5	3.5	
+616602559	algorytmika	2.5	2.5	
+577578636	obliczenia_ziarniste	3.5	5	2.5	
+869217686	obliczenia_ziarniste	2.5	4.5	
+580534873	matematyka	5	
+674381375	bazy_danych	3	3.5	
+474813034	bazy_danych	4	
+860706913	grafika	4.5	
+903179918	programowanie	3.5	
+318905778	filozofia	4	3	4.5	
+298596846	obliczenia_ziarniste	3.5	
+536414219	obliczenia_ziarniste	4.5	
+843396733	algorytmika	3	
+624397526	logika_rozmyta	3	
+686771878	bazy_danych	2.5	5	4	
+482954259	algorytmika	3.5	3.5	2.5	
+341203241	sieci_komputerowe	3.5	3.5	
+535593907	egiptologia	4.5	3.5	3.5	
+824310407	grafika	2.5	3.5	
+329526089	algorytmika	2.5	4	2.5	
+220170927	egiptologia	3	2.5	2.5	
+763293284	matematyka	3	3	4	
+242478243	mikroinformatyka	2	
+448702041	bazy_danych	3	3.5	4	
+938258992	mikroinformatyka	2	
+641547621	matematyka	4	3	5	
+557907121	algorytmika	3.5	
+731434962	grafika	2.5	3.5	
+464153526	matematyka	4	3	3.5	
+694282033	logika_rozmyta	2	
+376867403	sieci_komputerowe	2.5	4	2	
+417318286	algorytmika	4	3.5	
+479893906	filozofia	4	2.5	
+396559416	bazy_danych	3	3	
+492402045	obliczenia_ziarniste	4	4	
+369783529	filozofia	2.5	3.5	
+863253132	matematyka	4	4	
+730633599	filozofia	2.5	4	
+821120214	logika_rozmyta	3	
+461513420	obliczenia_ziarniste	3.5	
+531829374	programowanie	3	3	2.5	
+862630273	matematyka	4	
+213345834	egiptologia	2.5	
+383839294	bazy_danych	4	2.5	
+490098087	sieci_komputerowe	3	4	
+318897016	bazy_danych	2	4.5	4	
+464383367	logika_rozmyta	3.5	4	4.5	
+565898968	matematyka	3	
+408979868	fizyka	4	
+941505339	obliczenia_ziarniste	3.5	3	3.5	
+858453338	logika_rozmyta	4	4	
+602464833	egiptologia	4.5	3.5	4	
+580534873	filozofia	4	4	3.5	
+330743024	programowanie	4.5	3.5	2.5	
+739751172	filozofia	4	4	
+648541509	mikroinformatyka	3	2.5	3.5	
+478401002	algorytmika	3.5	
+894857961	programowanie	4	
+533002073	algorytmika	3.5	
+221393294	algorytmika	2	
+192227934	sieci_komputerowe	3	
+549139116	programowanie	3.5	
+543194732	egiptologia	2.5	5	
+311893390	mikroinformatyka	2	3.5	
+486571204	logika_rozmyta	4.5	
+552779981	algorytmika	2.5	
+481401198	matematyka	2	
+784363182	programowanie	4	
+275692370	bazy_danych	3.5	2.5	
+145035507	filozofia	4.5	4.5	3	
+875243392	obliczenia_ziarniste	2	3.5	4	
+147044633	programowanie	2	
+702765007	matematyka	3	4.5	2.5	
+562186909	bazy_danych	4.5	
+590833031	matematyka	4.5	2.5	
+886562970	bazy_danych	3.5	4.5	
+903179918	logika_rozmyta	4	4.5	2	
+805048887	mikroinformatyka	3.5	3	
+307002053	logika_rozmyta	3.5	
+846366593	programowanie	4.5	3.5	
+673167228	mikroinformatyka	3	3	
+557701038	algorytmika	4.5	3	3.5	
+152351338	matematyka	3	
+466861389	obliczenia_ziarniste	4.5	4.5	4	
+678293163	fizyka	3	3.5	4.5	
+475717294	grafika	3	4	
+229920590	obliczenia_ziarniste	4.5	3.5	
+522670948	fizyka	3.5	
+584297974	fizyka	2.5	3	3.5	
+580534873	logika_rozmyta	4	4	5	
+523359574	filozofia	4	
+347835246	bazy_danych	2.5	4	
+510936584	obliczenia_ziarniste	3	
+508814786	mikroinformatyka	3	3.5	
+882370312	programowanie	3	
+422763815	bazy_danych	4.5	2.5	
+508814786	mikroinformatyka	4.5	4	2.5	
+232365843	filozofia	3	3	3.5	
+980732794	programowanie	3.5	3.5	4.5	
+231796997	logika_rozmyta	3	
+808605148	filozofia	3.5	
+195415990	logika_rozmyta	4	3	
+274085398	egiptologia	5	3.5	
+948874564	matematyka	3.5	
+715776723	logika_rozmyta	4	
+794335378	logika_rozmyta	3.5	3.5	
+305479020	sieci_komputerowe	3.5	
+924463041	bazy_danych	2.5	
+807288821	programowanie	4	
+386301096	algorytmika	4.5	
+550392905	filozofia	2.5	5	
+171748307	algorytmika	4	
+430251986	mikroinformatyka	2	
+556892236	obliczenia_ziarniste	3.5	4.5	3.5	
+499299309	matematyka	4	
+488010666	egiptologia	3.5	3	
+675317784	grafika	3.5	4.5	3	
+863253132	grafika	4.5	3	
+395848224	algorytmika	3.5	4	3	
+960769624	filozofia	3	2.5	
+807288821	programowanie	4	2.5	
+710881089	bazy_danych	5	4	2.5	
+312248673	algorytmika	3.5	
+805048887	mikroinformatyka	3.5	2.5	
+492318739	logika_rozmyta	3.5	
+446013182	programowanie	4.5	
+398729218	mikroinformatyka	2	3.5	3.5	
+444954399	programowanie	3.5	4	3	
+862630273	sieci_komputerowe	4.5	
+739814241	grafika	3	4	3.5	
+751584323	bazy_danych	2	2	
+676722759	fizyka	2.5	2	
+219553297	algorytmika	4	4	3.5	
+736961508	sieci_komputerowe	3	
+566694415	bazy_danych	4.5	4	3	
+159069073	mikroinformatyka	3.5	3.5	4	
+555672700	sieci_komputerowe	3.5	4.5	
+396559416	obliczenia_ziarniste	2	2.5	4	
+962391622	filozofia	3.5	3	
+633933100	sieci_komputerowe	3.5	4.5	4	
+260209714	algorytmika	5	3.5	3	
+689742704	mikroinformatyka	3.5	4	
+603138392	logika_rozmyta	2	3	2	
+660309324	logika_rozmyta	4	3	
+426563491	mikroinformatyka	2.5	3	
+712961565	obliczenia_ziarniste	2.5	3	3.5	
+712961565	matematyka	4	
+381936210	filozofia	2	4.5	
+312248673	obliczenia_ziarniste	4	4.5	4	
+446792395	grafika	2.5	2	5	
+644650999	fizyka	3.5	4	
+590861927	grafika	4	4	
+278115386	algorytmika	3.5	3.5	
+795765749	filozofia	4.5	2	
+196783146	programowanie	2.5	
+678293163	algorytmika	3.5	3.5	
+396480715	grafika	5	
+550392905	bazy_danych	4	
+229296920	mikroinformatyka	3.5	3.5	3	
+330680653	egiptologia	2.5	
+791399023	logika_rozmyta	3.5	
+974756499	bazy_danych	4	
+417318286	logika_rozmyta	2.5	4.5	3	
+232365843	mikroinformatyka	4.5	
+870172985	logika_rozmyta	4	
+338389715	sieci_komputerowe	3.5	
+976922731	programowanie	2.5	4	2.5	
+159069073	programowanie	3.5	4	
+294964493	algorytmika	4.5	4.5	2.5	
+936706529	programowanie	4.5	
+814977102	bazy_danych	4	3	
+897879458	bazy_danych	4.5	
+539431194	obliczenia_ziarniste	4	3	
+364155302	bazy_danych	3	4	
+580534873	sieci_komputerowe	3.5	
+396559416	algorytmika	3.5	2.5	
+909681356	fizyka	2	
+433903501	bazy_danych	3.5	3	3.5	
+664935961	filozofia	3	2.5	4	
+568105894	sieci_komputerowe	3	
+723758989	programowanie	4.5	3.5	4	
+635316513	sieci_komputerowe	4	3	
+705804440	bazy_danych	5	3	
+731574511	algorytmika	4	2.5	
+475214564	programowanie	2	
+217378816	algorytmika	4	4	
+243412633	programowanie	3.5	2.5	2	
+466628530	grafika	4.5	4.5	4	
+197338663	obliczenia_ziarniste	2.5	
+189095010	fizyka	3	2	3.5	
+243483692	sieci_komputerowe	4	2.5	3.5	
+241112900	egiptologia	3	
+936880446	filozofia	2	4	4	
+661172344	sieci_komputerowe	3.5	
+823379748	obliczenia_ziarniste	2.5	3.5	
+723711027	fizyka	3	4	
+922195271	filozofia	3.5	
+220170927	filozofia	3	2.5	
+311781419	logika_rozmyta	5	4	4.5	
+376867403	logika_rozmyta	2	4	4	
+424600569	grafika	2.5	
+381936210	programowanie	3.5	5	3	
+946501442	egiptologia	3.5	3.5	2.5	
+755430307	algorytmika	4	3.5	3	
+593985360	bazy_danych	2	
+792892257	grafika	3	
+361411479	bazy_danych	4.5	5	3.5	
+557701038	fizyka	5	4	4	
+710738414	fizyka	3	3	
+515590155	obliczenia_ziarniste	4	
+791399023	fizyka	3	3	
+626355655	logika_rozmyta	3.5	3	
+329526089	algorytmika	4	3	4.5	
+152854812	logika_rozmyta	3	
+563668123	egiptologia	3.5	3.5	
+153575883	obliczenia_ziarniste	3.5	3	4	
+386301096	sieci_komputerowe	4	3.5	
+722878691	sieci_komputerowe	4	4	2.5	
+366124002	egiptologia	4.5	
+909681356	algorytmika	3.5	3.5	
+528518908	filozofia	4	
+975382480	obliczenia_ziarniste	4	3.5	
+564695734	egiptologia	3.5	2.5	3	
+873530932	grafika	4.5	4	
+498833798	mikroinformatyka	2.5	3	
+460379418	grafika	3.5	4	
+428226145	algorytmika	3.5	2.5	4.5	
+262874201	egiptologia	4	2.5	
+154967311	logika_rozmyta	3	
+299243222	algorytmika	3.5	3.5	
+962779305	programowanie	4	
+787832163	sieci_komputerowe	4.5	3.5	2.5	
+683676437	mikroinformatyka	4.5	
+680296665	programowanie	3	4	
+634353964	fizyka	4	
+900324164	mikroinformatyka	4.5	3.5	3	
+768201395	logika_rozmyta	2	3.5	
+603940187	mikroinformatyka	2	
+944209730	algorytmika	3	4.5	
+446013182	egiptologia	3	4	4	
+147044633	programowanie	3	4	3.5	
+466628530	programowanie	3.5	3	
+582786649	mikroinformatyka	3.5	2.5	
+448702041	programowanie	3	3.5	2.5	
+721410341	sieci_komputerowe	4	5	4	
+400821548	obliczenia_ziarniste	2.5	4	2	
+874930165	fizyka	2.5	2	4.5	
+644282084	bazy_danych	3	3.5	
+841550913	egiptologia	2.5	2.5	3.5	
+237808165	grafika	3.5	
+808815354	mikroinformatyka	3.5	4	4	
+426563491	obliczenia_ziarniste	3	
+738540604	egiptologia	3.5	
+315247545	fizyka	3.5	4.5	
+242478243	egiptologia	2.5	
+905977278	sieci_komputerowe	3.5	2.5	3	
+741642620	logika_rozmyta	3.5	4	
+944209730	obliczenia_ziarniste	3.5	
+692034613	programowanie	4	4	4	
+557907121	filozofia	5	4.5	
+313522629	logika_rozmyta	4.5	
+642097822	sieci_komputerowe	4	4	
+486571204	matematyka	3.5	2	3.5	
+536414219	sieci_komputerowe	2.5	2.5	
+726313040	algorytmika	2.5	4.5	
+666201034	filozofia	3	4	3.5	
+309931976	algorytmika	5	3	
+647011454	algorytmika	3	3.5	
+563668123	logika_rozmyta	3	3	2	
+295229205	sieci_komputerowe	3	
+427518276	algorytmika	3.5	3	
+523359574	programowanie	3.5	
+415168436	filozofia	2.5	4	4.5	
+624785401	algorytmika	2.5	
+520126619	bazy_danych	3.5	
+335872246	matematyka	3.5	
+853773397	sieci_komputerowe	2.5	
+672191761	mikroinformatyka	3	3	2.5	
+744731484	egiptologia	3.5	3.5	3.5	
+900200691	logika_rozmyta	5	3.5	
+293880246	algorytmika	5	4.5	2.5	
+318897831	matematyka	3.5	2.5	
+722598961	mikroinformatyka	2	4	
+931683374	algorytmika	4	3	
+243923202	bazy_danych	2.5	
+951978915	bazy_danych	3.5	4	4.5	
+330680653	filozofia	3	2.5	
+577313577	programowanie	5	3.5	5	
+958835722	logika_rozmyta	4.5	3	
+680896004	filozofia	5	3.5	
+273747942	mikroinformatyka	4	2	3.5	
+354670144	filozofia	3.5	4.5	
+278894186	sieci_komputerowe	2.5	
+807288821	bazy_danych	3	3	
+280936754	logika_rozmyta	4	3.5	3.5	
+500824734	programowanie	3	
+516475488	fizyka	4	
+899503797	fizyka	4	
+186089954	bazy_danych	2	3	
+336210383	grafika	4	
+738878111	grafika	3.5	2.5	4.5	
+726313040	matematyka	3.5	3.5	
+424600569	fizyka	4.5	4.5	
+427141517	logika_rozmyta	4.5	
+594900937	mikroinformatyka	3.5	3.5	2.5	
+644650999	filozofia	3.5	3.5	
+755430307	logika_rozmyta	2.5	2.5	4.5	
+262554991	logika_rozmyta	2	3	
+973948884	mikroinformatyka	4	4	2.5	
+694352234	sieci_komputerowe	4.5	3.5	2	
+821196594	logika_rozmyta	3.5	5	
+575891651	sieci_komputerowe	3.5	
+642372976	filozofia	2.5	2.5	3	
+534742531	bazy_danych	4.5	4.5	
+671943952	fizyka	3.5	
+965793538	programowanie	3	2.5	3.5	
+945125088	sieci_komputerowe	2.5	
+354670144	logika_rozmyta	5	
+896160632	sieci_komputerowe	3	2.5	2.5	
+597482026	mikroinformatyka	3.5	
+654252428	egiptologia	3	
+907105228	egiptologia	2.5	
+564695734	mikroinformatyka	4	3	3	
+815645120	sieci_komputerowe	3	4.5	
+146161971	filozofia	3.5	4	
+766129811	fizyka	2.5	4.5	
+264466343	egiptologia	3.5	2	
+411732490	algorytmika	3	3.5	3	
+922082499	sieci_komputerowe	4.5	2.5	
+220170927	obliczenia_ziarniste	4.5	2.5	
+308708807	sieci_komputerowe	4.5	5	3	
+347835246	bazy_danych	4.5	3.5	4.5	
+167002034	fizyka	4	2	
+821120214	egiptologia	4.5	2.5	
+381936210	filozofia	2.5	5	3.5	
+193499957	obliczenia_ziarniste	2.5	3.5	3.5	
+978309410	mikroinformatyka	5	3.5	
+189461898	programowanie	3	4	
+294870015	egiptologia	4	
+427141517	bazy_danych	3.5	2	
+323134286	sieci_komputerowe	4	
+242478243	grafika	4.5	2	4	
+901823024	grafika	2	3.5	
+654494595	sieci_komputerowe	3.5	3.5	3.5	
+654372164	programowanie	4	3.5	
+900324164	logika_rozmyta	5	5	
+565462697	bazy_danych	3.5	
+597482026	matematyka	3.5	3	
+736101920	obliczenia_ziarniste	4	2.5	
+794208036	logika_rozmyta	3.5	5	
+924463041	bazy_danych	4	4	3.5	
+688873922	fizyka	2	
+930650132	grafika	2.5	
+403167004	matematyka	3.5	5	3	
+243412633	fizyka	3.5	2.5	
+787421803	bazy_danych	4.5	3.5	3.5	
+339771436	mikroinformatyka	3.5	
+336210383	obliczenia_ziarniste	2.5	5	2.5	
+927584483	matematyka	3.5	
+823431790	bazy_danych	3.5	5	4.5	
+752633298	algorytmika	4.5	5	3.5	
+708277101	egiptologia	4.5	3.5	
+473487245	bazy_danych	2.5	4	3.5	
+603964669	filozofia	4.5	4	3	
+127228523	sieci_komputerowe	3.5	
+888336602	mikroinformatyka	2.5	
+921789285	sieci_komputerowe	4	3	2.5	
+565898968	programowanie	3.5	3.5	
+569438265	sieci_komputerowe	3	3	4	
+942729537	programowanie	2.5	4.5	
+600821717	matematyka	4	
+460379418	logika_rozmyta	3.5	4	
+125261813	bazy_danych	2.5	
+227468046	filozofia	5	
+354418595	algorytmika	3	3.5	2.5	
+536509780	programowanie	3.5	3	
+786831503	bazy_danych	2.5	3.5	4	
+498638862	mikroinformatyka	2.5	
+128690471	mikroinformatyka	3	2	3.5	
+980732794	algorytmika	2.5	
+255471239	programowanie	4	3	3.5	
+800540584	bazy_danych	4	
+804830630	mikroinformatyka	4	2.5	
+493087129	programowanie	4	4	3.5	
+826073743	mikroinformatyka	2.5	4	
+248470289	grafika	3.5	
+652888868	programowanie	2.5	4.5	
+886562970	algorytmika	4.5	3.5	5	
+270964113	grafika	3	
+216989551	matematyka	3	4	2.5	
+712961565	matematyka	3.5	2.5	4	
+294870015	algorytmika	3.5	4.5	
+501788168	bazy_danych	3.5	3	
+360996414	egiptologia	4	3	
+593985360	algorytmika	3	4	4	
+689742704	fizyka	4.5	3.5	
+193499957	grafika	5	
+853773397	matematyka	2.5	4	
+641547621	obliczenia_ziarniste	4	4.5	2	
+294795831	egiptologia	2	3	
+692545641	fizyka	2	4.5	3.5	
+146717111	obliczenia_ziarniste	3.5	
+751584323	grafika	4	
+649366137	sieci_komputerowe	3	
+794542603	bazy_danych	3.5	4	3.5	
+383839294	sieci_komputerowe	3	3.5	4.5	
+278115386	bazy_danych	4	4.5	
+556892236	logika_rozmyta	2	4.5	
+691605381	programowanie	4.5	3	2	
+557907121	fizyka	3.5	3.5	4	
+200332736	fizyka	4	3	
+718743220	obliczenia_ziarniste	3.5	3.5	
+901823024	egiptologia	4	3.5	3	
+448283055	bazy_danych	5	4.5	
+447229632	mikroinformatyka	3.5	4	3.5	
+941505339	mikroinformatyka	3	3.5	
+554430958	sieci_komputerowe	3	3	3.5	
+136655961	algorytmika	3	5	
+500824734	fizyka	3	3.5	3.5	
+715776723	obliczenia_ziarniste	4	5	
+688040019	grafika	3.5	2	
+349003372	obliczenia_ziarniste	2	2.5	4	
+841550913	logika_rozmyta	4	3	2.5	
+552779981	mikroinformatyka	4.5	
+955832688	filozofia	2	3	
+639739923	logika_rozmyta	3.5	4	
+260209714	logika_rozmyta	4.5	
+905977278	algorytmika	3.5	
+130347892	filozofia	3.5	
+372189874	grafika	4.5	3.5	
+510613084	sieci_komputerowe	2	3	
+935633199	mikroinformatyka	2.5	3.5	3.5	
+823573624	algorytmika	4	2.5	
+399766855	matematyka	3	3	3.5	
+280936754	grafika	3	4	4	
+318897831	logika_rozmyta	4	4.5	
+163366641	logika_rozmyta	4.5	4	
+977189928	programowanie	3.5	2.5	
+569438265	filozofia	3	
+885178556	bazy_danych	4.5	3.5	4.5	
+824310407	bazy_danych	3.5	
+762946141	mikroinformatyka	3.5	4	4	
+555672700	programowanie	4.5	2.5	
+464383367	sieci_komputerowe	3	2.5	
+471283604	mikroinformatyka	4	
+867253386	matematyka	4	5	3.5	
+883586935	programowanie	4	3.5	3.5	
+823075911	fizyka	2.5	3	4	
+976865241	mikroinformatyka	3	
+674381375	fizyka	3.5	
+410987630	sieci_komputerowe	3.5	
+800540584	bazy_danych	4.5	2.5	
+510040805	algorytmika	5	
+976865241	mikroinformatyka	4	3	4	
+967338018	mikroinformatyka	2.5	4.5	3.5	
+712961565	bazy_danych	3.5	2.5	
+979939245	mikroinformatyka	3	2	3.5	
+312065708	algorytmika	3.5	2.5	
+163366641	fizyka	4	3	4.5	
+386230944	matematyka	4.5	4	
+341348105	filozofia	4	
+863152466	sieci_komputerowe	2	2.5	
+390123159	obliczenia_ziarniste	4.5	2	
+550392905	matematyka	4	4	
+844874998	grafika	4	3.5	3.5	
+520111885	bazy_danych	3.5	3.5	
+498833798	bazy_danych	4.5	3.5	
+636605567	fizyka	2.5	3.5	5	
+458492617	egiptologia	3.5	4	3.5	
+557907121	filozofia	3.5	4	3.5	
+399281095	obliczenia_ziarniste	4	3	3.5	
+736844252	logika_rozmyta	3	
+878681705	fizyka	4	5	4.5	
+827376655	fizyka	3	3	3	
+647011454	sieci_komputerowe	2.5	3.5	
+648450085	algorytmika	3	3	4.5	
+694352234	fizyka	3.5	4	2	
+328750562	logika_rozmyta	4.5	
+805048887	filozofia	4	3.5	3.5	
+231796997	bazy_danych	4	3	3.5	
+332423960	grafika	2.5	3	
+871803494	bazy_danych	5	4	
+972743423	obliczenia_ziarniste	2	2	
+461291019	matematyka	3	4	
+984000312	algorytmika	3.5	4	
+931463305	fizyka	3	3	2.5	
+712454767	logika_rozmyta	5	3.5	3.5	
+463739595	sieci_komputerowe	3.5	3	
+714195438	fizyka	3.5	
+399281095	grafika	3.5	4	
+129974672	programowanie	2.5	4.5	2.5	
+367965708	grafika	4	2.5	
+673518034	fizyka	4	
+917629636	algorytmika	3	
+188192088	algorytmika	2.5	4	
+246009927	fizyka	3	
+430251986	programowanie	3.5	3	
+194623827	matematyka	3	3	
+848027357	egiptologia	3	2.5	
+258444971	fizyka	4	3	3.5	
+496939418	bazy_danych	4	4	4	
+248470289	logika_rozmyta	2.5	2.5	4.5	
+498833798	obliczenia_ziarniste	2	4	4.5	
+242478243	egiptologia	3.5	
+512457472	sieci_komputerowe	3.5	3.5	
+944145649	obliczenia_ziarniste	4	4	
+397830415	egiptologia	2.5	2.5	
+194384867	obliczenia_ziarniste	3	3.5	3	
+550392905	algorytmika	3.5	
+648541509	obliczenia_ziarniste	3	
+358813421	matematyka	2	4.5	
+195415990	filozofia	3.5	3	
+664506526	programowanie	4	
+264466343	filozofia	3.5	4	2.5	
+408979868	bazy_danych	2.5	2.5	5	
+255471239	egiptologia	2.5	4	2.5	
+959699005	obliczenia_ziarniste	2.5	3.5	3.5	
+333042004	bazy_danych	3.5	
+399434102	matematyka	3.5	3	2.5	
+667696248	obliczenia_ziarniste	2.5	4	
+486571204	matematyka	3.5	4.5	3	
+579326835	fizyka	3.5	
+196783146	obliczenia_ziarniste	3	3.5	3.5	
+330680653	sieci_komputerowe	3.5	4	
+748506170	filozofia	3.5	
+369237145	filozofia	5	3	
+474813034	obliczenia_ziarniste	5	3.5	4	
+492318739	grafika	2	4	3	
+446265623	grafika	3.5	
+329526089	filozofia	3	3	3.5	
+723758989	fizyka	3.5	4	
+846057965	mikroinformatyka	5	4	
+672191761	algorytmika	3.5	2.5	2.5	
+853773397	matematyka	2.5	
+616602559	programowanie	3.5	3	
+603138392	fizyka	2.5	2	
+797656118	algorytmika	3	
+501062997	logika_rozmyta	2.5	
+577578636	algorytmika	3	4	3	
+770370338	mikroinformatyka	2	
+594217298	egiptologia	4.5	
+510520737	obliczenia_ziarniste	5	2	2.5	
+792892257	mikroinformatyka	3	
+905977278	fizyka	4.5	3.5	
+242987216	sieci_komputerowe	2.5	
+899503797	algorytmika	4.5	2.5	
+941505339	egiptologia	2	2.5	2.5	
+434332771	fizyka	3.5	3	5	
+958835722	egiptologia	4	3	
+922252596	logika_rozmyta	3.5	4	3	
+972800454	matematyka	4	4	4	
+206167703	sieci_komputerowe	2	2.5	3	
+523359574	logika_rozmyta	4	4.5	3.5	
+372189874	logika_rozmyta	5	3	
+471578109	filozofia	4	3.5	
+888336602	sieci_komputerowe	5	3	
+680896004	sieci_komputerowe	3	4	4.5	
+843396733	filozofia	2	
+626355655	grafika	4	4.5	4	
+402208168	grafika	3	
+938861412	obliczenia_ziarniste	2.5	
+258444971	grafika	4	2	4.5	
+397830415	algorytmika	3.5	
+202648182	algorytmika	2.5	4	
+674381375	fizyka	4	3.5	
+787421803	fizyka	4.5	
+404563533	matematyka	4.5	4.5	3.5	
+153575883	bazy_danych	3	
+675401075	mikroinformatyka	3.5	4.5	
+194623827	fizyka	3.5	2	3.5	
+239329208	filozofia	3.5	4	3.5	
+974413007	algorytmika	5	3	
+312248673	obliczenia_ziarniste	3	4	2.5	
+526055786	bazy_danych	4.5	5	
+453257732	fizyka	4.5	3.5	
+363319343	logika_rozmyta	2.5	4.5	
+501788168	filozofia	3	4.5	
+804830630	filozofia	3.5	3.5	
+598764759	sieci_komputerowe	3.5	
+851588401	grafika	4.5	
+438596228	sieci_komputerowe	2.5	
+752633298	egiptologia	4	
+748506170	mikroinformatyka	3	3.5	4	
+859402271	bazy_danych	3.5	3	3.5	
+661172344	fizyka	4.5	
+885178556	algorytmika	2	4	4	
+837220189	sieci_komputerowe	5	2	
+471578109	grafika	3	
+824310407	egiptologia	4.5	
+312065708	obliczenia_ziarniste	3.5	2	3	
+219553297	bazy_danych	3.5	
+624785401	algorytmika	3.5	3.5	
+537308888	egiptologia	3.5	3	
+371401406	matematyka	3.5	
+569126844	filozofia	4	4	
+367727278	sieci_komputerowe	3.5	
+243923202	algorytmika	3	2	
+974148482	egiptologia	3.5	
+414821957	logika_rozmyta	3.5	3	
+534742531	logika_rozmyta	2.5	5	
+709498494	filozofia	3.5	3.5	
+399281095	logika_rozmyta	5	4.5	3.5	
+810159854	matematyka	4	3	
+152854812	sieci_komputerowe	2	4.5	3.5	
+177860634	egiptologia	4	
+533002073	logika_rozmyta	3.5	
+226870525	grafika	2.5	4.5	2.5	
+373439005	bazy_danych	3.5	
+187474876	sieci_komputerowe	4	3	
+794208036	bazy_danych	3	
+390951467	egiptologia	2.5	5	
+882917088	egiptologia	4.5	4.5	4	
+500824734	obliczenia_ziarniste	4	3.5	
+557947659	grafika	3	3	5	
+578380469	algorytmika	2	3.5	4	
+194623827	algorytmika	3	2.5	4.5	
+319744418	logika_rozmyta	2	4	
+381936210	egiptologia	3.5	3.5	2	
+415249297	algorytmika	2.5	
+976114999	grafika	4	
+784363182	programowanie	4.5	
+722423594	grafika	3	2.5	3.5	
+446431623	algorytmika	3.5	4.5	
+358813421	filozofia	4	
+787915285	sieci_komputerowe	4	
+141145841	sieci_komputerowe	3	3.5	
+675967184	logika_rozmyta	3.5	4	4.5	
+819130429	sieci_komputerowe	3	4.5	
+674381375	algorytmika	3.5	2	5	
+190425377	bazy_danych	3.5	
+395848224	egiptologia	2	3.5	
+367727278	matematyka	3	
+794542603	sieci_komputerowe	3	3.5	3	
+910752777	filozofia	3.5	3	
+260634002	bazy_danych	4.5	
+587745544	bazy_danych	3.5	
+541706658	obliczenia_ziarniste	5	
+731574511	sieci_komputerowe	4.5	3	4.5	
+940503781	fizyka	3.5	
+899967785	algorytmika	3.5	
+590666676	grafika	5	
+372189874	algorytmika	5	2.5	
+797656118	programowanie	4.5	5	
+569438265	bazy_danych	3	3.5	
+206512699	fizyka	3.5	2	3.5	
+951219203	logika_rozmyta	4	
+962391622	sieci_komputerowe	5	
+796382480	egiptologia	4.5	4.5	2	
+395240128	fizyka	2.5	2.5	
+528237999	filozofia	2.5	4	4.5	
+325749251	grafika	3	2.5	
+516475488	sieci_komputerowe	4	
+496939418	fizyka	3.5	4.5	3	
+973748574	filozofia	3.5	2.5	
+613407184	logika_rozmyta	4	3.5	
+178114441	sieci_komputerowe	4.5	3	
+419418028	logika_rozmyta	2	2	4	
+752633298	sieci_komputerowe	3	2.5	4	
+938258992	algorytmika	4	3	
+930006441	logika_rozmyta	4.5	
+280970115	logika_rozmyta	4.5	3.5	
+478401002	bazy_danych	4	2.5	
+458492617	bazy_danych	3.5	4	
+736844252	mikroinformatyka	3.5	2.5	
+869217686	sieci_komputerowe	4	3	
+938133240	logika_rozmyta	4.5	3.5	
+901823024	fizyka	4	2.5	2.5	
+660309324	egiptologia	3.5	4.5	
+907105228	sieci_komputerowe	3	
+909681356	mikroinformatyka	2.5	3.5	
+754441195	grafika	3	
+510040805	egiptologia	2	4	
+953418290	grafika	5	3.5	
+415168436	sieci_komputerowe	3	3.5	
+295259170	logika_rozmyta	3	3.5	
+280970115	grafika	5	4	2	
+924463041	matematyka	4.5	
+390951467	grafika	2	3.5	
+921789285	obliczenia_ziarniste	4	4	5	
+584297974	logika_rozmyta	3	4.5	2.5	
+364155302	programowanie	4	3.5	2	
+972800454	matematyka	3.5	3	
+374202297	filozofia	3	4	3.5	
+927584483	obliczenia_ziarniste	3.5	3.5	
+360247097	obliczenia_ziarniste	3.5	
+878681705	matematyka	3.5	4.5	4.5	
+367135178	matematyka	3.5	4.5	
+644282084	logika_rozmyta	3	3.5	3	
+335872246	mikroinformatyka	3	3	
+895394345	mikroinformatyka	3.5	
+537308888	grafika	4	4.5	
+787832163	fizyka	3.5	2.5	
+647011454	mikroinformatyka	4.5	2.5	4	
+354418595	bazy_danych	4.5	
+515823312	logika_rozmyta	2.5	3	2.5	
+305479020	bazy_danych	5	3	
+787915285	egiptologia	4.5	
+805048887	algorytmika	4	2	
+537308888	mikroinformatyka	3.5	3.5	
+478401002	grafika	2.5	
+522386180	programowanie	5	
+742324625	bazy_danych	4	2	3	
+943628764	algorytmika	3	2.5	2	
+417080870	filozofia	4.5	4.5	3.5	
+128379852	logika_rozmyta	5	3	3	
+366370602	algorytmika	2.5	2.5	
+510040805	mikroinformatyka	3.5	2	
+606633822	logika_rozmyta	4	
+928364848	algorytmika	2.5	2.5	
+125261813	programowanie	3	3.5	3	
+602008671	obliczenia_ziarniste	2.5	4	4	
+482609745	grafika	2.5	2.5	
+807444233	grafika	4	2.5	4	
+153425626	egiptologia	4.5	4	
+948402134	bazy_danych	3.5	4	4.5	
+603138392	obliczenia_ziarniste	4.5	2	
+842480298	obliczenia_ziarniste	4	5	4.5	
+520126619	programowanie	3	3	
+608744758	sieci_komputerowe	3.5	3	
+403002210	algorytmika	3	2.5	5	
+287033795	filozofia	4	4	4	
+675317784	matematyka	4.5	
+772030000	algorytmika	3	3	
+976865241	matematyka	3.5	3.5	
+776954599	sieci_komputerowe	4.5	
+656094773	programowanie	3	
+233281410	algorytmika	3	
+542000234	grafika	4	
+716473772	mikroinformatyka	3.5	4	
+169178456	programowanie	3.5	5	
+201154346	logika_rozmyta	3	3	
+446792395	fizyka	4	3.5	4.5	
+577578636	bazy_danych	4	3	
+399949725	mikroinformatyka	2.5	4.5	
+893164600	fizyka	5	
+977744177	fizyka	3.5	4	4.5	
+515823312	fizyka	4.5	
+397830415	obliczenia_ziarniste	3.5	3	
+885491278	algorytmika	3	5	
+411732490	mikroinformatyka	2.5	3.5	3	
+941747229	obliczenia_ziarniste	3.5	
+593985360	filozofia	3.5	4.5	
+527569463	obliczenia_ziarniste	4	4	
+633933100	egiptologia	4	3	
+782826478	obliczenia_ziarniste	3.5	3	3	
+702765007	obliczenia_ziarniste	4	
+575850582	fizyka	3.5	2.5	3.5	
+931463305	grafika	3	4	
+428650571	egiptologia	3	4	
+888336602	egiptologia	3.5	
+308708807	mikroinformatyka	3.5	4	
+624007825	fizyka	3	4.5	3.5	
+673917809	grafika	5	
+736961508	sieci_komputerowe	4.5	4.5	4.5	
+181599814	fizyka	3	
+941402311	sieci_komputerowe	3.5	
+154462334	obliczenia_ziarniste	4.5	2.5	3	
+371401406	programowanie	5	4.5	3	
+163366641	algorytmika	3	
+634353964	mikroinformatyka	3	3.5	
+895058537	fizyka	4.5	
+654230850	grafika	5	4	
+900799380	sieci_komputerowe	3.5	4	4	
+906173546	filozofia	4.5	4.5	2.5	
+604100171	matematyka	3.5	4	
+925277402	filozofia	5	4.5	2.5	
+406382023	grafika	2.5	4.5	4	
+428650571	fizyka	3.5	4	
+262257596	sieci_komputerowe	3	5	
+307406393	fizyka	3.5	4	3	
+493087129	fizyka	3.5	3.5	
+912384262	programowanie	3	
+281800497	egiptologia	4	3	3	
+307406393	bazy_danych	4	
+472354510	filozofia	3.5	3.5	
+633933100	mikroinformatyka	3	4	
+873530932	matematyka	3.5	
+762430239	sieci_komputerowe	4	
+181879368	logika_rozmyta	2.5	
+332423960	grafika	4	4.5	4	
+168237505	obliczenia_ziarniste	3	
+878681705	grafika	3.5	3.5	4.5	
+557907121	mikroinformatyka	3	
+590833031	obliczenia_ziarniste	3	
+688873922	programowanie	3.5	
+501062997	filozofia	3	
+892684319	obliczenia_ziarniste	3	3	
+722598961	programowanie	4.5	2	5	
+678293163	bazy_danych	5	3	3	
+577358969	obliczenia_ziarniste	2.5	
+233721721	egiptologia	3	4	
+853773397	matematyka	4.5	2.5	
+556892236	filozofia	3	3.5	
+397830415	filozofia	2.5	4.5	
+792718525	bazy_danych	4	
+369392644	filozofia	3	
+978921808	egiptologia	3.5	
+897879458	egiptologia	5	
+386230944	fizyka	3	4	
+241947207	bazy_danych	5	
+558325134	obliczenia_ziarniste	2.5	3.5	
+899967785	programowanie	4	4.5	
+899503797	grafika	4	4	4.5	
+411732490	matematyka	3	3	
+381936210	algorytmika	3	
+635316513	logika_rozmyta	3.5	
+188807808	sieci_komputerowe	4	4	3	
+962391622	egiptologia	4	
+771953428	obliczenia_ziarniste	4.5	3	
+241112900	filozofia	3.5	2.5	
+697093633	filozofia	4	4	4	
+656094773	egiptologia	5	4.5	4.5	
+330905488	obliczenia_ziarniste	4.5	3.5	
+495628485	algorytmika	4.5	2.5	
+417858626	mikroinformatyka	3.5	3.5	4.5	
+794315305	bazy_danych	3.5	2.5	
+330743024	grafika	4	
+899967785	obliczenia_ziarniste	3	
+430251986	matematyka	3	5	
+130354753	algorytmika	3.5	
+691605381	mikroinformatyka	4	5	
+537308888	mikroinformatyka	4.5	4.5	3.5	
+941747229	sieci_komputerowe	4	
+635437355	obliczenia_ziarniste	3.5	
+338389715	programowanie	4.5	4	
+399434102	fizyka	3.5	2	4	
+274819993	matematyka	3	3.5	3.5	
+168237505	obliczenia_ziarniste	2.5	
+575891651	programowanie	3.5	3	
+498833798	obliczenia_ziarniste	3	2.5	
+582786649	algorytmika	2.5	4.5	
+792718525	mikroinformatyka	3.5	4.5	4.5	
+433991560	programowanie	4	3	
+422763815	matematyka	3	3.5	
+824310407	bazy_danych	2	
+531829374	fizyka	3.5	3	3.5	
+728174216	filozofia	3.5	3	
+895333664	obliczenia_ziarniste	3	
+676722759	matematyka	3	4	3	
+687021990	egiptologia	5	4	4	
+596318831	logika_rozmyta	4	2.5	3	
+595387109	fizyka	5	
+843396733	sieci_komputerowe	2.5	
+949850820	grafika	4	3.5	
+342375941	mikroinformatyka	4	3	4	
+360247097	bazy_danych	3	3.5	3.5	
+311781419	bazy_danych	3	
+211556975	obliczenia_ziarniste	3	
+399949725	logika_rozmyta	4.5	2.5	
+723758989	fizyka	3.5	3.5	5	
+885491278	algorytmika	3	5	2.5	
+296316976	egiptologia	3	
+376867403	obliczenia_ziarniste	3.5	4	3	
+295965691	sieci_komputerowe	3.5	4	3	
+243923202	matematyka	3	4	
+962239170	logika_rozmyta	3.5	2	
+949666625	matematyka	4.5	3.5	2.5	
+731434962	filozofia	4.5	2.5	
+644643972	programowanie	4	4	2	
+710738414	sieci_komputerowe	4.5	4.5	3.5	
+863152466	grafika	3	2	4.5	
+668645599	filozofia	3	4.5	4	
+475717294	filozofia	2.5	
+595677907	egiptologia	3	
+703398477	algorytmika	3	
+255471239	mikroinformatyka	2.5	3	
+693521884	sieci_komputerowe	2	
+176590363	obliczenia_ziarniste	2.5	2.5	
+821120214	mikroinformatyka	2.5	
+325749251	algorytmika	3	3	
+367671555	egiptologia	3.5	5	
+946654386	mikroinformatyka	3	
+895058537	matematyka	3	4.5	3	
+744731484	egiptologia	4.5	
+777032931	bazy_danych	3	
+626355655	filozofia	4.5	4.5	
+146161971	filozofia	4.5	
+596318831	matematyka	2	2.5	4.5	
+977189928	filozofia	4.5	
+234219821	algorytmika	4	4.5	
+224767411	logika_rozmyta	5	2.5	
+330680653	egiptologia	4.5	
+317853171	logika_rozmyta	3.5	4.5	
+475717294	mikroinformatyka	3.5	4	3	
+807714021	filozofia	4	3.5	2.5	
+596318831	fizyka	5	
+158423236	algorytmika	3.5	4.5	
+962239170	algorytmika	3	3.5	
+748506170	algorytmika	4	2.5	3	
+762946141	logika_rozmyta	4	4	
+640899832	obliczenia_ziarniste	4.5	3	
+965320716	egiptologia	3	3.5	3.5	
+153575883	matematyka	3.5	2	5	
+935633199	fizyka	3	
+274085398	programowanie	3	
+447229632	mikroinformatyka	4	4	4.5	
+839826069	grafika	3	
+766129811	mikroinformatyka	3	3.5	
+377830300	programowanie	2	
+567514659	programowanie	3	3.5	3	
+935633199	egiptologia	4	
+188192088	egiptologia	5	3	
+654276201	obliczenia_ziarniste	2.5	3	
+673518034	filozofia	4	
+650974015	egiptologia	3	
+399434102	filozofia	2.5	3.5	4	
+865086109	algorytmika	4	3.5	4	
+692545641	sieci_komputerowe	2	
+575891651	mikroinformatyka	2	3.5	4.5	
+722878691	grafika	3.5	4.5	
+499299309	fizyka	5	5	
+972420801	filozofia	3.5	3.5	2.5	
+258444971	egiptologia	2.5	
+444955042	algorytmika	4	4	4.5	
+319744418	logika_rozmyta	5	4	2.5	
+127228523	grafika	3.5	2.5	
+297331118	algorytmika	3.5	5	
+190558799	obliczenia_ziarniste	2.5	
+280970115	egiptologia	3.5	
+739751172	algorytmika	3	3.5	3.5	
+842872087	bazy_danych	4.5	
+499299309	egiptologia	3.5	3	
+647011454	sieci_komputerowe	4.5	2.5	
+262270199	logika_rozmyta	3.5	
+334617912	matematyka	3.5	3	4	
+842480298	mikroinformatyka	2	
+230762035	mikroinformatyka	3.5	2	
+205371231	programowanie	3	4	
+680570125	fizyka	3.5	
+641547621	grafika	2	3	3	
+600821717	algorytmika	5	2.5	2.5	
+542819215	obliczenia_ziarniste	4.5	3	2	
+951978915	matematyka	4.5	4	
+776954599	logika_rozmyta	3.5	3	2	
+962239170	egiptologia	3.5	
+631114063	algorytmika	2.5	
+640521912	grafika	4.5	4.5	
+261691265	matematyka	3.5	
+792892257	matematyka	4.5	
+550726054	mikroinformatyka	4.5	3	
+215044379	logika_rozmyta	2.5	4	
+739751172	egiptologia	3.5	4	
+471283604	obliczenia_ziarniste	2	5	2.5	
+701641581	egiptologia	2.5	4	2.5	
+708277101	bazy_danych	3.5	5	3.5	
+672191761	algorytmika	3.5	
+241112900	mikroinformatyka	3	3.5	
+821196594	grafika	3.5	
+323134286	matematyka	4	3.5	2	
+899503797	programowanie	4	
+899503797	sieci_komputerowe	3	2	
+443873243	logika_rozmyta	4	3	4.5	
+714104896	algorytmika	4	3.5	3.5	
+395002195	egiptologia	3	
+241426087	grafika	3	4.5	3	
+515590155	grafika	4.5	2.5	3.5	
+516475488	sieci_komputerowe	3	
+316117187	programowanie	3	4	
+147044633	egiptologia	4	5	
+722598961	grafika	3.5	
+243483692	mikroinformatyka	4.5	3	4	
+695006003	grafika	3.5	5	2	
+794335378	mikroinformatyka	3	2	3	
+371401406	sieci_komputerowe	4.5	4	
+837612053	mikroinformatyka	4	
+243923202	fizyka	4	
+386301096	sieci_komputerowe	2	
+624007825	obliczenia_ziarniste	4.5	4	5	
+847301902	programowanie	5	
+674381375	logika_rozmyta	2.5	
+635437355	egiptologia	2.5	
+482954259	obliczenia_ziarniste	3.5	2	
+190806719	filozofia	4	
+610278504	bazy_danych	3.5	3.5	3.5	
+751584323	bazy_danych	3	
+485135554	bazy_danych	3	2.5	2.5	
+261691265	obliczenia_ziarniste	4.5	4	3	
+471283604	sieci_komputerowe	4	2	2	
+197338663	grafika	4	
+470403667	filozofia	4	3.5	
+369783529	mikroinformatyka	4	
+930650132	fizyka	4	4	
+264466343	fizyka	4.5	3.5	
+174045664	grafika	4	
+520126619	sieci_komputerowe	5	3.5	
+408979868	grafika	4	4	2.5	
+125588375	algorytmika	3.5	4	3.5	
+319744418	obliczenia_ziarniste	3.5	
+666201034	mikroinformatyka	4	3.5	4.5	
+512457472	logika_rozmyta	3	
+260634002	filozofia	4	3.5	
+280970115	mikroinformatyka	2.5	
+964540991	fizyka	3.5	2.5	3	
+949473924	bazy_danych	2.5	4	3	
+846366593	sieci_komputerowe	3.5	2.5	
+455002104	obliczenia_ziarniste	3	
+487531557	algorytmika	3	2.5	
+463739595	mikroinformatyka	3.5	
+853773397	filozofia	3.5	3	4	
+422801686	grafika	5	
+360758263	mikroinformatyka	4.5	4	
+564695734	grafika	2	4	5	
+905977278	bazy_danych	5	2.5	4	
+472354510	logika_rozmyta	3.5	3.5	
+899503797	algorytmika	4.5	3	
+931683374	algorytmika	3	4	4	
+367965708	egiptologia	4	
+592139511	egiptologia	4.5	2	4.5	
+582132147	programowanie	4.5	
+129974672	grafika	3	3.5	
+166245331	logika_rozmyta	2.5	
+554430958	sieci_komputerowe	3.5	3	5	
+382830057	bazy_danych	4	3.5	
+281800497	fizyka	4	
+600821717	bazy_danych	3.5	
+515823312	programowanie	4.5	3	
+841550913	obliczenia_ziarniste	4.5	2.5	
+920191896	egiptologia	5	
+875243392	mikroinformatyka	4	
+548930444	grafika	4	
+336731637	logika_rozmyta	2.5	4	2	
+454693791	grafika	4	3	3	
+975382480	matematyka	4.5	4	4	
+969832050	programowanie	4.5	2.5	3	
+123562338	fizyka	3	
+715776723	bazy_danych	3	4.5	3	
+478018436	filozofia	2	
+973748574	bazy_danych	4.5	5	
+878681705	egiptologia	2.5	
+606633822	matematyka	4	
+295259170	sieci_komputerowe	5	4.5	3	
+558325134	fizyka	3.5	4	2.5	
+526612859	mikroinformatyka	5	
+336460404	sieci_komputerowe	3	5	
+715776723	grafika	3	4.5	
+243483692	programowanie	4	
+266395962	egiptologia	2	3	3.5	
+885201780	grafika	4.5	3	
+584297974	programowanie	3	
+922195271	egiptologia	4	
+965320716	mikroinformatyka	5	3	
+288327998	algorytmika	2	
+939121068	fizyka	4.5	
+827376655	egiptologia	3	2.5	
+492402045	grafika	3.5	4	3	
+913499134	filozofia	4.5	
+594900937	egiptologia	3	3.5	
+586243358	filozofia	4	
+262270199	mikroinformatyka	3.5	
+536509780	bazy_danych	4.5	3.5	
+777642064	mikroinformatyka	2	4	
+190558799	mikroinformatyka	4.5	2.5	2.5	
+130354753	bazy_danych	3	5	2	
+535593907	filozofia	4	
+885491278	bazy_danych	4.5	4.5	
+715183386	programowanie	3	4	
+190558799	filozofia	3.5	4.5	2.5	
+305479020	algorytmika	2.5	
+397661810	fizyka	3.5	
+804798412	matematyka	3	3	4.5	
+181599814	grafika	3.5	
+330743024	sieci_komputerowe	3.5	4	
+722804293	sieci_komputerowe	3	3.5	
+912384262	obliczenia_ziarniste	3.5	3.5	4.5	
+970052629	grafika	2	4	
+248004764	logika_rozmyta	3.5	
+749139479	egiptologia	4	
+437973699	grafika	2	5	
+447229632	filozofia	3	2	3.5	
+960769624	programowanie	3.5	5	3	
+241112900	programowanie	3.5	4	
+980732794	sieci_komputerowe	3	4.5	
+136655961	mikroinformatyka	3	2.5	
+907188553	filozofia	2.5	3	
+986045097	algorytmika	3	3.5	
+196942102	bazy_danych	2.5	4.5	
+673518034	matematyka	3.5	
+317250150	filozofia	3	3.5	
+393981222	sieci_komputerowe	3.5	4.5	
+839826069	matematyka	3.5	3.5	
+708916141	fizyka	3.5	4.5	3	
+397661810	filozofia	2.5	5	3	
+838804761	matematyka	3.5	2	3.5	
+174577274	bazy_danych	2.5	3.5	4.5	
+526055786	obliczenia_ziarniste	3.5	
+730633599	obliczenia_ziarniste	4.5	
+965793538	filozofia	2.5	
+819130429	algorytmika	5	3.5	
+804798412	mikroinformatyka	4.5	4.5	4.5	
+311239197	algorytmika	3	3	4	
+393981222	mikroinformatyka	4.5	2.5	2.5	
+586089189	sieci_komputerowe	4	
+556892236	matematyka	4	3	2.5	
+436525878	egiptologia	2	
+940503781	egiptologia	4	
+930650132	fizyka	4.5	
+605149376	algorytmika	4	
+948874564	logika_rozmyta	3.5	3	3.5	
+528284087	matematyka	4	3.5	
+460379418	fizyka	5	
+590861927	grafika	3.5	
+665640319	logika_rozmyta	3.5	4.5	
+985839193	fizyka	3	
+575850582	algorytmika	3.5	
+784363182	bazy_danych	3	2.5	
+969832050	sieci_komputerowe	4	4.5	
+295259170	matematyka	4.5	3.5	
+501062997	algorytmika	3.5	2	
+493087129	matematyka	3	3.5	
+457751033	matematyka	3.5	
+330743024	logika_rozmyta	4	
+674381375	logika_rozmyta	4.5	3.5	4	
+951978915	algorytmika	3	
+332423960	fizyka	3	3.5	
+841550913	egiptologia	3.5	3	3	
+951978915	fizyka	3	
+552563418	matematyka	3.5	
+959699005	mikroinformatyka	3.5	3	
+508814786	obliczenia_ziarniste	3.5	4.5	
+964540991	egiptologia	3.5	
+414821957	mikroinformatyka	3.5	
+146717111	grafika	3.5	
+229296920	grafika	2.5	
+415168436	bazy_danych	4	3.5	
+702765007	programowanie	4	3.5	4.5	
+523359574	algorytmika	3	
+399766855	bazy_danych	2.5	3.5	2.5	
+166245331	mikroinformatyka	3	2	
+147044633	programowanie	4	2.5	
+893164600	egiptologia	4	4	4.5	
+127228523	egiptologia	2	
+188807808	grafika	3.5	
+922252596	sieci_komputerowe	4.5	4	4	
+537181593	grafika	4	2.5	3.5	
+446013182	bazy_danych	3.5	2.5	4	
+736101920	mikroinformatyka	5	
+848027357	matematyka	3	2.5	
+805995299	fizyka	5	3.5	3.5	
+949666625	bazy_danych	4	
+593985360	logika_rozmyta	3.5	
+939678251	fizyka	2.5	3	
+231796997	bazy_danych	4	3	2.5	
+748506170	fizyka	3.5	
+213345834	filozofia	3.5	4	4.5	
+674411974	filozofia	4.5	
+805048887	matematyka	3.5	
+528518908	fizyka	3.5	4.5	
+136957393	filozofia	4	
+147044633	bazy_danych	4	4	4	
+472354510	bazy_danych	3.5	4.5	
+605149376	programowanie	3.5	4.5	4	
+383839294	algorytmika	4	
+360247097	filozofia	3	
+436525878	bazy_danych	4	
+485135554	logika_rozmyta	5	
+878681705	logika_rozmyta	3	
+605149376	matematyka	3.5	4.5	
+336460404	grafika	4	4	4.5	
+708916141	algorytmika	4	4.5	3.5	
+417858626	mikroinformatyka	2	2.5	3	
+971104060	programowanie	3.5	3.5	3.5	
+624007825	fizyka	3.5	
+511577571	programowanie	2.5	
+192227934	logika_rozmyta	4	
+651654171	obliczenia_ziarniste	3.5	3.5	
+241426087	fizyka	3	
+417318286	filozofia	3.5	3	3	
+718400238	fizyka	4.5	
+153575883	mikroinformatyka	2.5	3	3.5	
+603964669	logika_rozmyta	2	
+311239197	obliczenia_ziarniste	5	3.5	3.5	
+624397526	fizyka	5	
+417080870	mikroinformatyka	3	4.5	
+177860634	matematyka	3.5	
+479264894	algorytmika	3.5	3.5	4	
+487531557	mikroinformatyka	3	3	3.5	
+211556975	matematyka	2.5	
+510520737	matematyka	4	3.5	3.5	
+472550755	sieci_komputerowe	3.5	3.5	4	
+797656118	bazy_danych	4.5	4	
+188192088	grafika	3.5	3	
+688873922	sieci_komputerowe	4	2.5	
+395352872	sieci_komputerowe	4	3.5	4	
+692034613	bazy_danych	3.5	
+771953428	programowanie	3.5	3	
+636605567	algorytmika	3.5	3.5	
+438596228	bazy_danych	2	4	
+125588375	fizyka	3.5	3.5	
+317250150	egiptologia	3	4	
+939678251	matematyka	2	5	3.5	
+722598961	logika_rozmyta	3.5	3.5	4.5	
+579198106	grafika	2.5	4	4	
+498833798	matematyka	3	
+414821957	obliczenia_ziarniste	4.5	4	5	
+776954599	sieci_komputerowe	4	
+971104060	egiptologia	3.5	
+315247545	egiptologia	3	2	2	
+318897831	algorytmika	4.5	2.5	
+143134920	algorytmika	3	
+878681705	egiptologia	4	2	4.5	
+647011454	algorytmika	3	
+342375941	obliczenia_ziarniste	3.5	
+285057870	grafika	2	3.5	
+746453918	sieci_komputerowe	3.5	
+868212310	fizyka	3.5	4.5	2.5	
+654252428	egiptologia	4	3	3	
+255471239	egiptologia	3	3.5	2.5	
+676722759	programowanie	5	
+762946141	programowanie	3	4	3.5	
+918244081	grafika	3.5	5	
+936880446	mikroinformatyka	3	4.5	
+967467228	sieci_komputerowe	4	3.5	
+922082499	logika_rozmyta	2.5	4	3.5	
+417318286	logika_rozmyta	5	5	
+629003028	programowanie	4	
+700120767	filozofia	2.5	2.5	3	
+531829374	mikroinformatyka	4	4	4	
+687021990	filozofia	5	
+557701038	fizyka	3.5	4.5	
+644643972	logika_rozmyta	2.5	3	
+590640220	egiptologia	3	4	
+393981222	bazy_danych	3	4	4	
+597482026	bazy_danych	4.5	2.5	
+478018436	algorytmika	3	3	3.5	
+383839294	filozofia	3.5	
+668645599	matematyka	5	2.5	
+396480715	sieci_komputerowe	4.5	
+600821717	programowanie	3	
+325749251	bazy_danych	3	
+395848224	obliczenia_ziarniste	3	3	
+931683374	mikroinformatyka	3.5	2.5	
+678973113	bazy_danych	3.5	
+255835899	filozofia	3	
+948402134	egiptologia	5	
+230762035	bazy_danych	3.5	
+768201395	programowanie	4.5	5	3.5	
+285057870	obliczenia_ziarniste	4	4.5	4	
+395352872	programowanie	3	3.5	4	
+572837280	bazy_danych	4	2.5	
+946654386	grafika	3	4	3	
+560454436	logika_rozmyta	4.5	4	
+629003028	programowanie	4	
+455671211	grafika	4	
+808815354	fizyka	3.5	
+400821548	egiptologia	3.5	
+354670144	mikroinformatyka	3	
+656094773	grafika	3.5	
+603964669	logika_rozmyta	3.5	
+427879100	grafika	3	3	
+408979868	matematyka	4	5	
+839826069	logika_rozmyta	4.5	
+970752692	bazy_danych	3.5	
+776954599	mikroinformatyka	3	2.5	3.5	
+680896004	grafika	2	4.5	3.5	
+160784038	filozofia	5	2	2	
+806952320	grafika	4	4.5	
+808605148	matematyka	2.5	4	3	
+542000234	mikroinformatyka	4.5	
+372654766	logika_rozmyta	5	2.5	
+693521884	mikroinformatyka	4	2	
+446431623	bazy_danych	3	5	3.5	
+307406393	filozofia	5	3.5	3	
+654372164	fizyka	3.5	4	3.5	
+856131876	obliczenia_ziarniste	3.5	
+602464833	programowanie	4	4.5	
+601992844	mikroinformatyka	2.5	2.5	3	
+654276201	matematyka	3.5	3	3	
+208008051	egiptologia	4.5	4	4	
+382775833	mikroinformatyka	3.5	
+401136643	bazy_danych	3.5	
+542819215	algorytmika	3	5	
+241947207	sieci_komputerowe	5	
+607711120	fizyka	3.5	2.5	3.5	
+948874564	sieci_komputerowe	2	4.5	3	
+528284087	matematyka	3	
+766129811	egiptologia	3.5	3.5	
+931463305	egiptologia	4.5	
+962391622	programowanie	4	
+333042004	sieci_komputerowe	4.5	3.5	4	
+972800454	mikroinformatyka	2	3	
+673167228	sieci_komputerowe	3	3	
+397661810	mikroinformatyka	4	4	2	
+806952320	grafika	3	4	
+380716704	programowanie	2.5	3.5	
+136655961	bazy_danych	2	2.5	
+336460404	grafika	3.5	
+520111885	bazy_danych	5	4.5	
+446013182	egiptologia	3	2.5	3.5	
+154967311	programowanie	2.5	2.5	4.5	
+912384262	logika_rozmyta	2.5	
+975382480	algorytmika	5	
+208008051	grafika	2.5	
+437973699	algorytmika	3	3	
+261995711	logika_rozmyta	5	
+241426087	filozofia	3.5	
+680570125	obliczenia_ziarniste	3.5	3.5	3	
+454693791	fizyka	2.5	5	
+959699005	bazy_danych	4.5	4	2.5	
+709498494	logika_rozmyta	3.5	
+715183386	mikroinformatyka	4	
+691011733	bazy_danych	2	3	
+755430307	egiptologia	3	3.5	
+542115077	obliczenia_ziarniste	2.5	3	
+419418028	bazy_danych	2.5	
+224767411	obliczenia_ziarniste	3.5	4	
+512457472	grafika	2.5	4	
+722423594	egiptologia	2.5	3	2.5	
+586243358	filozofia	2.5	2	3.5	
+580280439	sieci_komputerowe	3.5	3.5	4.5	
+946654386	programowanie	4	
+195557770	fizyka	4	
+668645599	egiptologia	4	3.5	3	
+242987216	fizyka	3	
+738540604	logika_rozmyta	4	3	3.5	
+205431080	programowanie	2.5	3.5	5	
+315247545	fizyka	5	
+976922731	logika_rozmyta	2.5	
+307369359	matematyka	3	
+692034613	mikroinformatyka	5	3.5	
+736703466	bazy_danych	2.5	2	
+722804293	programowanie	4.5	
+453257732	algorytmika	4	
+163024297	programowanie	3.5	3	4.5	
+555672700	filozofia	5	
+797656118	matematyka	3	
+166245331	programowanie	3.5	
+448702041	mikroinformatyka	4	5	4	
+386230944	matematyka	2.5	3	3.5	
+255592986	algorytmika	3.5	
+587745544	filozofia	4.5	
+671943952	fizyka	4.5	
+587745544	sieci_komputerowe	2	
+482609745	algorytmika	5	
+575850582	bazy_danych	3.5	4	
+518770428	fizyka	5	4.5	
+980826268	obliczenia_ziarniste	5	2.5	3	
+766129811	matematyka	2.5	3	4	
+234219821	programowanie	3.5	5	
+328750562	sieci_komputerowe	2.5	
+639739923	filozofia	3.5	2.5	3.5	
+189461898	matematyka	4.5	5	
+495814329	egiptologia	3.5	
+178114441	bazy_danych	3.5	
+949473924	bazy_danych	4.5	
+464153526	programowanie	3	
+986793335	mikroinformatyka	4.5	4.5	4.5	
+171748307	matematyka	4.5	
+807444233	matematyka	4	
+716473772	obliczenia_ziarniste	4	
+242987216	filozofia	3.5	3.5	
+823379748	grafika	4.5	
+266395962	sieci_komputerowe	5	3	3	
+419418028	fizyka	4.5	4	3.5	
+478018436	algorytmika	3	4	
+163366641	sieci_komputerowe	3.5	
+899240912	programowanie	3.5	4	
+160784038	logika_rozmyta	4	3.5	4	
+558325134	bazy_danych	2.5	
+939678251	filozofia	2	
+260209714	grafika	3.5	2	
+258444971	matematyka	3	4	
+605149376	matematyka	4	3	3.5	
+393098448	filozofia	4.5	
+454693791	bazy_danych	3	
+307002053	logika_rozmyta	3	
+220170927	programowanie	4.5	
+371401406	matematyka	5	
+782826478	matematyka	3	4	3	
+298596846	logika_rozmyta	4	2	
+329526089	grafika	5	3	
+624785401	logika_rozmyta	3	
+911213139	mikroinformatyka	5	4.5	3	
+317250150	fizyka	3.5	
+273747942	logika_rozmyta	3	
+409205912	egiptologia	2.5	
+418051691	sieci_komputerowe	3.5	4.5	
+624397526	mikroinformatyka	3.5	3	2.5	
+810159854	bazy_danych	4	4	3	
+970752692	mikroinformatyka	2.5	3.5	
+594900937	grafika	3.5	2.5	
+330743024	algorytmika	3.5	
+444954399	obliczenia_ziarniste	3	
+471578109	obliczenia_ziarniste	3.5	
+575891651	bazy_danych	3	5	
+290819220	egiptologia	2	
+981968476	mikroinformatyka	4.5	
+860706913	obliczenia_ziarniste	3.5	3.5	
+787915285	filozofia	3.5	4	2.5	
+856131876	filozofia	3	3.5	3.5	
+318897831	logika_rozmyta	4	3	2.5	
+748506170	grafika	2.5	2.5	
+692034613	sieci_komputerowe	4.5	3	
+900799380	obliczenia_ziarniste	3	3	
+969832050	mikroinformatyka	2.5	4	
+357222709	egiptologia	3	
+694282033	obliczenia_ziarniste	2.5	
+896160632	obliczenia_ziarniste	2.5	2.5	
+983722585	grafika	4.5	
+812629017	matematyka	3.5	2.5	2	
+560454436	bazy_danych	5	3	
+521750789	egiptologia	3	3.5	2.5	
+738878111	matematyka	4.5	4	3.5	
+944209730	egiptologia	2	3	
+673917809	algorytmika	4.5	3.5	
+603851539	fizyka	3.5	3.5	
+220170927	grafika	3.5	2.5	
+417080870	sieci_komputerowe	3	
+461455418	mikroinformatyka	4.5	4	
+411874189	grafika	2.5	3.5	5	
+858453338	bazy_danych	5	
+317747741	algorytmika	3.5	
+406382023	fizyka	4.5	
+927584483	egiptologia	4	
+194623827	mikroinformatyka	3.5	
+460379418	mikroinformatyka	2.5	
+678303289	matematyka	2.5	
+837612053	obliczenia_ziarniste	3.5	4	
+863152466	fizyka	4	
+688040019	egiptologia	3	
+317747741	programowanie	4.5	
+255835899	grafika	3.5	3	3	
+975382480	programowanie	3.5	3	4.5	
+188807808	bazy_danych	4.5	5	5	
+560950076	algorytmika	3	
+280970115	matematyka	4.5	4	3	
+736961508	logika_rozmyta	5	3	4	
+639739923	matematyka	5	
+766129811	logika_rozmyta	4	2.5	
+168237505	grafika	3.5	3	
+403167004	mikroinformatyka	4.5	3.5	
+246009927	bazy_danych	4	
+526055786	bazy_danych	3.5	
+649366137	programowanie	4	4	
+786831503	fizyka	3	2	
+967467228	grafika	4	3	3.5	
+941747229	matematyka	2	3	
+694282033	bazy_danych	4	4	
+158423236	obliczenia_ziarniste	3.5	3.5	2.5	
+821901599	filozofia	3.5	3	
+197338663	fizyka	4.5	3.5	4	
+453257732	obliczenia_ziarniste	5	3.5	3	
+674411974	filozofia	3.5	4.5	3.5	
+510619136	sieci_komputerowe	2.5	4	4.5	
+846057965	egiptologia	3.5	4.5	
+281800497	fizyka	2	
+160784038	programowanie	4.5	2.5	4	
+893164600	filozofia	2.5	
+978921808	grafika	5	
+865086109	matematyka	4	3	
+310810583	fizyka	4.5	3	
+153575883	bazy_danych	2.5	3.5	3.5	
+267984514	programowanie	2	2	4	
+869217686	matematyka	4.5	
+262270199	algorytmika	2.5	2.5	
+351547644	egiptologia	3.5	
+443986117	grafika	4	3.5	3	
+414821957	fizyka	4.5	2	
+932425781	sieci_komputerowe	2.5	3	
+537308888	algorytmika	4	
+983722585	fizyka	3.5	3	4.5	
+820341473	grafika	3	3.5	4	
+564695734	algorytmika	4	3	
+722423594	mikroinformatyka	4	
+512457472	grafika	3	2.5	3.5	
+623719552	mikroinformatyka	3.5	3.5	3	
+960769624	bazy_danych	2.5	
+815645120	fizyka	5	3	3.5	
+174577274	logika_rozmyta	3.5	
+227468046	filozofia	4	3.5	2.5	
+190425377	programowanie	4	2	3	
+566694415	obliczenia_ziarniste	4.5	3.5	
+781338094	programowanie	4	3	3	
+527569463	programowanie	4.5	3.5	3	
+330743024	logika_rozmyta	3.5	3.5	
+578380469	grafika	3.5	
+167002034	grafika	2.5	5	
+897879458	logika_rozmyta	4.5	
+329526089	fizyka	3	3	
+731434962	bazy_danych	4.5	3.5	4	
+262257596	bazy_danych	3	3.5	
+768201395	egiptologia	2	
+310810583	programowanie	2	
+492318739	bazy_danych	3.5	2.5	
+703398477	fizyka	5	3.5	5	
+755430307	matematyka	5	3	
+970036633	bazy_danych	2.5	4	3.5	
+771953428	grafika	5	2.5	
+962239170	filozofia	3.5	3	
+976114999	fizyka	3	
+430251986	filozofia	3.5	
+508814786	sieci_komputerowe	4	4	
+567514659	sieci_komputerowe	2.5	
+903179918	sieci_komputerowe	4.5	
+736844252	sieci_komputerowe	3	4	
+548930444	algorytmika	2.5	3	
+287033795	bazy_danych	2.5	5	
+594217298	filozofia	3.5	4	3.5	
+799869929	filozofia	3.5	
+631114063	programowanie	4.5	3.5	2	
+585653701	algorytmika	2	
+885201780	logika_rozmyta	2	3.5	4.5	
+648450085	matematyka	3.5	
+437973699	filozofia	3.5	4.5	
+750542953	egiptologia	3	4.5	
+277157582	obliczenia_ziarniste	5	
+299376215	sieci_komputerowe	4.5	4.5	
+983722585	filozofia	4.5	
+826073743	matematyka	3.5	2.5	
+448283055	filozofia	3	4.5	
+386230944	programowanie	5	
+125588375	mikroinformatyka	3.5	
+901861580	sieci_komputerowe	4	3.5	
+762946141	filozofia	4	4.5	
+266395962	sieci_komputerowe	2.5	3	
+705804440	algorytmika	3.5	4	3.5	
+654252428	algorytmika	3.5	3	4.5	
+243923202	bazy_danych	3	3.5	5	
+296316976	algorytmika	4	3	
+189521606	programowanie	2.5	3	
+520126619	logika_rozmyta	3	3.5	4.5	
+718400238	matematyka	4	
+344579834	bazy_danych	2.5	3	2.5	
+642097822	filozofia	3.5	3.5	4.5	
+875243392	algorytmika	3.5	
+906173546	bazy_danych	3.5	4	
+647011454	programowanie	4	2.5	
+515891897	sieci_komputerowe	2.5	2.5	
+886582804	mikroinformatyka	4	
+496939418	algorytmika	2	
+376867403	bazy_danych	3.5	3	
+348832397	bazy_danych	4	3	4	
+794208036	algorytmika	3.5	2.5	
+472141289	mikroinformatyka	3.5	2.5	4.5	
+536414219	fizyka	3	3	
+736844252	mikroinformatyka	2.5	2.5	
+642097822	obliczenia_ziarniste	3	3.5	3	
+443873243	programowanie	3.5	2.5	
+255592986	bazy_danych	3	
+935633199	obliczenia_ziarniste	5	
+329526089	matematyka	4	2.5	
+901823024	sieci_komputerowe	3.5	4	3.5	
+536509780	fizyka	2	4	3	
+741533373	mikroinformatyka	3	
+917629636	algorytmika	3.5	4.5	
+964540991	matematyka	3.5	4	
+978921808	matematyka	2.5	3.5	4.5	
+584257678	matematyka	3	3	2.5	
+510520737	mikroinformatyka	2.5	
+472550755	matematyka	4	4	
+495628485	logika_rozmyta	2.5	
+134284534	filozofia	4.5	4	
+667696248	matematyka	3	
+680787194	fizyka	3.5	3.5	
+322877736	egiptologia	2	
+603851539	sieci_komputerowe	3.5	3.5	3	
+946654386	sieci_komputerowe	3.5	2.5	
+498638862	grafika	2.5	2.5	
+597482026	algorytmika	2	5	
+154967311	logika_rozmyta	4	
+808605148	grafika	2	4.5	2.5	
+552563418	sieci_komputerowe	3	2.5	
+949434312	sieci_komputerowe	3.5	
+795765749	sieci_komputerowe	3.5	4.5	
+722598961	bazy_danych	3.5	4	2.5	
+169178456	matematyka	3.5	3	
+624007825	fizyka	2.5	
+567514659	sieci_komputerowe	2	4	3.5	
+461455418	algorytmika	4	2.5	3.5	
+446265623	bazy_danych	4	
+942729537	bazy_danych	2	3.5	
+603851539	matematyka	3.5	3.5	
+754441195	bazy_danych	2.5	4	4	
+604100171	fizyka	3	
+673518034	fizyka	4	3.5	
+391515957	egiptologia	4.5	
+741533373	obliczenia_ziarniste	4	3.5	
+294795831	logika_rozmyta	3	
+939678251	egiptologia	3	4	3.5	
+909681356	programowanie	3.5	
+241112900	filozofia	3	5	3	
+310483039	programowanie	4.5	4	3.5	
+215044379	logika_rozmyta	3	2	
+464153526	obliczenia_ziarniste	2.5	4	
+815645120	grafika	4	
+915850675	obliczenia_ziarniste	4	
+741533373	bazy_danych	2.5	
+262257596	matematyka	4	
+211267243	fizyka	3.5	3.5	
+484942052	sieci_komputerowe	3	2	
+888336602	programowanie	4	2.5	2.5	
+267984514	programowanie	4.5	
+869217686	algorytmika	3.5	2	3	
+448702041	algorytmika	4.5	2	3.5	
+339771436	fizyka	3.5	5	
+590666676	obliczenia_ziarniste	2	
+987262088	matematyka	4	
+241947207	bazy_danych	3	2.5	
+965793538	mikroinformatyka	4.5	3.5	2.5	
+842480298	egiptologia	4	
+912384262	sieci_komputerowe	4.5	4	4.5	
+273747942	fizyka	5	3	3.5	
+260634002	sieci_komputerowe	2.5	
+721410341	matematyka	4	2.5	
+736961508	fizyka	5	4	
+709498494	obliczenia_ziarniste	2.5	
+501788168	algorytmika	5	4	2.5	
+273747942	logika_rozmyta	3	3	5	
+305479020	grafika	4	2.5	2	
+241426087	filozofia	3	
+937795720	mikroinformatyka	3.5	
+147044633	grafika	5	
+822200903	programowanie	3	
+648541509	algorytmika	3	3	
+274085398	sieci_komputerowe	2.5	2.5	
+346476185	filozofia	3	3	
+927584483	algorytmika	3	2.5	2.5	
+368974417	sieci_komputerowe	3	4	
+552563418	sieci_komputerowe	3.5	
+970052629	algorytmika	4	4	4	
+953418290	logika_rozmyta	2	2.5	
+768201395	programowanie	3	3.5	
+330905488	matematyka	2.5	
+771953428	logika_rozmyta	2.5	3	
+248004764	grafika	3.5	
+847301902	sieci_komputerowe	3	3.5	4.5	
+978309410	filozofia	3.5	
+807368367	logika_rozmyta	5	
+742324625	fizyka	5	4.5	
+295229205	egiptologia	4.5	
+249454706	sieci_komputerowe	4	4	
+396581391	logika_rozmyta	2	4.5	
+421573637	matematyka	3.5	3	5	
+661856906	obliczenia_ziarniste	3	2.5	3.5	
+354670144	fizyka	2	
+922195271	obliczenia_ziarniste	2.5	
+973948884	bazy_danych	3	3.5	3.5	
+367965708	programowanie	4.5	
+699465194	filozofia	3	3	2.5	
+460379418	egiptologia	4	
+455002104	fizyka	2	3	2	
+946654386	matematyka	4.5	2.5	4.5	
+396559416	bazy_danych	2	4.5	
+428226145	algorytmika	4.5	4.5	
+433903501	programowanie	4.5	4.5	
+862630273	bazy_danych	4.5	5	
+598764759	algorytmika	3.5	
+127228523	grafika	4.5	2.5	
+903179918	fizyka	3.5	3	5	
+941505339	mikroinformatyka	3.5	
+942729537	egiptologia	3	2.5	
+601992844	obliczenia_ziarniste	5	
+163024297	logika_rozmyta	4	4.5	2.5	
+311893390	mikroinformatyka	4.5	3	3	
+937795720	algorytmika	4.5	3.5	
+787421803	egiptologia	3.5	3.5	3.5	
+315247545	mikroinformatyka	3.5	3.5	3	
+976865241	filozofia	2.5	4	4	
+285057870	matematyka	3	4	
+958835722	filozofia	5	3.5	
+293880246	sieci_komputerowe	3	4.5	3	
+951978915	egiptologia	2.5	4	3.5	
+821901599	bazy_danych	3	4	
+683676437	matematyka	4	3.5	
+543194732	logika_rozmyta	4.5	
+239329208	filozofia	3	3	
+479264894	grafika	3	5	
+970052629	obliczenia_ziarniste	3.5	4	4	
+443986117	filozofia	3.5	2	2	
+358813421	egiptologia	5	3.5	
+593985360	sieci_komputerowe	2	3	2.5	
+877306162	algorytmika	4.5	3	
+895333664	programowanie	5	4.5	3	
+764341744	egiptologia	3.5	3.5	4.5	
+430251986	obliczenia_ziarniste	3	3	
+777032931	egiptologia	5	
+885491278	filozofia	3.5	3.5	4	
+510619136	programowanie	2.5	5	3.5	
+689742704	fizyka	3	
+634626931	sieci_komputerowe	4.5	3	4.5	
+565462697	filozofia	3.5	3	4.5	
+603940187	grafika	3.5	3	3	
+346329678	fizyka	4	3.5	3	
+307686836	logika_rozmyta	3	4.5	2	
+444954399	grafika	3	
+575891651	filozofia	2	4.5	3.5	
+153575883	egiptologia	3.5	4	4.5	
+227468046	logika_rozmyta	5	4.5	2.5	
+501788168	bazy_danych	4	
+495814329	algorytmika	2.5	
+851588401	programowanie	3.5	
+256911251	filozofia	4	
+244052075	programowanie	5	
+330743024	fizyka	4	
+188452418	sieci_komputerowe	5	
+969832050	sieci_komputerowe	2.5	3.5	3.5	
+634626931	algorytmika	4	2.5	
+824310407	filozofia	3	3	
+319744418	grafika	2	
+764341744	obliczenia_ziarniste	2.5	2.5	3	
+139554563	obliczenia_ziarniste	3.5	
+579198106	obliczenia_ziarniste	3	3	
+602241165	egiptologia	2.5	
+171748307	egiptologia	4	2	
+917629636	algorytmika	3	
+640521912	logika_rozmyta	2.5	
+317747741	logika_rozmyta	4	
+604100171	sieci_komputerowe	5	4	4.5	
+396559416	obliczenia_ziarniste	2.5	3	
+976922731	filozofia	4	4	
+542819215	logika_rozmyta	2	2.5	
+317853171	filozofia	4.5	2	3.5	
+196783146	logika_rozmyta	5	3	3	
+181879368	logika_rozmyta	3.5	3.5	
+415249297	bazy_danych	2.5	2.5	2	
+856131876	logika_rozmyta	4	3.5	2.5	
+186089954	mikroinformatyka	4	2.5	
+751584323	programowanie	2.5	3	
+661172344	grafika	3	2	2.5	
+446265623	fizyka	3	
+520111885	fizyka	4	4	2.5	
+395002195	sieci_komputerowe	3	
+233281410	mikroinformatyka	3.5	4	
+159069073	mikroinformatyka	4	3	
+548329183	obliczenia_ziarniste	3.5	
+895394345	logika_rozmyta	4	2.5	4.5	
+342375941	egiptologia	2.5	4	
+528518908	mikroinformatyka	4.5	4.5	
+164541727	sieci_komputerowe	3.5	3.5	
+391515957	egiptologia	3.5	2.5	
+196942102	mikroinformatyka	4.5	
+256911251	matematyka	3.5	4.5	2.5	
+810159854	programowanie	4	2	
+395002195	sieci_komputerowe	2.5	
+903179918	sieci_komputerowe	4	
+680896004	obliczenia_ziarniste	3	2.5	3	
+584297974	fizyka	4.5	4.5	
+722423594	bazy_danych	4.5	2	4	
+472141289	programowanie	3.5	3	4.5	
+136655961	logika_rozmyta	3	4	
+683676437	grafika	4	
+912384262	programowanie	3.5	3.5	3	
+642097822	egiptologia	4	3	3.5	
+603964669	matematyka	3	3	
+830331351	logika_rozmyta	3.5	
+297331118	obliczenia_ziarniste	4	4	4	
+917629636	bazy_danych	3.5	
+344579834	egiptologia	3.5	5	3.5	
+987262088	bazy_danych	4.5	
+941402311	bazy_danych	3	
+190425377	obliczenia_ziarniste	2.5	4.5	
+146770765	logika_rozmyta	4	4	4	
+471283604	grafika	4.5	
+500824734	logika_rozmyta	3.5	3	
+873530932	grafika	3	2.5	
+523635213	obliczenia_ziarniste	2.5	
+562186909	sieci_komputerowe	3	
+399434102	matematyka	4	3	4	
+318897831	programowanie	3.5	3.5	3	
+640899832	grafika	3	3.5	4.5	
+187474876	fizyka	2	3	
+635437355	egiptologia	3.5	
+361411479	fizyka	4.5	3	3.5	
+906598422	programowanie	3	
+418051691	filozofia	4.5	4.5	
+899503797	programowanie	3	
+482954259	obliczenia_ziarniste	4	3.5	4	
+688040019	bazy_danych	4	3.5	
+974756499	egiptologia	3.5	4.5	
+946501442	obliczenia_ziarniste	4	4.5	4.5	
+305479020	filozofia	3	
+396545831	matematyka	3	2.5	4	
+130347892	filozofia	2	
+295259170	sieci_komputerowe	3.5	4.5	
+157189445	fizyka	3.5	3.5	
+688040019	bazy_danych	3	3.5	4	
+196783146	sieci_komputerowe	2	3	3.5	
+668645599	bazy_danych	2.5	3.5	
+578380469	mikroinformatyka	4	3.5	
+804156906	programowanie	3.5	2.5	4.5	
+938133240	fizyka	4	3.5	3.5	
+920191896	egiptologia	3.5	2.5	5	
+878681705	matematyka	4	3.5	
+169178456	logika_rozmyta	3	2.5	
+868212310	programowanie	2	
+406382023	algorytmika	3	4	2	
+358813421	filozofia	3	
+555031707	algorytmika	4.5	
+186089954	grafika	2.5	3.5	3	
+911213139	sieci_komputerowe	4	
+146770765	fizyka	3.5	
+727740540	logika_rozmyta	4.5	
+776954599	filozofia	3	2.5	4	
+461455418	sieci_komputerowe	3.5	
+166245331	programowanie	4	3	
+907188553	mikroinformatyka	4.5	
+577313577	programowanie	2.5	3	4	
+281800497	algorytmika	2	
+373439005	sieci_komputerowe	4	3	2.5	
+542000234	bazy_danych	4.5	4	
+984000312	mikroinformatyka	2	
+472354510	filozofia	2	5	2	
+930006441	matematyka	3.5	2.5	3	
+241426087	fizyka	3.5	
+859402271	matematyka	3.5	2.5	4	
+965320716	algorytmika	4	
+369237145	logika_rozmyta	3.5	
+648541509	filozofia	4	3	
+382775833	algorytmika	4.5	
+397661810	logika_rozmyta	4	3.5	
+255592986	logika_rozmyta	2	
+323134286	mikroinformatyka	3.5	
+461291019	obliczenia_ziarniste	2.5	4	4	
+295259170	sieci_komputerowe	4	3.5	5	
+972743423	obliczenia_ziarniste	2	
+749139479	matematyka	3.5	4	
+723711027	egiptologia	4	4.5	
+152351338	logika_rozmyta	3.5	
+635316513	programowanie	3	5	
+501137817	obliczenia_ziarniste	3	3	2.5	
+962779305	algorytmika	4	4.5	
+200332736	obliczenia_ziarniste	2	
+738540604	filozofia	4.5	3.5	3	
+500824734	egiptologia	4	3	
+466628530	filozofia	4	3.5	4	
+311893390	bazy_danych	2.5	2.5	
+567514659	matematyka	3.5	4.5	
+943628764	mikroinformatyka	3.5	
+925277402	egiptologia	3.5	5	4.5	
+189095010	grafika	3.5	
+541706658	programowanie	5	
+163024297	obliczenia_ziarniste	4.5	2	3	
+893164600	bazy_danych	3.5	
+246009927	mikroinformatyka	2.5	3	
+843396733	grafika	4	3	4	
+407604808	egiptologia	4	
+130354753	bazy_danych	3	3.5	2	
+680296665	fizyka	2.5	3.5	
+422763815	fizyka	4	4.5	
+955832688	sieci_komputerowe	4	2.5	3	
+552563418	algorytmika	2.5	
+986045097	sieci_komputerowe	4	
+701641581	fizyka	4.5	2	3.5	
+175972459	filozofia	2.5	2	
+661856906	bazy_danych	3	3.5	3	
+748506170	sieci_komputerowe	4	5	
+351547644	grafika	3.5	2.5	4.5	
+471578109	programowanie	3.5	2.5	
+403167004	filozofia	4	2	
+979939245	mikroinformatyka	4.5	3.5	
+478018436	bazy_danych	4.5	4	
+415492387	fizyka	2.5	3.5	2.5	
+474813034	egiptologia	4.5	
+937795720	egiptologia	4	3.5	4	
+242987216	matematyka	3	2	
+175972459	sieci_komputerowe	4.5	
+241947207	sieci_komputerowe	3.5	2	
+244049840	mikroinformatyka	4	3.5	4.5	
+557947659	bazy_danych	4	2	4	
+804830630	sieci_komputerowe	4	5	3	
+899967785	programowanie	3.5	
+413521446	egiptologia	3.5	3.5	3	
+693521884	grafika	3	
+389354297	algorytmika	4	2	
+398729218	sieci_komputerowe	4.5	
+399766855	programowanie	4.5	4	
+526612859	fizyka	4	3	
+816139124	egiptologia	2.5	4	
+651654171	matematyka	3	4.5	4	
+781338094	egiptologia	3.5	3	3.5	
+395002195	grafika	2.5	
+284867938	sieci_komputerowe	3.5	4.5	3.5	
+603940187	obliczenia_ziarniste	3	
+448283055	filozofia	3.5	2	2.5	
+924463041	sieci_komputerowe	4	4	
+837612053	algorytmika	4	4	
+585653701	fizyka	2.5	3	
+783393686	logika_rozmyta	4	
+639739923	obliczenia_ziarniste	3	
+377830300	filozofia	4	2	5	
+940851974	grafika	3	3.5	2.5	
+847301902	mikroinformatyka	3	2	4	
+521750789	algorytmika	3	4.5	
+492318739	matematyka	4.5	
+920088803	programowanie	2.5	
+243483692	matematyka	2.5	
+531829374	logika_rozmyta	2.5	4.5	
+488010666	fizyka	5	
+901861580	algorytmika	3	
+351547644	programowanie	3	3	4.5	
+260209714	logika_rozmyta	3.5	3.5	5	
+573982209	mikroinformatyka	5	
+414821957	obliczenia_ziarniste	3	
+700120767	bazy_danych	4	4	
+344579834	egiptologia	4	3	2.5	
+736844252	grafika	3.5	
+805995299	egiptologia	3.5	
+907105228	programowanie	3.5	3	
+294964493	bazy_danych	2.5	
+578380469	bazy_danych	3	5	3	
+691011733	filozofia	4	2.5	4.5	
+678293163	programowanie	2.5	4	3	
+215118023	matematyka	3.5	4	2	
+528518908	bazy_danych	2	5	3.5	
+175972459	sieci_komputerowe	3.5	
+691011733	logika_rozmyta	3.5	3.5	
+636228738	mikroinformatyka	3	
+606490141	fizyka	3.5	4.5	
+695006003	fizyka	3	3	
+738878111	obliczenia_ziarniste	3	3	
+341203241	logika_rozmyta	3	
+449761524	programowanie	2.5	3.5	3	
+729595701	algorytmika	4	
+297331118	fizyka	3.5	
+521750789	mikroinformatyka	2.5	3.5	2.5	
+424600569	obliczenia_ziarniste	4	
+863253132	mikroinformatyka	3	3.5	4	
+381936210	grafika	3.5	3.5	3.5	
+577578636	programowanie	4.5	
+691011733	grafika	2	3.5	
+293880246	filozofia	3.5	3	
+601313530	fizyka	3.5	
+981968476	programowanie	4	
+981968476	matematyka	5	
+721410341	mikroinformatyka	2	3.5	2.5	
+804052931	filozofia	5	3.5	
+377830300	matematyka	2.5	
+386383742	filozofia	3.5	4	
+123562338	mikroinformatyka	2.5	4.5	
+848027357	bazy_danych	4.5	5	2.5	
+453510387	algorytmika	3.5	3	3	
+443986117	logika_rozmyta	5	2	4	
+962391622	filozofia	3.5	3.5	
+453510387	filozofia	3	4.5	4.5	
+440917370	fizyka	3.5	
+490098087	grafika	4.5	
+330905488	sieci_komputerowe	5	
+229920590	filozofia	3.5	3	3.5	
+249454706	programowanie	4.5	3.5	2.5	
+396545831	egiptologia	4.5	3	3	
+795765749	egiptologia	3	3	2.5	
+774175253	mikroinformatyka	5	3	
+726313040	logika_rozmyta	4	3.5	
+896160632	programowanie	4	4.5	3.5	
+555466880	mikroinformatyka	3	
+666363107	fizyka	4	3	
+277157582	logika_rozmyta	4.5	4	
+226870525	grafika	4	2	3	
+886562970	sieci_komputerowe	5	3.5	4	
+517686849	matematyka	3.5	
+486571204	fizyka	4.5	5	
+723758989	filozofia	4	
+577578636	fizyka	3.5	
+939121068	matematyka	3.5	2.5	3.5	
+703398477	fizyka	2.5	
+195557770	obliczenia_ziarniste	3	
+976114999	fizyka	4	2	
+577578636	matematyka	4	
+603964669	filozofia	3	4.5	3.5	
+686771878	grafika	2.5	
+325749251	logika_rozmyta	3.5	4	4.5	
+702765007	algorytmika	3	
+647011454	obliczenia_ziarniste	3.5	
+417080870	sieci_komputerowe	4	3.5	2.5	
+159069073	obliczenia_ziarniste	4	3	3.5	
+915850675	sieci_komputerowe	3	3	2.5	
+287033795	matematyka	4	3	
+924463041	filozofia	4	
+964586862	egiptologia	3.5	
+307406393	filozofia	3	
+510936584	filozofia	3.5	
+399949725	mikroinformatyka	2.5	3	3.5	
+195415990	egiptologia	4	
+171748307	mikroinformatyka	4	2.5	2	
+486571204	egiptologia	2.5	4	4	
+622034499	logika_rozmyta	3.5	
+213345834	filozofia	2.5	
+411732490	bazy_danych	4.5	4	2.5	
+636920005	algorytmika	4	4.5	
+804830630	mikroinformatyka	3	3.5	3.5	
+586243358	egiptologia	3.5	
+804830630	logika_rozmyta	3	3	
+736961508	logika_rozmyta	2.5	
+770370338	sieci_komputerowe	4.5	
+656094773	mikroinformatyka	2.5	3.5	4	
+208008051	algorytmika	3.5	
+560950076	grafika	2.5	
+311893390	algorytmika	2.5	3.5	
+967338018	matematyka	4.5	2.5	
+372189874	egiptologia	4	
+762430239	bazy_danych	3.5	2.5	
+346329678	fizyka	5	2.5	
+395352872	algorytmika	2	
+885201780	mikroinformatyka	3.5	3.5	4	
+141919169	fizyka	3.5	
+510040805	algorytmika	4	2.5	4	
+242987216	bazy_danych	5	3.5	3.5	
+972800454	matematyka	3	3.5	3.5	
+242494310	obliczenia_ziarniste	3	4	
+808815354	mikroinformatyka	3	3	
+315247545	programowanie	3.5	4.5	
+455671211	obliczenia_ziarniste	3.5	4.5	
+528518908	grafika	3.5	
+923455232	sieci_komputerowe	4	
+367671555	egiptologia	2.5	3.5	3	
+160784038	fizyka	3	
+498833798	egiptologia	3	2	2	
+973748574	obliczenia_ziarniste	5	
+751584323	programowanie	2.5	
+181599814	matematyka	3.5	
+738540604	algorytmika	5	3.5	
+487531557	logika_rozmyta	4	
+570766394	matematyka	4.5	4	
+555672700	grafika	2.5	
+366370602	programowanie	4	4	3	
+855807954	egiptologia	4.5	4.5	
+426563491	logika_rozmyta	4	4	5	
+196783146	algorytmika	3.5	
+951219203	bazy_danych	3.5	2.5	
+460379418	programowanie	2	2.5	4	
+407604808	matematyka	4	3.5	4	
+500824734	obliczenia_ziarniste	3.5	
+542000234	logika_rozmyta	4.5	4.5	
+309931976	obliczenia_ziarniste	3	
+336731637	logika_rozmyta	3.5	3	
+261995711	obliczenia_ziarniste	5	
+511577571	egiptologia	3.5	3	4.5	
+522386180	filozofia	3	5	3.5	
+680570125	fizyka	3.5	3.5	
+960769624	bazy_danych	3.5	4.5	4.5	
+311239197	filozofia	4	
+673917809	grafika	4	4.5	
+754441195	programowanie	3.5	3.5	3	
+521750789	logika_rozmyta	4	4	
+847301902	sieci_komputerowe	2.5	4.5	3.5	
+970052629	obliczenia_ziarniste	3	
+896160632	logika_rozmyta	4	
+661172344	logika_rozmyta	3.5	4	3.5	
+975382480	matematyka	4.5	2.5	3	
+985839193	sieci_komputerowe	5	
+448283055	mikroinformatyka	3.5	3.5	
+273747942	logika_rozmyta	4.5	3.5	4.5	
+888336602	egiptologia	3	
+980732794	logika_rozmyta	3.5	2.5	5	
+411419248	bazy_danych	4.5	4	
+639739923	algorytmika	3.5	4.5	
+745440541	fizyka	4	
+644643972	sieci_komputerowe	4	
+272957097	programowanie	3.5	3.5	3	
+382775833	logika_rozmyta	4	2	
+848027357	matematyka	4	4	
+635316513	fizyka	3.5	4.5	
+357222709	programowanie	2.5	3.5	4	
+395240128	filozofia	3	
+475717294	sieci_komputerowe	2.5	4	3	
+855807954	logika_rozmyta	3	4	
+421573637	logika_rozmyta	3.5	3	
+226870525	egiptologia	4	
+260209714	logika_rozmyta	5	5	
+971104060	grafika	4	2.5	4.5	
+935633199	bazy_danych	3.5	4.5	
+644650999	algorytmika	3.5	4.5	
+869217686	sieci_komputerowe	4	4.5	3.5	
+196783146	fizyka	2	3	
+582132147	grafika	4	5	4	
+805048887	egiptologia	4.5	2	3	
+664935961	mikroinformatyka	2.5	3	3.5	
+466628530	algorytmika	4	
+699608951	fizyka	3	2.5	4	
+944209730	bazy_danych	4	
+369783529	fizyka	3.5	2.5	4	
+955832688	bazy_danych	3	4	3.5	
+842480298	logika_rozmyta	2.5	3.5	
+399766855	egiptologia	2.5	3.5	4	
+819004505	egiptologia	3.5	4	
