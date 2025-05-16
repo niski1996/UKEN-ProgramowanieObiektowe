@@ -24,7 +24,7 @@ ASSERT_EQ(zamien("margaryna", "a", ""), "mrgryn");
 ASSERT_EQ(zamien("margaryna", "ar", "x"), "mxgxyna");
 ```
 * napisać funkcję zamien, która przechodzi ten test
-* napisać resztę programu :-) kluczowa struktura danych: `map&lt;string, vector&lt;string>>` odwzorowuje "kanoniczną" postać nazwiska na jego różne zapisy. "Kanoniczna" postać nazwiska, czyli klucz mapy:
+* napisać resztę programu :-) kluczowa struktura danych: `map<string, vector<string>>` odwzorowuje "kanoniczną" postać nazwiska na jego różne zapisy. "Kanoniczna" postać nazwiska, czyli klucz mapy:
 ```
 knazwisko = zamien(nazwisko, "o", "u");
 knazwisko = zamien(knazwisko, "rz", "z");
