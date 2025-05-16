@@ -1,36 +1,37 @@
+Są nazwiska, które można pisać na dwa sposoby, np.
+* Jaskólski, Jaskulski
+* Drohomski, Drochomski
+* Jerzyk, Jeżyk
+
+Oba elementy par ó/u, h/ch, rz/ż czytamy tak samo.
+
+Cel dzisiejszych zajęć: znaleźć wszystkie nazwiska, które można zapisywać
+na więcej niż 1 sposób, posortować je wg liczby sposobów
+zapisu malejąco i wypisać.
+
 1. Google: nazwiska polskie site:gov.pl
 2. Ściągnąć plik CSV (comma-separated values)
-3. Mozna w nim poszukac nazwisk swoich i znajomych :-)
-4. Otworzyć plik CSV w edytorze i pozamieniać na male litery:
-	A, -> a, C' -> c, E, -> e,
-	L/ -> l, N' -> n, O' -> o,
-	S' -> s, Z' -> x, Z. -> z
-Chodzi o to, zeby odrozniac o kreskowane (male o) od duzego O itp.
-Zapisac plik :-)
-5. Sa nazwiska, ktore mozna pisac na dwa sposoby, np.
-	Jasko'lski, Jaskulski
-	Drohomski, Drochomski
-	Jerzyk, Jez.yk
-o'/u, h/ch, rz/z.
-6. Cel: znalezc wszystkie nazwiska, ktore mozna zapisywac
-na wiecej niz 1 sposob, posortowac je wg liczby sposobow
-zapisu malejaco i wypisac
-7. Sposob rozwiazania:
-- napisac test funkcji
-string zamien(const string& s, const string& co, const string& naco)
-	ASSERT_EQ(zamien("margaryna", "a", "aa"), "maargaarynaa");
-	ASSERT_EQ(zamien("margaryna", "a", ""), "mrgryn");
-	ASSERT_EQ(zamien("margaryna", "ar", x"), "mxgxyna");
-- napisac funkcje zamien, ktora przechodzi ten test
-- napisac reszte programu :-)
-kluczowa struktura danych:
-	map<string, vector<string>> odwzorowuje "kanoniczna" postac nazwiska
-na jego rozne zapisy. "Kanoniczna" postac nazwiska, czyli klucz mapy:
-	knazwisko = zamien(nazwisko, "o", "U")
-	knazwisko = zamien(knazwisko, "RZ", "z")
-	knazwisko = zamien(knazwisko, "CH", "H)
-- do tej mapy wczytac wszystkie nazwiska (bez przecinkow i bez licznosci)
-- wyciagnac z tej mapy wartosci, czyli wektory jako vector<vector<string>>
-- posortowac te wektory wedlug malejacej kolejnosci ich dlugosci
-- wypisac te wektory, ktore maja dlugosc > 1
+3. Można w nim poszukać nazwisk swoich i znajomych :-)
+4. Otworzyć plik CSV w edytorze i pozamieniać na małe litery: Ą -> a, Ć -> c, Ę -> e, Ł -> l, Ń -> n, Ó -> o, Ś -> s, Ź -> ź, Ż -> ż Chodzi o to, żeby odróżniać o kreskowane (małe o) od dużego O itp. Zapisać plik :-)
+
+Sposób rozwiązania:
+<!-- end list -->
+
+* napisać test funkcji `string zamien(const string& s, const string& co, const string& naco)`
+```
+ASSERT_EQ(zamien("margaryna", "a", "aa"), "maargaarynaa");
+ASSERT_EQ(zamien("margaryna", "a", ""), "mrgryn");
+ASSERT_EQ(zamien("margaryna", "ar", "x"), "mxgxyna");
+```
+* napisać funkcję zamien, która przechodzi ten test
+* napisać resztę programu :-) kluczowa struktura danych: `map&lt;string, vector&lt;string>>` odwzorowuje "kanoniczną" postać nazwiska na jego różne zapisy. "Kanoniczna" postać nazwiska, czyli klucz mapy:
+```
+knazwisko = zamien(nazwisko, "o", "u");
+knazwisko = zamien(knazwisko, "rz", "z");
+knazwisko = zamien(knazwisko, "ch", "h");
+```
+* do tej mapy wczytać wszystkie nazwiska (bez przecinków i bez liczności)
+* wyciągnąć z tej mapy wartości, czyli wektory jako vector&lt;vector&lt;string>>
+* posortować te wektory według malejącej kolejności ich długości
+* wypisać te wektory, które mają długość > 1
 KONIEC
