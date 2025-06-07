@@ -1,0 +1,27 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        
+        {
+            "name": "Debuguj program (make debug)",
+            "type": "cppdbg",
+            "request": "launch",
+            "program": "${workspaceFolder}/_debug/main",// Upewnij się, że plik main istnieje w tej lokalizacji
+            "args": [], // Dodaj argumenty, jeśli są wymagane
+            "stopAtEntry": false,
+            "cwd": "${workspaceFolder}", // Katalog roboczy projektu
+            "environment": [], // Dodaj zmienne środowiskowe, jeśli są potrzebne
+            "externalConsole": false, // Ustaw na true, jeśli chcesz używać zewnętrznej konsoli
+            "MIMode": "gdb", // Tryb debuggera
+            "setupCommands": [
+                {
+                    "description": "Włącz formatowanie dla GDB",
+                    "text": "-enable-pretty-printing",
+                    "ignoreFailures": true
+                }
+            ],
+            "preLaunchTask": "build-debug", // Upewnij się, że zadanie build-debug istnieje w tasks.json
+            "miDebuggerPath": "/usr/bin/gdb" // Ścieżka do GDB
+        }
+    ]
+}

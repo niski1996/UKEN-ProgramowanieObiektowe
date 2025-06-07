@@ -1,32 +1,105 @@
 #include <algorithm>
 #include <fstream>
+#include <iostream>
 #include <map>
-#include <set>
 #include <string>
 #include <vector>
+#include <cctype>
 
-#include "funkcje.h"
 
 using namespace std;
 
-int main()
-{
-    ifstream strumien_slow("slowa.txt");
-    if (!strumien_slow)
-    {
-        cerr << "Blad otwierania pliku slowa.txt - czy ten plik jest we wlasciwym folderze?\n";
+string zamien(const string& s, const string& co, const string& naco) {
+    string result;
+    size_t pos = 0;
+    size_t found;
+    
+    while ((found = s.find(co, pos)) != string::npos) {
+        result.append(s, pos, found - pos);
+        result.append(naco);
+        pos = found + co.length();
     }
-    set<string> zbior_slow = wczytaj_slowa(strumien_slow);
-    map<string, int> licznik_slow;
-    for (const string &slowo : zbior_slow)
-    {
-        for (const auto &[poczatek, koniec] : podziel_slowo(slowo))
-        {
-            dodaj_1_jesli_poczatek_i_koniec_to_slowa(poczatek, koniec, zbior_slow, &licznik_slow);
+    
+    result.append(s, pos, s.length() - pos);
+    return result;
+}
+
+string kanoniczna_postac(const string& nazwisko) {
+    string k = zamien(nazwisko, "o", "U");
+    k = zamien(k, "RZ", "z");
+    k = zamien(k, "CH", "H");
+    return k;
+}
+vector<string> wczytaj_nazwiska(const string& nazwa_pliku) {
+    vector<string> nazwiska;
+    ifstream plik(nazwa_pliku);
+    string linia;
+
+    if (!plik.is_open()) {
+        cerr << "Nie można otworzyć pliku: " << nazwa_pliku << endl;
+        return nazwiska;
+    }
+
+    getline(plik, linia);
+
+    while (getline(plik, linia)) {
+        size_t przecinek = linia.find(',');
+        if (przecinek != string::npos) {
+            string nazwisko = linia.substr(0, przecinek);
+            if (!nazwisko.empty() && nazwisko.front() == '"' && nazwisko.back() == '"') {
+                nazwisko = nazwisko.substr(1, nazwisko.size() - 2);
+            }
+            nazwiska.push_back(nazwisko);
         }
     }
-    vector<PunktySlowa> punkty_slow = stworz_wektor(licznik_slow);
-    posortuj_wg_punktow_malejaco(&punkty_slow);
-    wypisz_slowa_i_punkty(punkty_slow, cout);
+
+    return nazwiska;
+}
+
+int main() {
+    vector<string> nazwiska = wczytaj_nazwiska("nazwiska.csv");
+    if (nazwiska.empty()) {
+        cerr << "Błąd: Nie wczytano żadnych nazwisk." << endl;
+        return 1;
+    }
+    cout << "Wczytano " << nazwiska.size() << " nazwisk." << endl;
+    
+    map<string, vector<string>> mapa_nazwisk;
+    
+    for (const auto& nazwisko : nazwiska) {
+        string kanoniczna = kanoniczna_postac(nazwisko);
+        if (find(
+            mapa_nazwisk[kanoniczna].begin(), mapa_nazwisk[kanoniczna].end(), nazwisko
+            ) == mapa_nazwisk[kanoniczna].end()) {
+            mapa_nazwisk[kanoniczna].push_back(nazwisko);
+        }
+    }
+    
+    vector<vector<string>> wyniki;
+    for (const auto& para : mapa_nazwisk) {
+        if (para.second.size() > 1) {
+            wyniki.push_back(para.second);
+        }
+    }
+    
+    sort(wyniki.begin(), wyniki.end(), [](const vector<string>& a, const vector<string>& b) {
+        if (a.size() != b.size()) {
+            return a.size() > b.size();
+        }
+        return a[0] < b[0]; 
+    });
+    
+    cout << "\nZnaleziono " << wyniki.size() << " grup nazwisk z wieloma wariantami:" << endl;
+    for (const auto& grupa : wyniki) {
+        cout << "Warianty (" << grupa.size() << "): ";
+        for (size_t i = 0; i < grupa.size(); ++i) {
+            cout << grupa[i];
+            if (i != grupa.size() - 1) {
+                cout << ", ";
+            }
+        }
+        cout << endl;
+    }
+    
     return 0;
 }
